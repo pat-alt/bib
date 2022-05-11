@@ -1,6 +1,6 @@
 ---
 listing:
-    contents: content
+    contents: src/literature
     type: table
     sort: "date desc"
     date-format: YYYY
@@ -9,6 +9,6 @@ listing:
 
 ### Literature overview 
 
-This is a collection of interesting papers and thoughts around Trustworthy AI that I am gradually compiling over time. It also serves as my own interactive notebook. Descriptions of papers vary in length and some are very brief. A list of all references linked here can be found at the bottom. 
+This is a collection of interesting papers and thoughts around Trustworthy AI that I am gradually compiling over time. It also serves as my own interactive notebook. Descriptions of papers vary in length and most are very brief. A list of all references linked here can be found at the bottom. 
 
 ### References
