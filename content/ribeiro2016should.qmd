@@ -1,0 +1,14 @@
+---
+title: "'Why Should I Trust You?' Explaining the Predictions of Any Classifier"
+date: '2016'
+author: |
+    @ribeiro2016should
+categories:
+    - Explainable AI
+    - Surrogate Explainers
+    - Paper
+---
+
+## Description
+
+@ribeiro2016should propose Local Interpretable Model-Agnostic Explanations (LIME): the approach involves generating local perturbations in the input space, deriving predictions from the original classifier and than fitting a white box model (e.g. linear regression) on this synthetic data set. 

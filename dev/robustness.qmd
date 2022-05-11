@@ -1,0 +1,16 @@
+## Robustness {#robustness}
+
+### Background
+
+- @szegedy2013intriguing were the first to point out the existence of adversarial examples in the image classification domain.
+- @goodfellow2014explaining argue that the existence of adversarial examples can be explained solely by the locally-linear nature of artificial neural networks. They show how simple linear perturbation through their *fast gradient sign method* can consistently fool many state-of-the-art neural networks. Adversarial training can improve robustness to some extent, but DNNs are still highly confident with respect to misclassified labels.
+- @carlini2017towards show that an initially promising method for robustifying DNNs, namely *defensive distillation*, is in fact insufficient. They argue that their adversarial attacks should serve as a benchmark for evaluating the robustness of DNNs.
+
+### Thoughts {.thoughts}
+
+:::{.thoughts}
+- **Link to anomaly detection (ING)**
+- **Out-of-distribution detection for time series models (e.g. avoid Covid scenarios leading to model failures [@bholat2020impact])**.
+- If adversarial training affects the success of adversarial attacks, does it also affect success of CE?
+- Can we penalize instability much like we penalize complexity in empirical risk minimization?
+:::

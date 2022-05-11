@@ -1,0 +1,15 @@
+---
+title: "'How Do i Fool You?' Manipulating User Trust via Misleading Black Box Explanations."
+date: '2020'
+author: |
+    @lakkaraju2020fool
+categories:
+    - Explainable AI
+    - Surrogate Explainers
+    - Critique
+    - Paper
+---
+
+## Description
+
+@lakkaraju2020fool show how misleading black box explanations can manipulate users into trusting an untrustworthy model. 

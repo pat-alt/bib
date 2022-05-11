@@ -1,0 +1,27 @@
+## Applications {#applications}
+
+### Credit and risk scoring
+
+- The literature on algorithmic recourse commonly relates the methodology to the example of loan approval [e.g. @karimi2021algorithmic; @upadhyay2021towards]
+- @kuiper2021exploring present a number of example use cases of AI in the context of consumer credit.
+
+### Financial Stability
+
+- AI robustness and the Covid crisis - negative impact of ML on model performance [@bholat2020impact].
+- Potential for herding behaviour if large share of market participants uses off-the-shelf ML tools [@oecd2021artificial].
+
+### Market Microstructure
+
+- ML model collusion hard to detect [@oecd2021artificial]. 
+- Lack of explainability inhibits timely model adjustments [@oecd2021artificial].
+- Intentional lack of transparency for proprietary trading [@oecd2021artificial].
+
+### SupTech and RegTech
+
+- Market participants may start using AI to self-regulate in a transparent, trustworthy way [@oecd2021artificial].
+- Simalarly, financial regulators are already employing AI for the purpose of supervision.
+
+### Monetary policy and forecasting
+
+- In @altmeyer2021deep we show how to incorporate deep learning in the context of Vector Autoregression for macroeconomic data.
+

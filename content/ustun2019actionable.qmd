@@ -1,0 +1,14 @@
+---
+title: "Actionable Recourse in Linear Classification."
+date: '2019'
+author: |
+    @ustun2019actionable
+categories:
+    - Explainable AI
+    - Counterfactual Explanations
+    - Paper
+---
+
+## Description
+
+@ustun2019actionable propose a framework for *actionable* recourse in the context of linear classifiers.

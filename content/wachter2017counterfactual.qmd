@@ -1,0 +1,14 @@
+---
+title: "Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR."
+date: '2017'
+author: |
+    @wachter2017counterfactual
+categories:
+    - Explainable AI
+    - Counterfactual Explanations
+    - Paper
+---
+
+## Description
+
+@wachter2017counterfactual were among the first to propose counterfactual explanations that do not require knowledge about the inner workings of a black box model. 

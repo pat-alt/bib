@@ -1,0 +1,15 @@
+---
+title: "Fooling Lime and Shap: Adversarial Attacks on Post Hoc Explanation Methods."
+date: '2020'
+author: |
+    @slack2020fooling
+categories:
+    - Explainable AI
+    - Surrogate Explainers
+    - Critique
+    - Paper
+---
+
+## Description
+
+@slack2020fooling demonstrate that both LIME and SHAP are not reliable: their reliance on feature perturbations makes them susceptible to adversarial attacks.

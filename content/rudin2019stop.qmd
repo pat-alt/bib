@@ -1,0 +1,15 @@
+---
+title: "Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead."
+date: '2019'
+author: |
+    @rudin2019stop
+categories:
+    - Explainable AI
+    - Surrogate Explainers
+    - Critique
+    - Paper
+---
+
+## Description
+
+@rudin2019stop argues that instead of bothering with explanations for black box models we should focus on designing inherently interpretable models. In her view the trade-off between (intrinsic) explainability and performance is not as clear-cut as people claim.

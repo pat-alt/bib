@@ -1,3 +1,3 @@
 # bib
 
-A repo containing nothing but a globally managed .bib file, to be used as a git submodule in other repos. 
+This repo is used to centrally manage my references. It also builds a simple website that provides an overview of the literature included here. 

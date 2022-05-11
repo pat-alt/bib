@@ -1,0 +1,9 @@
+## Annex {#annex}
+
+### Other random thoughts
+
+- Explainability in the context of (deep) reinforcement learning for RecSys.
+- Regime-switching/structural break detection for non-stationary multi-armed bandits (RecSys).
+- RecSys and lessons from behavioural sciences: default choices, menu sizes, goals.
+- Link between GNN and DAG.
+

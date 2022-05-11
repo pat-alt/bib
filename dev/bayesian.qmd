@@ -1,0 +1,31 @@
+## Bayesian Deep Learning {#bayesian}
+
+### Background
+
+- @jospin2020hands provide a detailed and hands-on introduction to Bayesian Deep Learning.
+- @murphy2022probabilistic is a text book that treats machine learning from a probabilistic perspective. It includes sections dedicated to deep learning.
+
+### Interpretability
+
+- @ish2019interpreting proposes an entropy-based measure for interpreting Bayesian Neural Networks. For a summary see [here](https://pat-alt.github.io/2021/02/07/a-peek-inside-the-black-box-interpreting-neural-networks/).
+
+### Uncertainty quantification and applications
+
+- @gal2016dropout demonstrate that a dropout neural network is equivalent to approximate inference in Bayesian modelling of deep Gaussian processes. This makes it straight-forward to quantify uncertainty in deep learning through simple Monte-Carlo methods.
+- @gal2017deep propose a way towards deep active Bayesian learning that plays with the ideas of aleatoric and epsitemic uncertainty: a structured approach to human-in-the-loop deep learning that can work with small data sets.
+    - @kirsch2019batchbald extend these ideas.
+
+### Computational efficiency
+
+- Quantum computing likely to make probabilistic modelling more computationally efficient. @kehoe2021defence propose a Bayesian approach to DL using quantum processors that promises to be more robust than conventional DNNs.
+- Using simple concentration inequalities Maxim Panov proposes a measure for total uncertainty of Deep Neural Networks (no numerical methods needed) -- missing a paper references here.
+
+::: {.thoughts}
+- **Compare explainability in Bayesian setting (e.g. RATE [@ish2019interpreting]) to surrogate (and counterfactual) explainers? (ING models)**
+- Link to AFR track on quantum ML.
+- Link to uncertainty quantification for Deep Vector Autoregression [@agusti2021deep].
+:::
+
+    
+
+

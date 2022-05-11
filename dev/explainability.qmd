@@ -1,0 +1,45 @@
+## Explainability {#explainability}
+
+### Surrogate Explainers
+
+- @ribeiro2016should propose Local Interpretable Model-Agnostic Explanations (LIME): the approach involves generating local perturbations in the input space, deriving predictions from the original classifier and than fitting a white box model (e.g. linear regression) on this synthetic data set. 
+- @lundberg2017unified propose SHAP as a provably unified approach to additive feature attribution methods (including LIME) with certain desiderata. Contrary to LIME, this approach involves permuting through the feature space and checking how different features impact model predictions when they are included in the permutations.
+
+### Criticism (Surrogate Explainers)
+
+> "Explanatory models by definition do not produce 100% reliable explanations, because they are approximations. This means explanations can’t be fully trusted, and so neither can the original model."
+-- [causaLens](https://www.causalens.com/blog/xai-doesnt-explain/), 2021
+
+- @mittelstadt2019explaining points out that there is a gap in the understanding of what explanations are between computer scientists and explanation scientists (social scientists, cognitive scientists, pyschologists, ...). Current methods produce at best locally reliable explanations. There needs to be shift towards *interactive* explanations.
+- @rudin2019stop argues that instead of bothering with explanations for black box models we should focus on designing inherently interpretable models. In her view the trade-off between (intrinsic) explainability and performance is not as clear-cut as people claim.
+- @lakkaraju2020fool show how misleading black box explanations can manipulate users into trusting an untrustworthy model. 
+- @slack2020fooling demonstrate that both LIME and SHAP are not reliable: their reliance on feature perturbations makes them susceptible to adversarial attacks.
+
+::: {.thoughts}
+- Can we quantify robustness of surrogate explainers?
+- Comparison of different complexity measures.
+- Design surrogate explainer that incorporates causality.
+- Surrogate explainers by definition are approximations of black box models, so can never be 100% trusted.
+- Adversarially robust surrogate explainers by minimizing divergence between observed and perturbed data. [@slack2020fooling]
+:::
+
+### Counterfactual Explanations (CE)
+
+- @wachter2017counterfactual were among the first to propose counterfactual explanations that do not require knowledge about the inner workings of a black box model. 
+- @ustun2019actionable propose a framework for *actionable* recourse in the context of linear classifiers.
+- @joshi2019towards extend the framework of @ustun2019actionable. Their proposed REVISE method is applicable to a broader class of models including black box classifiers and structural causal models. For a summary see [here](https://pat-alt.github.io/2021/04/27/individual-recourse-for-black-box-models/) and for a set of slides see [here](https://pat-alt.github.io/2021/04/27/individual-recourse-for-black-box-models/paper_presentation.pdf).
+- @poyiadzi2020face propose FACE: feasible and actionable counterfactual explanations. The premise is that the shortest distance to the decision boundary may not be a desirable counterfactual.
+- @schut2021generating introduce Bayesian modelling to the context of CE: their approach implicitly minimizes *aleatoric* and *epistemic* uncertainty to generate a CE that us *unambiguous* and *realistic*, respectively. 
+
+::: {.thoughts}
+- **Test what counterfactual explanations are most desirable through user study at ING**
+- Design counterfactual explanations that incorporate causality
+    - **There are in fact several very recent papers (including @joshi2019towards) that link CGMs to counterfactual explanations** (see below)
+- Time series: what is the link to counterfactual analysis in multivariate time series? (e.g. chapter 4 in @kilian2017structural)
+- What about the continuous outcome variables? (e.g. target inflation rate, ... ING cases?)
+- How do counterfactual explainers fare where LIME/SHAP fail? [@slack2020fooling]
+- Can counterfactual explainers be fooled much like LIME/SHAP?
+- Can we establish a link between counterfactual and surrogate explainers? Important attributes identified by LIME/SHAP should play a prominent role in counterfactuals.
+- Can counterfactual explainers be used to detect adversarial examples?
+- Limiting behaviour: what happens if all individual with negative outcome move across the original decision boundary?
+::: 

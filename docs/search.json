@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "content/ribeiro2016should.html",
+    "href": "content/ribeiro2016should.html",
+    "title": "‘Why Should I Trust You?’ Explaining the Predictions of Any Classifier",
+    "section": "",
+    "text": "References\n\nRibeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. 2016. “\"Why Should i Trust You?\" Explaining the Predictions of Any Classifier.” In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1135–44."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Literature 📚 ",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n2020\n\n\n‘How Do i Fool You?’ Manipulating User Trust via Misleading Black Box Explanations.\n\n\nLakkaraju and Bastani (2020)\n\n\n\n\n2020\n\n\nFooling Lime and Shap: Adversarial Attacks on Post Hoc Explanation Methods.\n\n\nSlack et al. (2020)\n\n\n\n\n2019\n\n\nActionable Recourse in Linear Classification.\n\n\nUstun, Spangher, and Liu (2019)\n\n\n\n\n2019\n\n\nStop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.\n\n\nRudin (2019)\n\n\n\n\n2019\n\n\nExplaining Explanations in AI.\n\n\nMittelstadt, Russell, and Wachter (2019)\n\n\n\n\n2017\n\n\nCounterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR.\n\n\nWachter, Mittelstadt, and Russell (2017)\n\n\n\n\n2017\n\n\nA Unified Approach to Interpreting Model Predictions.\n\n\nLundberg and Lee (2017)\n\n\n\n\n2016\n\n\n‘Why Should I Trust You?’ Explaining the Predictions of Any Classifier\n\n\nRibeiro, Singh, and Guestrin (2016)\n\n\n\n\n\nNo matching items\n\nReferences\n\nLakkaraju, Himabindu, and Osbert Bastani. 2020. “\" How Do i Fool You?\" Manipulating User Trust via Misleading Black Box Explanations.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 79–85.\n\n\nLundberg, Scott M, and Su-In Lee. 2017. “A Unified Approach to Interpreting Model Predictions.” In Proceedings of the 31st International Conference on Neural Information Processing Systems, 4768–77.\n\n\nMittelstadt, Brent, Chris Russell, and Sandra Wachter. 2019. “Explaining Explanations in AI.” In Proceedings of the Conference on Fairness, Accountability, and Transparency, 279–88.\n\n\nRibeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. 2016. “\"Why Should i Trust You?\" Explaining the Predictions of Any Classifier.” In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1135–44.\n\n\nRudin, Cynthia. 2019. “Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.” Nature Machine Intelligence 1 (5): 206–15.\n\n\nSlack, Dylan, Sophie Hilgard, Emily Jia, Sameer Singh, and Himabindu Lakkaraju. 2020. “Fooling Lime and Shap: Adversarial Attacks on Post Hoc Explanation Methods.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 180–86.\n\n\nUstun, Berk, Alexander Spangher, and Yang Liu. 2019. “Actionable Recourse in Linear Classification.” In Proceedings of the Conference on Fairness, Accountability, and Transparency, 10–19.\n\n\nWachter, Sandra, Brent Mittelstadt, and Chris Russell. 2017. “Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR.” Harv. JL & Tech. 31: 841."
+  },
+  {
+    "objectID": "dev/causal_ai.html",
+    "href": "dev/causal_ai.html",
+    "title": "Trustworthy AI for Finance and Economics",
+    "section": "",
+    "text": "References\n\nBussmann, Bart, Jannes Nys, and Steven Latré. 2020. “Neural Additive Vector Autoregression Models for Causal Discovery in Time Series Data.” arXiv Preprint arXiv:2010.09429.\n\n\nJoshi, Shalmali, Oluwasanmi Koyejo, Warut Vijitbenjaronk, Been Kim, and Joydeep Ghosh. 2019. “Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems.” arXiv Preprint arXiv:1907.09615.\n\n\nKarimi, Amir-Hossein, Bernhard Schölkopf, and Isabel Valera. 2021. “Algorithmic Recourse: From Counterfactual Explanations to Interventions.” In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 353–62.\n\n\nKarimi, Amir-Hossein, Julius Von Kügelgen, Bernhard Schölkopf, and Isabel Valera. 2020. “Algorithmic Recourse Under Imperfect Causal Knowledge: A Probabilistic Approach.” arXiv Preprint arXiv:2006.06831.\n\n\nLachapelle, Sébastien, Philippe Brouillard, Tristan Deleu, and Simon Lacoste-Julien. 2019. “Gradient-Based Neural Dag Learning.” arXiv Preprint arXiv:1906.02226.\n\n\nPearl, Judea. 2019. “The Seven Tools of Causal Inference, with Reflections on Machine Learning.” Communications of the ACM 62 (3): 54–60.\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. Basic books.\n\n\nSchut, Lisa, Oscar Key, Rory Mc Grath, Luca Costabello, Bogdan Sacaleanu, Yarin Gal, et al. 2021. “Generating Interpretable Counterfactual Explanations by Implicit Minimisation of Epistemic and Aleatoric Uncertainties.” In International Conference on Artificial Intelligence and Statistics, 1756–64. PMLR.\n\n\nZheng, Xun, Bryon Aragam, Pradeep Ravikumar, and Eric P Xing. 2018. “Dags with No Tears: Continuous Optimization for Structure Learning.” arXiv Preprint arXiv:1803.01422."
+  },
+  {
+    "objectID": "dev/explainability.html",
+    "href": "dev/explainability.html",
+    "title": "Trustworthy AI for Finance and Economics",
+    "section": "",
+    "text": "References\n\nJoshi, Shalmali, Oluwasanmi Koyejo, Warut Vijitbenjaronk, Been Kim, and Joydeep Ghosh. 2019. “Towards Realistic Individual Recourse and Actionable Explanations in Black-Box Decision Making Systems.” arXiv Preprint arXiv:1907.09615.\n\n\nKilian, Lutz, and Helmut Lütkepohl. 2017. Structural Vector Autoregressive Analysis. Cambridge University Press.\n\n\nLakkaraju, Himabindu, and Osbert Bastani. 2020. “\" How Do i Fool You?\" Manipulating User Trust via Misleading Black Box Explanations.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 79–85.\n\n\nLundberg, Scott M, and Su-In Lee. 2017. “A Unified Approach to Interpreting Model Predictions.” In Proceedings of the 31st International Conference on Neural Information Processing Systems, 4768–77.\n\n\nMittelstadt, Brent, Chris Russell, and Sandra Wachter. 2019. “Explaining Explanations in AI.” In Proceedings of the Conference on Fairness, Accountability, and Transparency, 279–88.\n\n\nPoyiadzi, Rafael, Kacper Sokol, Raul Santos-Rodriguez, Tijl De Bie, and Peter Flach. 2020. “FACE: Feasible and Actionable Counterfactual Explanations.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 344–50.\n\n\nRibeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. 2016. “\"Why Should i Trust You?\" Explaining the Predictions of Any Classifier.” In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1135–44.\n\n\nRudin, Cynthia. 2019. “Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.” Nature Machine Intelligence 1 (5): 206–15.\n\n\nSchut, Lisa, Oscar Key, Rory Mc Grath, Luca Costabello, Bogdan Sacaleanu, Yarin Gal, et al. 2021. “Generating Interpretable Counterfactual Explanations by Implicit Minimisation of Epistemic and Aleatoric Uncertainties.” In International Conference on Artificial Intelligence and Statistics, 1756–64. PMLR.\n\n\nSlack, Dylan, Sophie Hilgard, Emily Jia, Sameer Singh, and Himabindu Lakkaraju. 2020. “Fooling Lime and Shap: Adversarial Attacks on Post Hoc Explanation Methods.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 180–86.\n\n\nUstun, Berk, Alexander Spangher, and Yang Liu. 2019. “Actionable Recourse in Linear Classification.” In Proceedings of the Conference on Fairness, Accountability, and Transparency, 10–19.\n\n\nWachter, Sandra, Brent Mittelstadt, and Chris Russell. 2017. “Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR.” Harv. JL & Tech. 31: 841."
+  },
+  {
+    "objectID": "dev/annex.html",
+    "href": "dev/annex.html",
+    "title": "Trustworthy AI for Finance and Economics",
+    "section": "",
+    "text": "Explainability in the context of (deep) reinforcement learning for RecSys.\nRegime-switching/structural break detection for non-stationary multi-armed bandits (RecSys).\nRecSys and lessons from behavioural sciences: default choices, menu sizes, goals.\nLink between GNN and DAG."
+  },
+  {
+    "objectID": "dev/applications.html",
+    "href": "dev/applications.html",
+    "title": "Trustworthy AI for Finance and Economics",
+    "section": "",
+    "text": "References\n\nAltmeyer, Patrick, Marc Agusti, and Ignacio Vidal-Quadras Costa. 2021. “Deep Vector Autoregression for Macroeconomic Data.” https://thevoice.bse.eu/wp-content/uploads/2021/07/ds21-project-agusti-et-al.pdf.\n\n\nBholat, D, M Gharbawi, and O Thew. 2020. “The Impact of Covid on Machine Learning and Data Science in UK Banking.” Bank of England Quarterly Bulletin, Q4.\n\n\nKarimi, Amir-Hossein, Bernhard Schölkopf, and Isabel Valera. 2021. “Algorithmic Recourse: From Counterfactual Explanations to Interventions.” In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 353–62.\n\n\nKuiper, Ouren, Martin van den Berg, Joost van den Burgt, and Stefan Leijnen. 2021. “Exploring Explainable AI in the Financial Sector: Perspectives of Banks and Supervisory Authorities.” arXiv Preprint arXiv:2111.02244.\n\n\nOECD. 2021. “Artificial Intelligence, Machine Learning and Big Data in Finance: Opportunities, Challenges and Implications for Policy Makers.” OECD. 2021. https://www.oecd.org/finance/financial-markets/Artificial-intelligence-machine-learning-big-data-in-finance.pdf.\n\n\nUpadhyay, Sohini, Shalmali Joshi, and Himabindu Lakkaraju. 2021. “Towards Robust and Reliable Algorithmic Recourse.” arXiv Preprint arXiv:2102.13620."
+  },
+  {
+    "objectID": "dev/robustness.html",
+    "href": "dev/robustness.html",
+    "title": "Trustworthy AI for Finance and Economics",
+    "section": "",
+    "text": "References\n\nBholat, D, M Gharbawi, and O Thew. 2020. “The Impact of Covid on Machine Learning and Data Science in UK Banking.” Bank of England Quarterly Bulletin, Q4.\n\n\nCarlini, Nicholas, and David Wagner. 2017. “Towards Evaluating the Robustness of Neural Networks.” In 2017 Ieee Symposium on Security and Privacy (Sp), 39–57. IEEE.\n\n\nGoodfellow, Ian J, Jonathon Shlens, and Christian Szegedy. 2014. “Explaining and Harnessing Adversarial Examples.” arXiv Preprint arXiv:1412.6572.\n\n\nSzegedy, Christian, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, and Rob Fergus. 2013. “Intriguing Properties of Neural Networks.” arXiv Preprint arXiv:1312.6199."
+  },
+  {
+    "objectID": "dev/bayesian.html",
+    "href": "dev/bayesian.html",
+    "title": "Trustworthy AI for Finance and Economics",
+    "section": "",
+    "text": "References\n\nGal, Yarin, and Zoubin Ghahramani. 2016. “Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning.” In International Conference on Machine Learning, 1050–59. PMLR.\n\n\nGal, Yarin, Riashat Islam, and Zoubin Ghahramani. 2017. “Deep Bayesian Active Learning with Image Data.” In International Conference on Machine Learning, 1183–92. PMLR.\n\n\nIsh-Horowicz, Jonathan, Dana Udwin, Seth Flaxman, Sarah Filippi, and Lorin Crawford. 2019. “Interpreting Deep Neural Networks Through Variable Importance.” arXiv Preprint arXiv:1901.09839.\n\n\nJospin, Laurent Valentin, Wray Buntine, Farid Boussaid, Hamid Laga, and Mohammed Bennamoun. 2020. “Hands-on Bayesian Neural Networks–a Tutorial for Deep Learning Users.” arXiv Preprint arXiv:2007.06823.\n\n\nKehoe, Aidan, Peter Wittek, Yanbo Xue, and Alejandro Pozas-Kerstjens. 2021. “Defence Against Adversarial Attacks Using Classical and Quantum-Enhanced Boltzmann Machines.” Machine Learning: Science and Technology.\n\n\nKirsch, Andreas, Joost Van Amersfoort, and Yarin Gal. 2019. “Batchbald: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning.” Advances in Neural Information Processing Systems 32: 7026–37.\n\n\nMurphy, Kevin P. 2022. Probabilistic Machine Learning: An Introduction. MIT Press."
+  },
+  {
+    "objectID": "content/lundberg2017unified.html",
+    "href": "content/lundberg2017unified.html",
+    "title": "A Unified Approach to Interpreting Model Predictions.",
+    "section": "",
+    "text": "References\n\nLundberg, Scott M, and Su-In Lee. 2017. “A Unified Approach to Interpreting Model Predictions.” In Proceedings of the 31st International Conference on Neural Information Processing Systems, 4768–77."
+  },
+  {
+    "objectID": "content/lakkaraju2020fool.html",
+    "href": "content/lakkaraju2020fool.html",
+    "title": "‘How Do i Fool You?’ Manipulating User Trust via Misleading Black Box Explanations.",
+    "section": "",
+    "text": "References\n\nLakkaraju, Himabindu, and Osbert Bastani. 2020. “\" How Do i Fool You?\" Manipulating User Trust via Misleading Black Box Explanations.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 79–85."
+  },
+  {
+    "objectID": "content/ustun2019actionable.html",
+    "href": "content/ustun2019actionable.html",
+    "title": "Actionable Recourse in Linear Classification.",
+    "section": "",
+    "text": "References\n\nUstun, Berk, Alexander Spangher, and Yang Liu. 2019. “Actionable Recourse in Linear Classification.” In Proceedings of the Conference on Fairness, Accountability, and Transparency, 10–19."
+  },
+  {
+    "objectID": "content/rudin2019stop.html",
+    "href": "content/rudin2019stop.html",
+    "title": "Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.",
+    "section": "",
+    "text": "References\n\nRudin, Cynthia. 2019. “Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead.” Nature Machine Intelligence 1 (5): 206–15."
+  },
+  {
+    "objectID": "content/slack2020fooling.html",
+    "href": "content/slack2020fooling.html",
+    "title": "Fooling Lime and Shap: Adversarial Attacks on Post Hoc Explanation Methods.",
+    "section": "",
+    "text": "References\n\nSlack, Dylan, Sophie Hilgard, Emily Jia, Sameer Singh, and Himabindu Lakkaraju. 2020. “Fooling Lime and Shap: Adversarial Attacks on Post Hoc Explanation Methods.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 180–86."
+  },
+  {
+    "objectID": "content/wachter2017counterfactual.html",
+    "href": "content/wachter2017counterfactual.html",
+    "title": "Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR.",
+    "section": "",
+    "text": "References\n\nWachter, Sandra, Brent Mittelstadt, and Chris Russell. 2017. “Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR.” Harv. JL & Tech. 31: 841."
+  },
+  {
+    "objectID": "content/mittelstadt2019explaining.html",
+    "href": "content/mittelstadt2019explaining.html",
+    "title": "Explaining Explanations in AI.",
+    "section": "",
+    "text": "References\n\nMittelstadt, Brent, Chris Russell, and Sandra Wachter. 2019. “Explaining Explanations in AI.” In Proceedings of the Conference on Fairness, Accountability, and Transparency, 279–88."
+  }
+]

@@ -1,0 +1,29 @@
+## Causal AI {#causal-ai}
+
+### Background
+
+- There is an emerging view that that current efforts towards interpretability and robustness are fruitless and only an incorporation of causality can provide answers [@pearl2018book].
+- @pearl2019seven argues that AI is current stuck at the *association* level: models are limited to learning $P(y|X)$ ("glorified curve fitting"). Starting from causal graphical models (CGM) improves transparency and domain adaptability.
+
+### Structure learning
+
+- @zheng2018dags proposes to cast the combinatorial problem of learning a CGM into a continuous problem that can be learned through standard non-convex constrained optimization for linear structural equation models (SEM).
+- @lachapelle2019gradient extend this idea to the non-linear case.
+- @bussmann2020neural propose Neural Additive Vector Autoregression (NAVAR) for (Granger) causal discovery in time series setting. The model can be seen as a Generalised Additive Model and is therefore inherently (somewhat) interpretable. It is based on the assumption that contemporary dependencies between variables are linear, only dependencies through time require non-linear model.
+
+### Link to CE and algorithmic recourse {#causal-ce}
+
+- @joshi2019towards make an interesting link between CGM and counterfactual explanations: they draw an analogy between hidden confounders in CGMs and the latent manifold which REVISE traverses to propose recourse. Run a single experiment on TWIN dataset and show that recommended recourse changes qualitatively as confounding is introduced.
+- @karimi2020algorithmic develop two probabilistic approaches to algorithmic recourse in the case of limited causal knowledge.
+    - In essence the probabilistic approach boils down to assuming a Gaussian Process prior for the causal mapping parent nodes to node $X$. This yields a *posterior noise distribution*, which in turn can be used to draw from a *counterfactual distribution*.
+- @karimi2021algorithmic demonstrate how to go from counterfactuals to interventions in the case of complete knowledge of the CGM. Propose a shift of paradigm from *recourse via counterfactuals* to *recourse through minimal interventions*.
+
+::: {.thoughts}
+- Can explore the link between CGM and CE further, perhaps in the context of Bayesian classifier [@schut2021generating].
+    - **In particular, it might be possible to draw an analogue between @schut2021generating (low epistemic + aleatoric uncertainty) and the counterfactual distribution proposed by @karimi2020algorithmic. Could further try to account for hidden confounders as in @joshi2019towards.**
+- @karimi2021algorithmic can be solved through by building on existing frameworks for generating nearest counterfactual explanations - could try to apply @schut2021generating?
+- **Applications at ING?**
+    - Apply to loan application decision system (if exists)
+    - Apply to credit scoring (perhaps even Dutch government scandal)
+    - ...
+:::

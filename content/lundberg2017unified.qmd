@@ -1,0 +1,14 @@
+---
+title: "A Unified Approach to Interpreting Model Predictions."
+date: '2017'
+author: |
+    @lundberg2017unified
+categories:
+    - Explainable AI
+    - Surrogate Explainers
+    - Paper
+---
+
+## Description
+
+@lundberg2017unified propose SHAP as a provably unified approach to additive feature attribution methods (including LIME) with certain desiderata. Contrary to LIME, this approach involves permuting through the feature space and checking how different features impact model predictions when they are included in the permutations.

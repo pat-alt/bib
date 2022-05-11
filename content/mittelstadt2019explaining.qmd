@@ -1,0 +1,14 @@
+---
+title: "Explaining Explanations in AI."
+date: '2019'
+author: |
+    @mittelstadt2019explaining
+categories:
+    - Explainable AI
+    - Critique
+    - Paper
+---
+
+## Description
+
+@mittelstadt2019explaining points out that there is a gap in the understanding of what explanations are between computer scientists and explanation scientists (social scientists, cognitive scientists, pyschologists, ...). Current methods produce at best locally reliable explanations. There needs to be shift towards *interactive* explanations.
