@@ -1,0 +1,51 @@
+---
+title: "Explainable Artificial Intelligence: Interpreting Default Forecasting Models Based on Machine Learning"
+date: '2022'
+author: |
+    @cascarino2022explainable
+categories:
+    - Explainable AI
+    - Surrogate Explainers
+    - Credit
+    - Paper
+---
+
+## Description
+
+- Build large firm-level dataset to explain in-house target variable: default risk.
+- Train random forest.
+- Apply XAI methods. 
+
+- *explainable AI*: 
+    - What are important features?
+    - How are predictors linked to the output?
+    - Local explanations for predictions
+
+## Motivation
+
+- Detect biases.
+- Detect distribution shift.
+- Increase robustness against adversarial attacks.
+- Learning and causality.
+- Legal constraints.
+- Increase trust.
+
+## Explainability and credit scoring
+
+- Subjects are entitled to understand reasons for decisions.
+
+## Method
+
+- Focus on post-hoc model-agnostic methods 
+
+1. Permutation variable importance: which variables are most important?
+    - Random permute variables (test data) and compute similarity between two sets of predictions.
+2. Dependency plots: what are the relationships between variables and models?
+    - Shift variable of interest (ceteris paribus) and check how predictions change. 
+3. Shapley values: how do different predictors contribute to predictions?
+    - Distribute the difference between average predicitons of the model and the specific prediction of a predictor
+
+- LIME: mimics neighbourhood
+- Counterfactual Explanations: too many solutions
+
+
