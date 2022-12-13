@@ -9894,7 +9894,7 @@
 	pages = {arXiv--1509},
 	title = {Optimal Subsampling Approaches for Large Sample Linear Regression}}
 
-@Article{barber2021predictive,
+@Article{Barber2021PredictiveInferencewiththeJackknife,
   author       = {Barber, Rina Foygel and Candès, Emmanuel J. and Ramdas, Aaditya and Tibshirani, Ryan J.},
   date         = {2021-02},
   journaltitle = {The Annals of Statistics},
