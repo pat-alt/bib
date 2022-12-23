@@ -618,7 +618,7 @@
 	title = {The Stability of Behavior: {{I}}. {{On}} Predicting Most of the People Much of the Time.},
 	volume = {37}}
 
-@Online{fairness,
+@Online{barocas2022fairness,
   author        = {Solon Barocas and Moritz Hardt and Arvind Narayanan},
   date          = {2022-12-23},
   title         = {Fairness and Machine Learning},

@@ -618,8 +618,9 @@
 	title = {The Stability of Behavior: {{I}}. {{On}} Predicting Most of the People Much of the Time.},
 	volume = {37}}
 
-@Online{fairness,
-  author        = {Solon Barocas; Moritz Hardt, Arvind Narayanan},
+@Online{barocas2022fairness,
+  author        = {Solon Barocas and Moritz Hardt and Arvind Narayanan},
+  date          = {2022-12-23},
   title         = {Fairness and Machine Learning},
   url           = {https://fairmlbook.org/index.html},
   urldate       = {2022-11-08},
@@ -2281,5 +2282,4 @@
 @article{witten2009penalized,
 	author = {Witten, Daniela M and Tibshirani, Robert and Hastie, Trevor},
 	date = {2009},
-	date-added = {2022-12-13 12:58:01 +0100},
-	date-modified = {
+	date-added 
