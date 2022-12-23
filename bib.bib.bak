@@ -618,13 +618,16 @@
 	title = {The Stability of Behavior: {{I}}. {{On}} Predicting Most of the People Much of the Time.},
 	volume = {37}}
 
-@online{fairness,
-	date-added = {2022-12-13 12:58:01 +0100},
-	date-modified = {2022-12-13 12:58:01 +0100},
-	title = {Fairness and Machine Learning},
-	url = {https://fairmlbook.org/index.html},
-	urldate = {2022-11-08},
-	bdsk-url-1 = {https://fairmlbook.org/index.html}}
+@Online{fairness,
+  author        = {Solon Barocas and Moritz Hardt and Arvind Narayanan},
+  date          = {2022-12-23},
+  title         = {Fairness and Machine Learning},
+  url           = {https://fairmlbook.org/index.html},
+  urldate       = {2022-11-08},
+  bdsk-url-1    = {https://fairmlbook.org/index.html},
+  date-added    = {2022-12-13 12:58:01 +0100},
+  date-modified = {2022-12-13 12:58:01 +0100},
+}
 
 @article{falk2006clean,
 	author = {Falk, Armin and Ichino, Andrea},
@@ -2367,6 +2370,20 @@
   file         = {:Barber2021 - Predictive Inference with the Jackknife+.pdf:PDF},
   keywords     = {62F40, 62G08, 62G09, conformal inference, cross-validation, distribution-free, jackknife, leave-one-out, stability},
   publisher    = {Institute of Mathematical Statistics},
+}
+
+@TechReport{chouldechova2018frontiers,
+  author      = {Chouldechova, Alexandra and Roth, Aaron},
+  date        = {2018-10},
+  institution = {arXiv},
+  title       = {The {Frontiers} of {Fairness} in {Machine} {Learning}},
+  doi         = {10.48550/arXiv.1810.08810},
+  note        = {arXiv:1810.08810 [cs, stat] type: article},
+  url         = {http://arxiv.org/abs/1810.08810},
+  urldate     = {2022-12-23},
+  abstract    = {The last few years have seen an explosion of academic and popular interest in algorithmic fairness. Despite this interest and the volume and velocity of work that has been produced recently, the fundamental science of fairness in machine learning is still in a nascent state. In March 2018, we convened a group of experts as part of a CCC visioning workshop to assess the state of the field, and distill the most promising research directions going forward. This report summarizes the findings of that workshop. Along the way, it surveys recent theoretical work in the field and points towards promising directions for research.},
+  file        = {:chouldechova2018frontiers - The Frontiers of Fairness in Machine Learning.pdf:PDF},
+  keywords    = {Computer Science - Machine Learning, Computer Science - Data Structures and Algorithms, Computer Science - Computer Science and Game Theory, Statistics - Machine Learning},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
