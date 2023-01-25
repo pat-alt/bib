@@ -1,3 +1,11 @@
+@InProceedings{altmeyer2023endogenous,
+  author    = {Altmeyer, Patrick and Angela, Giovan and Buszydlik, Aleksander and Dobiczek, Karol and van Deursen, Arie and Liem, Cynthia},
+  booktitle = {First {IEEE} {Conference} on {Secure} and {Trustworthy} {Machine} {Learning}},
+  date      = {2023},
+  title     = {Endogenous {Macrodynamics} in {Algorithmic} {Recourse}},
+  file      = {:altmeyerendogenous - Endogenous Macrodynamics in Algorithmic Recourse.pdf:PDF},
+}
+
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
@@ -2266,20 +2274,4 @@
 	journaltitle = {Machine learning},
 	number = {1},
 	pages = {69--101},
-	title = {Learning in the Presence of Concept Drift and Hidden Contexts},
-	volume = {23}}
-
-@unpublished{wilson2020case,
-	archiveprefix = {arXiv},
-	author = {Wilson, Andrew Gordon},
-	date = {2020},
-	date-added = {2022-12-13 12:58:01 +0100},
-	date-modified = {2022-12-13 12:58:01 +0100},
-	eprint = {2001.10995},
-	eprinttype = {arxiv},
-	title = {The Case for {{Bayesian}} Deep Learning}}
-
-@article{witten2009penalized,
-	author = {Witten, Daniela M and Tibshirani, Robert and Hastie, Trevor},
-	date = {2009},
-	date-added 
+	title = {Learning in the Presence of Concept Drift
