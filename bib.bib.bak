@@ -1,3 +1,11 @@
+@InProceedings{altmeyer2023endogenous,
+  author    = {Altmeyer, Patrick and Angela, Giovan and Buszydlik, Aleksander and Dobiczek, Karol and van Deursen, Arie and Liem, Cynthia},
+  booktitle = {First {IEEE} {Conference} on {Secure} and {Trustworthy} {Machine} {Learning}},
+  date      = {2023},
+  title     = {Endogenous {Macrodynamics} in {Algorithmic} {Recourse}},
+  file      = {:altmeyerendogenous - Endogenous Macrodynamics in Algorithmic Recourse.pdf:PDF},
+}
+
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
