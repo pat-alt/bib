@@ -1,3 +1,12 @@
+@Online{mw2023fidelity,
+  title        = {"Fidelity"},
+  url          = {https://www.merriam-webster.com/dictionary/fidelity},
+  language     = {en},
+  organization = {Merriam-Webster},
+  urldate      = {2023-03-23},
+  abstract     = {the quality or state of being faithful; accuracy in details : exactness; the degree to which an electronic device (such as a record player, radio, or television) accurately reproduces its effect (such as sound or picture)… See the full definition},
+}
+
 @InProceedings{altmeyer2023endogenous,
   author    = {Altmeyer, Patrick and Angela, Giovan and Buszydlik, Aleksander and Dobiczek, Karol and van Deursen, Arie and Liem, Cynthia},
   booktitle = {First {IEEE} {Conference} on {Secure} and {Trustworthy} {Machine} {Learning}},
@@ -2603,4 +2612,4 @@
   pages     = {486--507},
   urldate   = {2022-12-13},
   volume    = {49},
-  abstract  = {This paper introduces the jackknife+, which is a novel method for constructing predictive confidence intervals. Whereas the jackknife outputs an interval centered at the predicted response of a test point, with the width of the interval determined by the quantiles of leave-one-out residuals, the jackknife+ also uses the leave-one-out predictions at the test point to account for the variability in the fitted regression function. Assuming exchangeable training samples, we prove that this crucial modification permits rigorous coverage guarantees regardless of
+  abstract  = {This paper introduces the jackknife+, which is a novel method for constru
