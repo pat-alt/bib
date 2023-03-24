@@ -2670,4 +2670,42 @@
   year     = {2020},
 }
 
+@Book{murphy2023probabilistic,
+  author     = {Murphy, Kevin P.},
+  date       = {2023},
+  title      = {Probabilistic machine learning: {Advanced} topics},
+  publisher  = {MIT Press},
+  shorttitle = {Probabilistic machine learning},
+}
+
+@TechReport{artelt2021evaluating,
+  author      = {Artelt, André and Vaquet, Valerie and Velioglu, Riza and Hinder, Fabian and Brinkrolf, Johannes and Schilling, Malte and Hammer, Barbara},
+  date        = {2021-07},
+  institution = {arXiv},
+  title       = {Evaluating {Robustness} of {Counterfactual} {Explanations}},
+  note        = {arXiv:2103.02354 [cs] type: article},
+  url         = {http://arxiv.org/abs/2103.02354},
+  urldate     = {2023-03-24},
+  abstract    = {Transparency is a fundamental requirement for decision making systems when these should be deployed in the real world. It is usually achieved by providing explanations of the system's behavior. A prominent and intuitive type of explanations are counterfactual explanations. Counterfactual explanations explain a behavior to the user by proposing actions -- as changes to the input -- that would cause a different (specified) behavior of the system. However, such explanation methods can be unstable with respect to small changes to the input -- i.e. even a small change in the input can lead to huge or arbitrary changes in the output and of the explanation. This could be problematic for counterfactual explanations, as two similar individuals might get very different explanations. Even worse, if the recommended actions differ considerably in their complexity, one would consider such unstable (counterfactual) explanations as individually unfair. In this work, we formally and empirically study the robustness of counterfactual explanations in general, as well as under different models and different kinds of perturbations. Furthermore, we propose that plausible counterfactual explanations can be used instead of closest counterfactual explanations to improve the robustness and consequently the individual fairness of counterfactual explanations.},
+  annotation  = {Comment: Rewrite paper to make things more clear; Remove one theorem \& corollary due to buggy proof},
+  file        = {arXiv Fulltext PDF:https\://arxiv.org/pdf/2103.02354.pdf:application/pdf},
+  keywords    = {Computer Science - Machine Learning, Computer Science - Artificial Intelligence},
+}
+
+@Article{guidotti2022counterfactual,
+  author       = {Guidotti, Riccardo},
+  date         = {2022-04},
+  journaltitle = {Data Mining and Knowledge Discovery},
+  title        = {Counterfactual explanations and how to find them: literature review and benchmarking},
+  doi          = {10.1007/s10618-022-00831-6},
+  issn         = {1573-756X},
+  language     = {en},
+  url          = {https://doi.org/10.1007/s10618-022-00831-6},
+  urldate      = {2023-03-24},
+  abstract     = {Interpretable machine learning aims at unveiling the reasons behind predictions returned by uninterpretable classifiers. One of the most valuable types of explanation consists of counterfactuals. A counterfactual explanation reveals what should have been different in an instance to observe a diverse outcome. For instance, a bank customer asks for a loan that is rejected. The counterfactual explanation consists of what should have been different for the customer in order to have the loan accepted. Recently, there has been an explosion of proposals for counterfactual explainers. The aim of this work is to survey the most recent explainers returning counterfactual explanations. We categorize explainers based on the approach adopted to return the counterfactuals, and we label them according to characteristics of the method and properties of the counterfactuals returned. In addition, we visually compare the explanations, and we report quantitative benchmarking assessing minimality, actionability, stability, diversity, discriminative power, and running time. The results make evident that the current state of the art does not provide a counterfactual explainer able to guarantee all these properties simultaneously.},
+  file         = {Full Text PDF:https\://link.springer.com/content/pdf/10.1007%2Fs10618-022-00831-6.pdf:application/pdf},
+  keywords     = {Explainable AI, Counterfactual explanations, Contrastive explanations, Interpretable machine learning},
+  shorttitle   = {Counterfactual explanations and how to find them},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
