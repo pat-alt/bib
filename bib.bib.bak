@@ -1,3 +1,19 @@
+@TechReport{kingma2017adam,
+  author      = {Kingma, Diederik P. and Ba, Jimmy},
+  date        = {2017-01},
+  institution = {arXiv},
+  title       = {Adam: {A} {Method} for {Stochastic} {Optimization}},
+  doi         = {10.48550/arXiv.1412.6980},
+  note        = {arXiv:1412.6980 [cs] type: article},
+  url         = {http://arxiv.org/abs/1412.6980},
+  urldate     = {2023-05-17},
+  abstract    = {We introduce Adam, an algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments. The method is straightforward to implement, is computationally efficient, has little memory requirements, is invariant to diagonal rescaling of the gradients, and is well suited for problems that are large in terms of data and/or parameters. The method is also appropriate for non-stationary objectives and problems with very noisy and/or sparse gradients. The hyper-parameters have intuitive interpretations and typically require little tuning. Some connections to related algorithms, on which Adam was inspired, are discussed. We also analyze the theoretical convergence properties of the algorithm and provide a regret bound on the convergence rate that is comparable to the best known results under the online convex optimization framework. Empirical results demonstrate that Adam works well in practice and compares favorably to other stochastic optimization methods. Finally, we discuss AdaMax, a variant of Adam based on the infinity norm.},
+  annotation  = {Comment: Published as a conference paper at the 3rd International Conference for Learning Representations, San Diego, 2015},
+  file        = {arXiv Fulltext PDF:https\://arxiv.org/pdf/1412.6980.pdf:application/pdf},
+  keywords    = {Computer Science - Machine Learning},
+  shorttitle  = {Adam},
+}
+
 @TechReport{xiao2017fashion,
   author      = {Xiao, Han and Rasul, Kashif and Vollgraf, Roland},
   date        = {2017-09},
@@ -2816,6 +2832,28 @@
   abstract    = {Energy based models (EBMs) are appealing due to their generality and simplicity in likelihood modeling, but have been traditionally difficult to train. We present techniques to scale MCMC based EBM training on continuous neural networks, and we show its success on the high-dimensional data domains of ImageNet32x32, ImageNet128x128, CIFAR-10, and robotic hand trajectories, achieving better samples than other likelihood models and nearing the performance of contemporary GAN approaches, while covering all modes of the data. We highlight some unique capabilities of implicit generation such as compositionality and corrupt image reconstruction and inpainting. Finally, we show that EBMs are useful models across a wide variety of tasks, achieving state-of-the-art out-of-distribution classification, adversarially robust classification, state-of-the-art continual online class learning, and coherent long term predicted trajectory rollouts.},
   file        = {arXiv Fulltext PDF:https\://arxiv.org/pdf/1903.08689.pdf:application/pdf},
   keywords    = {Computer Science - Machine Learning, Computer Science - Computer Vision and Pattern Recognition, Statistics - Machine Learning},
+}
+
+@InProceedings{krizhevsky2009learning,
+  author     = {Krizhevsky, A.},
+  date       = {2009},
+  title      = {Learning {Multiple} {Layers} of {Features} from {Tiny} {Images}},
+  url        = {https://www.semanticscholar.org/paper/Learning-Multiple-Layers-of-Features-from-Tiny-Krizhevsky/5d90f06bb70a0a3dced62413346235c02b1aa086},
+  urldate    = {2023-06-21},
+  abstract   = {Groups at MIT and NYU have collected a dataset of millions of tiny colour images from the web. It is, in principle, an excellent dataset for unsupervised training of deep generative models, but previous researchers who have tried this have found it dicult to learn a good set of lters from the images. We show how to train a multi-layer generative model that learns to extract meaningful features which resemble those found in the human visual cortex. Using a novel parallelization algorithm to distribute the work among multiple machines connected on a network, we show how training such a model can be done in reasonable time. A second problematic aspect of the tiny images dataset is that there are no reliable class labels which makes it hard to use for object recognition experiments. We created two sets of reliable labels. The CIFAR-10 set has 6000 examples of each of 10 classes and the CIFAR-100 set has 600 examples of each of 100 non-overlapping classes. Using these labels, we show that object recognition is signicantly improved by pre-training a layer of features on a large set of unlabeled tiny images.},
+  annotation = {[TLDR] It is shown how to train a multi-layer generative model that learns to extract meaningful features which resemble those found in the human visual cortex, using a novel parallelization algorithm to distribute the work among multiple machines connected on a network.},
+  file       = {Semantic Scholar Link:https\://www.semanticscholar.org/paper/Learning-Multiple-Layers-of-Features-from-Tiny-Krizhevsky/5d90f06bb70a0a3dced62413346235c02b1aa086:text/html;Full Text PDF:http\://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf:application/pdf},
+}
+
+@Misc{becker1996adult,
+  author    = {Barry Becker, Ronny Kohavi},
+  date      = {1996},
+  title     = {Adult},
+  doi       = {10.24432/C5XW20},
+  note      = {Type: dataset},
+  url       = {https://archive.ics.uci.edu/dataset/2},
+  urldate   = {2023-06-21},
+  publisher = {UCI Machine Learning Repository},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
