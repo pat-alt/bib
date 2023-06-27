@@ -2930,4 +2930,19 @@
   file      = {Full Text PDF:https\://aclanthology.org/2020.nlp4convai-1.5.pdf:application/pdf},
 }
 
+@TechReport{liu2019roberta,
+  author      = {Liu, Yinhan and Ott, Myle and Goyal, Naman and Du, Jingfei and Joshi, Mandar and Chen, Danqi and Levy, Omer and Lewis, Mike and Zettlemoyer, Luke and Stoyanov, Veselin},
+  date        = {2019-07},
+  institution = {arXiv},
+  title       = {{RoBERTa}: {A} {Robustly} {Optimized} {BERT} {Pretraining} {Approach}},
+  doi         = {10.48550/arXiv.1907.11692},
+  note        = {arXiv:1907.11692 [cs] type: article},
+  url         = {http://arxiv.org/abs/1907.11692},
+  urldate     = {2023-06-27},
+  abstract    = {Language model pretraining has led to significant performance gains but careful comparison between different approaches is challenging. Training is computationally expensive, often done on private datasets of different sizes, and, as we will show, hyperparameter choices have significant impact on the final results. We present a replication study of BERT pretraining (Devlin et al., 2019) that carefully measures the impact of many key hyperparameters and training data size. We find that BERT was significantly undertrained, and can match or exceed the performance of every model published after it. Our best model achieves state-of-the-art results on GLUE, RACE and SQuAD. These results highlight the importance of previously overlooked design choices, and raise questions about the source of recently reported improvements. We release our models and code.},
+  file        = {arXiv Fulltext PDF:https\://arxiv.org/pdf/1907.11692.pdf:application/pdf},
+  keywords    = {Computer Science - Computation and Language},
+  shorttitle  = {{RoBERTa}},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
