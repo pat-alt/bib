@@ -3004,4 +3004,17 @@
   keywords    = {Computer Science - Artificial Intelligence, Computer Science - Machine Learning, Computer Science - Robotics},
 }
 
+@InProceedings{lecun1989optimal,
+  author    = {LeCun, Yann and Denker, John and Solla, Sara},
+  booktitle = {Advances in {Neural} {Information} {Processing} {Systems}},
+  date      = {1989},
+  title     = {Optimal {Brain} {Damage}},
+  publisher = {Morgan-Kaufmann},
+  url       = {https://proceedings.neurips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html},
+  urldate   = {2023-06-30},
+  volume    = {2},
+  abstract  = {We  have used  information-theoretic ideas  to derive  a class of prac(cid:173) tical  and  nearly  optimal schemes  for  adapting the size  of a  neural  network.  By  removing  unimportant  weights  from  a  network,  sev(cid:173) eral  improvements  can  be  expected:  better  generalization,  fewer  training examples required,  and improved speed  of learning and/or  classification.  The  basic  idea  is  to  use  second-derivative  informa(cid:173) tion to make a  tradeoff between  network  complexity  and  training  set error.  Experiments confirm  the usefulness  of the methods on a  real-world  application.},
+  file      = {Full Text PDF:https\://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf:application/pdf},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
