@@ -1,3 +1,18 @@
+@TechReport{xu2022conformal,
+  author      = {Xu, Chen and Xie, Yao},
+  date        = {2022-06},
+  institution = {arXiv},
+  title       = {Conformal prediction set for time-series},
+  doi         = {10.48550/arXiv.2206.07851},
+  note        = {arXiv:2206.07851 [cs, stat] type: article},
+  url         = {http://arxiv.org/abs/2206.07851},
+  urldate     = {2023-07-22},
+  abstract    = {When building either prediction intervals for regression (with real-valued response) or prediction sets for classification (with categorical responses), uncertainty quantification is essential to studying complex machine learning methods. In this paper, we develop Ensemble Regularized Adaptive Prediction Set (ERAPS) to construct prediction sets for time-series (with categorical responses), based on the prior work of [Xu and Xie, 2021]. In particular, we allow unknown dependencies to exist within features and responses that arrive in sequence. Method-wise, ERAPS is a distribution-free and ensemble-based framework that is applicable for arbitrary classifiers. Theoretically, we bound the coverage gap without assuming data exchangeability and show asymptotic set convergence. Empirically, we demonstrate valid marginal and conditional coverage by ERAPS, which also tends to yield smaller prediction sets than competing methods.},
+  annotation  = {Comment: Strongly accepted by the Workshop on Distribution-Free Uncertainty Quantification at ICML 2022},
+  file        = {arXiv Fulltext PDF:https\://arxiv.org/pdf/2206.07851.pdf:application/pdf},
+  keywords    = {Statistics - Machine Learning, Computer Science - Machine Learning, Statistics - Methodology},
+}
+
 @TechReport{kingma2017adam,
   author      = {Kingma, Diederik P. and Ba, Jimmy},
   date        = {2017-01},
