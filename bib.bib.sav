@@ -1403,7 +1403,7 @@
   year          = {2021},
 }
 
-@Article{joshi2019towards,
+@Article{joshi2019realistic,
   author  = {Joshi, Shalmali and Koyejo, Oluwasanmi and Vijitbenjaronk, Warut and Kim, Been and Ghosh, Joydeep},
   title   = {Towards realistic individual recourse and actionable explanations in black-box decision making systems},
   journal = {arXiv preprint arXiv:1907.09615},
