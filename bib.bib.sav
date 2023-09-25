@@ -1200,6 +1200,7 @@
   bdsk-url-1    = {https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)},
   date-added    = {2022-12-13 12:58:01 +0100},
   date-modified = {2022-12-13 12:58:01 +0100},
+  journal       = {https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)},
   year          = {1994},
 }
 
