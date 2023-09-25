@@ -3141,6 +3141,14 @@
   year         = {2003},
 }
 
+@Article{dhurandhar2018explanations,
+  author  = {Dhurandhar, Amit and Chen, Pin-Yu and Luss, Ronny and Tu, Chun-Chen and Ting, Paishun and Shanmugam, Karthikeyan and Das, Payel},
+  title   = {Explanations based on the missing: Towards contrastive explanations with pertinent negatives},
+  volume  = {31},
+  journal = {Advances in neural information processing systems},
+  year    = {2018},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[auth:lower][year][veryshorttitle:lower];}
