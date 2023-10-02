@@ -3139,7 +3139,6 @@
   year    = {2018},
 }
 
-<<<<<<< HEAD
 @Article{lecun1998gradient,
   author    = {LeCun, Yann and Bottou, L{\'e}on and Bengio, Yoshua and Haffner, Patrick},
   title     = {Gradient-based learning applied to document recognition},
@@ -3149,15 +3148,6 @@
   journal   = {Proceedings of the IEEE},
   publisher = {Ieee},
   year      = {1998},
-=======
-@Article{delaney2023counterfactual,
-  author    = {Delaney, Eoin and Pakrashi, Arjun and Greene, Derek and Keane, Mark T},
-  title     = {Counterfactual explanations for misclassified images: How human and machine explanations differ},
-  pages     = {103995},
-  journal   = {Artificial Intelligence},
-  publisher = {Elsevier},
-  year      = {2023},
->>>>>>> 1e6033ab8dcd244e82c08aad96248076c8b9d897
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
