@@ -1,0 +1,24 @@
+archiveprefix: arXiv
+author: Bell, Andrew and Fonseca, Joao and Abrate, Carlo and Bonchi, Francesco and
+  Stoyanovich, Julia
+author_list:
+- family: Bell
+  given: Andrew
+- family: Fonseca
+  given: Joao
+- family: Abrate
+  given: Carlo
+- family: Bonchi
+  given: Francesco
+- family: Stoyanovich
+  given: Julia
+eprint: '2401.16088'
+files: []
+note: arXiv:2401.16088
+papis_id: ec7b89a4aa94889648123b7b426728dc
+primaryclass: cs.LG
+ref: bell2024fairness
+title: Fairness in Algorithmic Recourse Through the Lens of Substantive Equality of
+  Opportunity
+type: misc
+year: '2024'

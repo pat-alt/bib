@@ -1,0 +1,33 @@
+archiveprefix: arXiv
+author: Liu, Yinhan and Ott, Myle and Goyal, Naman and Du, Jingfei and Joshi, Mandar
+  and Chen, Danqi and Levy, Omer and Lewis, Mike and Zettlemoyer, Luke and Stoyanov,
+  Veselin
+author_list:
+- family: Liu
+  given: Yinhan
+- family: Ott
+  given: Myle
+- family: Goyal
+  given: Naman
+- family: Du
+  given: Jingfei
+- family: Joshi
+  given: Mandar
+- family: Chen
+  given: Danqi
+- family: Levy
+  given: Omer
+- family: Lewis
+  given: Mike
+- family: Zettlemoyer
+  given: Luke
+- family: Stoyanov
+  given: Veselin
+eprint: '1907.11692'
+files: []
+papis_id: e67c770d0e3f661d878f37143ab5b468
+primaryclass: cs.CL
+ref: liu2019roberta
+title: 'RoBERTa: A Robustly Optimized BERT Pretraining Approach'
+type: misc
+year: '2019'

@@ -1,0 +1,16 @@
+archiveprefix: arXiv
+author: Sauer, Axel and Geiger, Andreas
+author_list:
+- family: Sauer
+  given: Axel
+- family: Geiger
+  given: Andreas
+eprint: '2101.06046'
+files: []
+note: arXiv:2101.06046
+papis_id: 4d395a6edd2fb9ee17cf8c427c56f22b
+primaryclass: cs.LG
+ref: sauer2021counterfactual
+title: Counterfactual Generative Networks
+type: misc
+year: '2021'

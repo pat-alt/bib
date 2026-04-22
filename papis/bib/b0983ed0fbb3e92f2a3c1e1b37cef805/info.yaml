@@ -1,0 +1,21 @@
+archiveprefix: arXiv
+author: Zheng, Xun and Aragam, Bryon and Ravikumar, Pradeep and Xing, Eric P
+author_list:
+- family: Zheng
+  given: Xun
+- family: Aragam
+  given: Bryon
+- family: Ravikumar
+  given: Pradeep
+- family: Xing
+  given: Eric P
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1803.01422'
+eprinttype: arxiv
+files: []
+papis_id: b0983ed0fbb3e92f2a3c1e1b37cef805
+ref: zheng2018dags
+title: 'Dags with No Tears: Continuous Optimization for Structure Learning'
+type: unpublished
+year: '2018'

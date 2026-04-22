@@ -1,0 +1,38 @@
+abstract: We propose an efficient method for approximating natural gradient descent
+  in neural networks which we call Kronecker-Factored Approximate Curvature (K-FAC).
+  K-FAC is based on an efficiently invertible approximation of a neural network's
+  Fisher information matrix which is neither diagonal nor low-rank, and in some cases
+  is completely non-sparse. It is derived by approximating various large blocks of
+  the Fisher (corresponding to entire layers) as being the Kronecker product of two
+  much smaller matrices. While only several times more expensive to compute than the
+  plain stochastic gradient, the updates produced by K-FAC make much more progress
+  optimizing the objective, which results in an algorithm that can be much faster
+  than stochastic gradient descent with momentum in practice. And unlike some previously
+  proposed approximate natural-gradient/Newton methods which use high-quality non-diagonal
+  curvature matrices (such as Hessian-free optimization), K-FAC works very well in
+  highly stochastic optimization regimes. This is because the cost of storing and
+  inverting K-FAC's approximation to the curvature matrix does not depend on the amount
+  of data used to estimate it, which is a feature typically associated only with diagonal
+  or low-rank approximations to the curvature matrix.
+annotation: 'Comment: Reduction ratio formula corrected. Removed incorrect claim about
+  geodesics in footnote'
+author: Martens, James and Grosse, Roger
+author_list:
+- family: Martens
+  given: James
+- family: Grosse
+  given: Roger
+date: 2020-06
+doi: 10.48550/arXiv.1503.05671
+file: arXiv Fulltext PDF:https\://arxiv.org/pdf/1503.05671.pdf:application/pdf
+files: []
+institution: arXiv
+keywords: Computer Science - Machine Learning, Computer Science - Neural and Evolutionary
+  Computing, Statistics - Machine Learning
+note: 'arXiv:1503.05671 [cs, stat] type: article'
+papis_id: d25528ae8e75fb030c519f5d79750617
+ref: martens2020optimizing
+title: Optimizing Neural Networks with Kronecker-factored Approximate Curvature
+type: techreport
+url: http://arxiv.org/abs/1503.05671
+urldate: '2023-06-30'

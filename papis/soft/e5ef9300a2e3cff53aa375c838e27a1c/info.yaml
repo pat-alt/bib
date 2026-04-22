@@ -1,0 +1,15 @@
+author: 'Altmeyer, Patrick and contributors, '
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: contributors
+  given: ''
+doi: 10.5281/zenodo.8239378
+files: []
+papis_id: e5ef9300a2e3cff53aa375c838e27a1c
+ref: altmeyer2025ce
+title: CounterfactualExplanations.jl
+type: misc
+url: https://doi.org/10.5281/zenodo.8239378
+version: v1.4.5
+year: '2025'

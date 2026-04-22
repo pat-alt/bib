@@ -1,0 +1,20 @@
+address: Cham
+author: Augustin, Maximilian and Meinke, Alexander and Hein, Matthias
+author_list:
+- family: Augustin
+  given: Maximilian
+- family: Meinke
+  given: Alexander
+- family: Hein
+  given: Matthias
+booktitle: Computer Vision -- ECCV 2020
+editor: Vedaldi, Andrea and Bischof, Horst and Brox, Thomas and Frahm, Jan-Michael
+files: []
+isbn: 978-3-030-58574-7
+pages: 228--245
+papis_id: 95d1bfb1bc54f975746b2ddc4eb959a6
+publisher: Springer
+ref: augustin2020adversarial
+title: Adversarial Robustness on In- and Out-Distribution Improves Explainability
+type: inproceedings
+year: '2020'

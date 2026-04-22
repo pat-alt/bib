@@ -1,0 +1,24 @@
+archiveprefix: arXiv
+author: Kuiper, Ouren and van den Berg, Martin and van den Burgt, Joost and Leijnen,
+  Stefan
+author_list:
+- family: Kuiper
+  given: Ouren
+- family: van den Berg
+  given: Martin
+- family: van den Burgt
+  given: Joost
+- family: Leijnen
+  given: Stefan
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1007/978-3-030-93842-0_6
+eprint: '2111.02244'
+eprinttype: arxiv
+files: []
+papis_id: 1641fa03116f712ada2e01446cc71430
+ref: kuiper2021exploring
+title: 'Exploring Explainable AI in the Financial Sector: Perspectives of Banks and
+  Supervisory Authorities'
+type: unpublished
+year: '2021'

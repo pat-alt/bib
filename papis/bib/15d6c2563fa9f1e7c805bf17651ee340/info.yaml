@@ -1,0 +1,17 @@
+author: Guidotti, Riccardo
+author_list:
+- family: Guidotti
+  given: Riccardo
+doi: 10.1007/s10618-022-00831-6
+files: []
+journal: Data Mining and Knowledge Discovery
+langid: english
+number: '5'
+pages: 2770--2824
+papis_id: 15d6c2563fa9f1e7c805bf17651ee340
+publisher: Springer
+ref: guidotti2022counterfactual
+title: 'Counterfactual Explanations and How to Find Them: Literature Review and Benchmarking'
+type: article
+volume: '38'
+year: '2022'

@@ -1,0 +1,17 @@
+author: Chapelle, Olivier and Li, Lihong
+author_list:
+- family: Chapelle
+  given: Olivier
+- family: Li
+  given: Lihong
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: Advances in neural information processing systems
+pages: 2249--2257
+papis_id: 1e820d57d8cde3f0f9dce3a7be5536e5
+ref: chapelle2011empirical
+title: An Empirical Evaluation of Thompson Sampling
+type: article
+volume: '24'
+year: '2011'

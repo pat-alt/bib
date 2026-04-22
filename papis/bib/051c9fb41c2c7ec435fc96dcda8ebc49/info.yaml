@@ -1,0 +1,21 @@
+archiveprefix: arXiv
+author: Houlsby, Neil and Huszár, Ferenc and Ghahramani, Zoubin and Lengyel, Máté
+author_list:
+- family: Houlsby
+  given: Neil
+- family: Huszár
+  given: Ferenc
+- family: Ghahramani
+  given: Zoubin
+- family: Lengyel
+  given: Máté
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1112.5745'
+eprinttype: arxiv
+files: []
+papis_id: 051c9fb41c2c7ec435fc96dcda8ebc49
+ref: houlsby2011bayesian
+title: Bayesian Active Learning for Classification and Preference Learning
+type: unpublished
+year: '2011'

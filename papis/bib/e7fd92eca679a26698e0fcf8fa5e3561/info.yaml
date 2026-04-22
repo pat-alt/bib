@@ -1,0 +1,33 @@
+author: 'Wei, Jason and Tay, Yi and Bommasani, Rishi and Raffel, Colin and Zoph, Barret
+  and Borgeaud, Sebastian and Yogatama, Dani and Bosma, Maarten and Zhou, Denny and
+  Metzler, Donald and others, '
+author_list:
+- family: Wei
+  given: Jason
+- family: Tay
+  given: Yi
+- family: Bommasani
+  given: Rishi
+- family: Raffel
+  given: Colin
+- family: Zoph
+  given: Barret
+- family: Borgeaud
+  given: Sebastian
+- family: Yogatama
+  given: Dani
+- family: Bosma
+  given: Maarten
+- family: Zhou
+  given: Denny
+- family: Metzler
+  given: Donald
+- family: others
+  given: ''
+files: []
+journal: arXiv preprint arXiv:2206.07682
+papis_id: e7fd92eca679a26698e0fcf8fa5e3561
+ref: wei2022emergent
+title: Emergent abilities of large language models
+type: article
+year: '2022'

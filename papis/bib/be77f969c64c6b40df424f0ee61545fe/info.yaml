@@ -1,0 +1,43 @@
+abstract: As machine learning (ML) models becomemore widely deployed in high-stakes
+  applications, counterfactual explanations have emerged as key tools for providing
+  actionable model explanations in practice. Despite the growing popularity of counterfactual
+  explanations, the theoretical understanding of these explanations is still lacking
+  behind. In this work, we systematically analyze counterfactual explanations through
+  the lens of adversarial examples. We do so by formalizing the similarities between
+  popular counterfactual explanation and adversarial example generation methods identifying
+  conditions when they are equivalent. We then derive upper bounds between the solutions
+  output by counterfactual explanation and adversarial example generation methods,
+  which we validate on several real world data sets. By establishing these theoretical
+  and empirical similarities between counterfactual explanations and adversarial examples,
+  our work raises fundamental questions about the design and development of existing
+  counterfactual explanation algorithms.
+author: Pawelczyk, Martin and Agarwal, Chirag and Joshi, Shalmali and Upadhyay, Sohini
+  and Lakkaraju, Himabindu
+author_list:
+- family: Pawelczyk
+  given: Martin
+- family: Agarwal
+  given: Chirag
+- family: Joshi
+  given: Shalmali
+- family: Upadhyay
+  given: Sohini
+- family: Lakkaraju
+  given: Himabindu
+booktitle: Proceedings of The 25th International Conference on Artificial Intelligence
+  and Statistics
+editor: Camps-Valls, Gustau and Ruiz, Francisco J. R. and Valera, Isabel
+files: []
+month: 28--30 Mar
+pages: 4574--4594
+papis_id: be77f969c64c6b40df424f0ee61545fe
+pdf: https://proceedings.mlr.press/v151/pawelczyk22a/pawelczyk22a.pdf
+publisher: PMLR
+ref: pawelczyk2022exploring
+series: Proceedings of Machine Learning Research
+title: 'Exploring Counterfactual Explanations Through the Lens of Adversarial Examples:
+  A Theoretical and Empirical Analysis'
+type: inproceedings
+url: https://proceedings.mlr.press/v151/pawelczyk22a.html
+volume: '151'
+year: '2022'

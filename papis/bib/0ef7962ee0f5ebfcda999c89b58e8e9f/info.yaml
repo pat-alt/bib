@@ -1,0 +1,23 @@
+author: Birhane, Abeba and Kalluri, Pratyusha and Card, Dallas and Agnew, William
+  and Dotan, Ravit and Bao, Michelle
+author_list:
+- family: Birhane
+  given: Abeba
+- family: Kalluri
+  given: Pratyusha
+- family: Card
+  given: Dallas
+- family: Agnew
+  given: William
+- family: Dotan
+  given: Ravit
+- family: Bao
+  given: Michelle
+booktitle: Proceedings of the 2022 ACM Conference on Fairness, Accountability, and
+  Transparency (FAccT '22)
+files: []
+papis_id: 0ef7962ee0f5ebfcda999c89b58e8e9f
+ref: values_in_ML
+title: The Values Encoded in Machine Learning Research
+type: inproceedings
+year: '2022'

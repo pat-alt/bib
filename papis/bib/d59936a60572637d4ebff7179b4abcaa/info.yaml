@@ -1,0 +1,18 @@
+archiveprefix: arXiv
+author: Shah, Agam and Paturi, Suvan and Chava, Sudheer
+author_list:
+- family: Shah
+  given: Agam
+- family: Paturi
+  given: Suvan
+- family: Chava
+  given: Sudheer
+eprint: '2305.07972'
+files: []
+journal: arXiv preprint arXiv:2310.02207v1
+papis_id: d59936a60572637d4ebff7179b4abcaa
+primaryclass: cs.CL
+ref: shah2023trillion
+title: 'Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis'
+type: misc
+year: '2023'

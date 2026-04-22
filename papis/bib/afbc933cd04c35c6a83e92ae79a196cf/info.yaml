@@ -1,0 +1,17 @@
+author: Kihoro, J and Otieno, RO and Wafula, C
+author_list:
+- family: Kihoro
+  given: J
+- family: Otieno
+  given: RO
+- family: Wafula
+  given: C
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.4314/ajst.v5i2.15330
+files: []
+papis_id: afbc933cd04c35c6a83e92ae79a196cf
+ref: kihoro2004seasonal
+title: 'Seasonal Time Series Forecasting: A Comparative Study of ARIMA and ANN Models'
+type: article
+year: '2004'

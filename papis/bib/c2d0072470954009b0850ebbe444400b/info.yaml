@@ -1,0 +1,20 @@
+author: Madry, Aleksander and Makelov, Aleksandar and Schmidt, Ludwig and Tsipras,
+  Dimitris and Vladu, Adrian
+author_list:
+- family: Madry
+  given: Aleksander
+- family: Makelov
+  given: Aleksandar
+- family: Schmidt
+  given: Ludwig
+- family: Tsipras
+  given: Dimitris
+- family: Vladu
+  given: Adrian
+date: '2017'
+files: []
+journaltitle: arXiv preprint arXiv:1706.06083
+papis_id: c2d0072470954009b0850ebbe444400b
+ref: madry2017towards
+title: Towards deep learning models resistant to adversarial attacks
+type: article

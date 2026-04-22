@@ -1,0 +1,25 @@
+archiveprefix: arXiv
+author: Laugel, Thibault and Lesot, Marie-Jeanne and Marsala, Christophe and Renard,
+  Xavier and Detyniecki, Marcin
+author_list:
+- family: Laugel
+  given: Thibault
+- family: Lesot
+  given: Marie-Jeanne
+- family: Marsala
+  given: Christophe
+- family: Renard
+  given: Xavier
+- family: Detyniecki
+  given: Marcin
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1712.08443'
+eprinttype: arxiv
+files: []
+papis_id: c8fbb26402ffb309c887251922406e71
+ref: laugel2017inverse
+shortjournal: arXiv preprint arXiv:1712.08443
+title: Inverse Classification for Comparison-Based Interpretability in Machine Learning
+type: unpublished
+year: '2017'

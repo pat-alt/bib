@@ -1,0 +1,17 @@
+author: Lundberg, Scott M and Lee, Su-In
+author_list:
+- family: Lundberg
+  given: Scott M
+- family: Lee
+  given: Su-In
+booktitle: Proceedings of the 31st International Conference on Neural Information
+  Processing Systems
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 4768--4777
+papis_id: 1a32bd44d4984e9904779a8794c7bbc4
+ref: lundberg2017unified
+title: A Unified Approach to Interpreting Model Predictions
+type: inproceedings
+year: '2017'

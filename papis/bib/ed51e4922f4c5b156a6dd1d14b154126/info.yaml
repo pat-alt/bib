@@ -1,0 +1,20 @@
+author: Kehoe, Aidan and Wittek, Peter and Xue, Yanbo and Pozas-Kerstjens, Alejandro
+author_list:
+- family: Kehoe
+  given: Aidan
+- family: Wittek
+  given: Peter
+- family: Xue
+  given: Yanbo
+- family: Pozas-Kerstjens
+  given: Alejandro
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: 'Machine Learning: Science and Technology'
+papis_id: ed51e4922f4c5b156a6dd1d14b154126
+ref: kehoe2021defence
+title: Defence against Adversarial Attacks Using Classical and Quantum-Enhanced Boltzmann
+  Machines
+type: article
+year: '2021'

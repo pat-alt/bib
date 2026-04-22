@@ -1,0 +1,32 @@
+abstract: Natural gradient descent, which preconditions a gradient descent update
+  with the Fisher information matrix of the underlying statistical model, is a way
+  to capture partial second-order information. Several highly visible works have advocated
+  an approximation known as the empirical Fisher, drawing connections between approximate
+  second-order methods and heuristics like Adam. We dispute this argument by showing
+  that the empirical Fisher---unlike the Fisher---does not generally capture second-order
+  information. We further argue that the conditions under which the empirical Fisher
+  approaches the Fisher (and the Hessian) are unlikely to be met in practice, and
+  that, even on simple optimization problems, the pathologies of the empirical Fisher
+  can have undesirable effects.
+annotation: 'Comment: V3: Minor corrections (typographic errors)'
+author: Kunstner, Frederik and Balles, Lukas and Hennig, Philipp
+author_list:
+- family: Kunstner
+  given: Frederik
+- family: Balles
+  given: Lukas
+- family: Hennig
+  given: Philipp
+date: 2020-06
+doi: 10.48550/arXiv.1905.12558
+file: arXiv Fulltext PDF:https\://arxiv.org/pdf/1905.12558.pdf:application/pdf
+files: []
+institution: arXiv
+keywords: Computer Science - Machine Learning, Statistics - Machine Learning
+note: 'arXiv:1905.12558 [cs, stat] type: article'
+papis_id: a02faae09d011988315ed316662b62db
+ref: kunstner2020limitations
+title: Limitations of the Empirical Fisher Approximation for Natural Gradient Descent
+type: techreport
+url: http://arxiv.org/abs/1905.12558
+urldate: '2023-06-30'

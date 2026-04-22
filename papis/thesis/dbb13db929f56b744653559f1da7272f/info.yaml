@@ -1,0 +1,22 @@
+author: Altmeyer, Patrick and Demetriou, Andrew M and Bartlett, Antony and Liem, Cynthia
+  C. S.
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: Demetriou
+  given: Andrew M
+- family: Bartlett
+  given: Antony
+- family: Liem
+  given: Cynthia C. S.
+booktitle: International Conference on Machine Learning
+files: []
+ids: altmeyer2024position
+organization: PMLR
+pages: 1222--1242
+papis_id: dbb13db929f56b744653559f1da7272f
+ref: paltmeyer2024position
+title: 'Position: Stop Making Unscientific AGI Performance Claims'
+type: inproceedings
+url: https://proceedings.mlr.press/v235/altmeyer24a.html
+year: '2024'

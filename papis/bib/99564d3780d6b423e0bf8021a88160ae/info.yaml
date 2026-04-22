@@ -1,0 +1,24 @@
+author: Abbasnejad, Ehsan and Teney, Damien and Parvaneh, Amin and Shi, Javen and
+  van den Hengel, Anton
+author_list:
+- family: Abbasnejad
+  given: Ehsan
+- family: Teney
+  given: Damien
+- family: Parvaneh
+  given: Amin
+- family: Shi
+  given: Javen
+- family: van den Hengel
+  given: Anton
+booktitle: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+doi: 10.1109/CVPR42600.2020.01006
+files: []
+keywords: Training;Visualization;Training data;Task analysis;Machine learning;Knowledge
+  discovery;Data models
+pages: 10041-10051
+papis_id: 99564d3780d6b423e0bf8021a88160ae
+ref: abbasnejad2020counterfactual
+title: Counterfactual Vision and Language Learning
+type: inproceedings
+year: '2020'

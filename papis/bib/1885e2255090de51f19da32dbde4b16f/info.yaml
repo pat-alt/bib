@@ -1,0 +1,15 @@
+archiveprefix: arXiv
+author: Gurnee, Wes and Tegmark, Max
+author_list:
+- family: Gurnee
+  given: Wes
+- family: Tegmark
+  given: Max
+eprint: '2310.02207'
+files: []
+papis_id: 1885e2255090de51f19da32dbde4b16f
+primaryclass: cs.LG
+ref: gurnee2023language
+title: Language Models Represent Space and Time
+type: misc
+year: '2023'

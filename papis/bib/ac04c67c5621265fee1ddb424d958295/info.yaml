@@ -1,0 +1,39 @@
+author: 'Arrieta, Alejandro Barredo and Diaz-Rodriguez, Natalia and Del Ser, Javier
+  and Bennetot, Adrien and Tabik, Siham and Barbado, Alberto and Garcia, Salvador
+  and Gil-Lopez, Sergio and Molina, Daniel and Benjamins, Richard and others, '
+author_list:
+- family: Arrieta
+  given: Alejandro Barredo
+- family: Diaz-Rodriguez
+  given: Natalia
+- family: Del Ser
+  given: Javier
+- family: Bennetot
+  given: Adrien
+- family: Tabik
+  given: Siham
+- family: Barbado
+  given: Alberto
+- family: Garcia
+  given: Salvador
+- family: Gil-Lopez
+  given: Sergio
+- family: Molina
+  given: Daniel
+- family: Benjamins
+  given: Richard
+- family: others
+  given: ''
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1016/j.inffus.2019.12.012
+files: []
+journal: Information Fusion
+pages: 82--115
+papis_id: ac04c67c5621265fee1ddb424d958295
+ref: arrieta2020explainable
+title: 'Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities
+  and Challenges toward Responsible AI'
+type: article
+volume: '58'
+year: '2020'

@@ -1,0 +1,22 @@
+author: Gurnee, Wes and Nanda, Neel and Pauly, Matthew and Harvey, Katherine and Troitskii,
+  Dmitrii and Bertsimas, Dimitris
+author_list:
+- family: Gurnee
+  given: Wes
+- family: Nanda
+  given: Neel
+- family: Pauly
+  given: Matthew
+- family: Harvey
+  given: Katherine
+- family: Troitskii
+  given: Dmitrii
+- family: Bertsimas
+  given: Dimitris
+files: []
+journal: arXiv preprint arXiv:2305.01610
+papis_id: 9b4b13526d53116fa0296a078e91a953
+ref: gurnee2023finding
+title: 'Finding neurons in a haystack: Case studies with sparse probing'
+type: article
+year: '2023'

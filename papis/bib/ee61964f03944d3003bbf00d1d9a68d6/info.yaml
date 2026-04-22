@@ -1,0 +1,22 @@
+author: Yu, Dingli and Kaur, Simran and Gupta, Arushi and Brown-Cohen, Jonah and Goyal,
+  Anirudh and Arora, Sanjeev
+author_list:
+- family: Yu
+  given: Dingli
+- family: Kaur
+  given: Simran
+- family: Gupta
+  given: Arushi
+- family: Brown-Cohen
+  given: Jonah
+- family: Goyal
+  given: Anirudh
+- family: Arora
+  given: Sanjeev
+files: []
+journal: arXiv preprint arXiv:2310.17567
+papis_id: ee61964f03944d3003bbf00d1d9a68d6
+ref: yu2023skill
+title: 'Skill-Mix: A flexible and expandable family of evaluations for AI models'
+type: article
+year: '2023'

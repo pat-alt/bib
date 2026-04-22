@@ -1,0 +1,22 @@
+archiveprefix: arXiv
+author: Lachapelle, Sébastien and Brouillard, Philippe and Deleu, Tristan and Lacoste-Julien,
+  Simon
+author_list:
+- family: Lachapelle
+  given: Sébastien
+- family: Brouillard
+  given: Philippe
+- family: Deleu
+  given: Tristan
+- family: Lacoste-Julien
+  given: Simon
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1906.02226'
+eprinttype: arxiv
+files: []
+papis_id: 7170e3173c7d7ecb97f4071341b0be35
+ref: lachapelle2019gradientbased
+title: Gradient-Based Neural Dag Learning
+type: unpublished
+year: '2019'

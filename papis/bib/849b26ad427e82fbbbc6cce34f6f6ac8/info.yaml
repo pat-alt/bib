@@ -1,0 +1,21 @@
+archiveprefix: arXiv
+author: Karimi, Amir-Hossein and Barthe, Gilles and Schölkopf, Bernhard and Valera,
+  Isabel
+author_list:
+- family: Karimi
+  given: Amir-Hossein
+- family: Barthe
+  given: Gilles
+- family: Schölkopf
+  given: Bernhard
+- family: Valera
+  given: Isabel
+eprint: '2010.04050'
+files: []
+papis_id: 849b26ad427e82fbbbc6cce34f6f6ac8
+primaryclass: cs.LG
+ref: karimi2020survey
+title: 'A survey of algorithmic recourse: definitions, formulations, solutions, and
+  prospects'
+type: misc
+year: '2021'

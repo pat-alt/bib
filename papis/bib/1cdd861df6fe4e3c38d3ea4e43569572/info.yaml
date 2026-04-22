@@ -1,0 +1,15 @@
+author: Lin, Stephanie and Hilton, Jacob and Evans, Owain
+author_list:
+- family: Lin
+  given: Stephanie
+- family: Hilton
+  given: Jacob
+- family: Evans
+  given: Owain
+files: []
+journal: arXiv preprint arXiv:2109.07958
+papis_id: 1cdd861df6fe4e3c38d3ea4e43569572
+ref: lin2021truthfulqa
+title: 'Truthfulqa: Measuring how models mimic human falsehoods'
+type: article
+year: '2021'

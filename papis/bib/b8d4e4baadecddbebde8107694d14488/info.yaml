@@ -1,0 +1,16 @@
+author: Haltmeier, Markus and Nguyen, Linh
+author_list:
+- family: Haltmeier
+  given: Markus
+- family: Nguyen
+  given: Linh
+booktitle: 'Handbook of Mathematical Models and Algorithms in Computer Vision and
+  Imaging: Mathematical Imaging and Vision'
+files: []
+pages: 1065--1093
+papis_id: b8d4e4baadecddbebde8107694d14488
+publisher: Springer
+ref: haltmeier2023regularization
+title: Regularization of inverse problems by neural networks
+type: incollection
+year: '2023'

@@ -1,0 +1,18 @@
+author: Innes, Mike
+author_list:
+- family: Innes
+  given: Mike
+doi: 10.21105/joss.00602
+files: []
+journal: Journal of Open Source Software
+number: '25'
+pages: '602'
+papis_id: a09bf5fdc5d5b0f824ad20c210b7b865
+publisher: The Open Journal
+ref: innes2018flux
+shortauthor: Innes
+title: 'Flux: Elegant machine learning with Julia'
+type: article
+url: https://doi.org/10.21105/joss.00602
+volume: '3'
+year: '2018'

@@ -1,0 +1,23 @@
+author: Grathwohl, Will and Wang, Kuan-Chieh and Jacobsen, Joern-Henrik and Duvenaud,
+  David and Norouzi, Mohammad and Swersky, Kevin
+author_list:
+- family: Grathwohl
+  given: Will
+- family: Wang
+  given: Kuan-Chieh
+- family: Jacobsen
+  given: Joern-Henrik
+- family: Duvenaud
+  given: David
+- family: Norouzi
+  given: Mohammad
+- family: Swersky
+  given: Kevin
+booktitle: International Conference on Learning Representations
+files: []
+papis_id: c121cad0e02b24adb6d9bde6b10825f3
+ref: grathwohl2020your
+title: Your classifier is secretly an energy based model and you should treat it like
+  one
+type: inproceedings
+year: '2020'

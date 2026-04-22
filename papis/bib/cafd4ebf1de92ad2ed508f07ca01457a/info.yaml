@@ -1,0 +1,23 @@
+archiveprefix: arXiv
+author: Bewley, Tom and Amoukou, Salim I. and Mishra, Saumitra and Magazzeni, Daniele
+  and Veloso, Manuela
+author_list:
+- family: Bewley
+  given: Tom
+- family: Amoukou
+  given: Salim I.
+- family: Mishra
+  given: Saumitra
+- family: Magazzeni
+  given: Daniele
+- family: Veloso
+  given: Manuela
+eprint: '2405.18875'
+files: []
+papis_id: cafd4ebf1de92ad2ed508f07ca01457a
+primaryclass: cs.AI
+ref: bewley2024counterfactual
+title: Counterfactual Metarules for Local and Global Recourse
+type: misc
+url: https://arxiv.org/abs/2405.18875
+year: '2024'

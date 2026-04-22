@@ -1,0 +1,21 @@
+author: Jolliffe, Ian T and Trendafilov, Nickolay T and Uddin, Mudassir
+author_list:
+- family: Jolliffe
+  given: Ian T
+- family: Trendafilov
+  given: Nickolay T
+- family: Uddin
+  given: Mudassir
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1198/1061860032148
+files: []
+journal: Journal of computational and Graphical Statistics
+number: '3'
+pages: 531--547
+papis_id: 9fdd30bbea4d8a7952d89733ea07974b
+ref: jolliffe2003modified
+title: A Modified Principal Component Technique Based on the LASSO
+type: article
+volume: '12'
+year: '2003'

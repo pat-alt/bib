@@ -1,0 +1,26 @@
+author: Artelt, André and Vaquet, Valerie and Velioglu, Riza and Hinder, Fabian and
+  Brinkrolf, Johannes and Schilling, Malte and Hammer, Barbara
+author_list:
+- family: Artelt
+  given: André
+- family: Vaquet
+  given: Valerie
+- family: Velioglu
+  given: Riza
+- family: Hinder
+  given: Fabian
+- family: Brinkrolf
+  given: Johannes
+- family: Schilling
+  given: Malte
+- family: Hammer
+  given: Barbara
+booktitle: 2021 IEEE Symposium Series on Computational Intelligence (SSCI)
+files: []
+organization: IEEE
+pages: 01--09
+papis_id: 1d6812048afb4cbd112ea71f690826fa
+ref: artelt2021evaluating
+title: Evaluating robustness of counterfactual explanations
+type: inproceedings
+year: '2021'

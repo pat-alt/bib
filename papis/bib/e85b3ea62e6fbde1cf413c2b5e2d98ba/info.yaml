@@ -1,0 +1,18 @@
+archiveprefix: arXiv
+author: Goodfellow, Ian and Shlens, Jonathon and Szegedy, Christian
+author_list:
+- family: Goodfellow
+  given: Ian
+- family: Shlens
+  given: Jonathon
+- family: Szegedy
+  given: Christian
+eprint: '1412.6572'
+files: []
+note: arXiv:1412.6572
+papis_id: e85b3ea62e6fbde1cf413c2b5e2d98ba
+primaryclass: stat.ML
+ref: goodfellow2014explaining
+title: Explaining and Harnessing Adversarial Examples
+type: misc
+year: '2015'

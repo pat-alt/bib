@@ -1,0 +1,34 @@
+author: 'Blili-Hamelin, Borhane and Graziul, Christopher and Hancox-Li, Leif and Hazan,
+  Hananel and El-Mhamdi, El-Mahdi and Ghosh, Avijit and Heller, Katherine A and Metcalf,
+  Jacob and Murai, Fabricio and Salvaggio, Eryk and others, '
+author_list:
+- family: Blili-Hamelin
+  given: Borhane
+- family: Graziul
+  given: Christopher
+- family: Hancox-Li
+  given: Leif
+- family: Hazan
+  given: Hananel
+- family: El-Mhamdi
+  given: El-Mahdi
+- family: Ghosh
+  given: Avijit
+- family: Heller
+  given: Katherine A
+- family: Metcalf
+  given: Jacob
+- family: Murai
+  given: Fabricio
+- family: Salvaggio
+  given: Eryk
+- family: others
+  given: ''
+booktitle: Forty-second International Conference on Machine Learning Position Paper
+  Track
+files: []
+papis_id: 1fc590ecbae40c5ed1b8b3fea0751c55
+ref: blili2025stop
+title: 'Position: Stop treating ''AGI'' as the north-star goal of AI research'
+type: inproceedings
+year: '2025'

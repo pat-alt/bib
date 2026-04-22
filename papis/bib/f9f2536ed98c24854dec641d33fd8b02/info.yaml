@@ -1,0 +1,33 @@
+author: 'Solaiman, Irene and Talat, Zeerak and Agnew, William and Ahmad, Lama and
+  Baker, Dylan and Blodgett, Su Lin and Daumé III, Hal and Dodge, Jesse and Evans,
+  Ellie and Hooker, Sara and others, '
+author_list:
+- family: Solaiman
+  given: Irene
+- family: Talat
+  given: Zeerak
+- family: Agnew
+  given: William
+- family: Ahmad
+  given: Lama
+- family: Baker
+  given: Dylan
+- family: Blodgett
+  given: Su Lin
+- family: Daumé III
+  given: Hal
+- family: Dodge
+  given: Jesse
+- family: Evans
+  given: Ellie
+- family: Hooker
+  given: Sara
+- family: others
+  given: ''
+files: []
+journal: arXiv preprint arXiv:2306.05949
+papis_id: f9f2536ed98c24854dec641d33fd8b02
+ref: solaiman2023evaluating
+title: Evaluating the Social Impact of Generative AI Systems in Systems and Society
+type: article
+year: '2023'

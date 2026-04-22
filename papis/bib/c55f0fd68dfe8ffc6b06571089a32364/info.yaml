@@ -1,0 +1,20 @@
+author: Hengst, Floris and Wolter, Ralf and Altmeyer, Patrick and Kaygan, Arda
+author_list:
+- family: Hengst
+  given: Floris
+- family: Wolter
+  given: Ralf
+- family: Altmeyer
+  given: Patrick
+- family: Kaygan
+  given: Arda
+booktitle: 'Findings of the Association for Computational Linguistics: NAACL 2024'
+doi: 10.18653/v1/2024.findings-naacl.156
+files: []
+pages: 2412--2432
+papis_id: c55f0fd68dfe8ffc6b06571089a32364
+ref: hengst2024conformal
+title: Conformal Intent Classification and Clarification for Fast and Accurate Intent
+  Recognition
+type: inproceedings
+year: '2024'

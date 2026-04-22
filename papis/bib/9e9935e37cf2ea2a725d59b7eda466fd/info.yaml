@@ -1,0 +1,17 @@
+archiveprefix: arXiv
+author: Kendall, Alex and Gal, Yarin
+author_list:
+- family: Kendall
+  given: Alex
+- family: Gal
+  given: Yarin
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1703.04977'
+eprinttype: arxiv
+files: []
+papis_id: 9e9935e37cf2ea2a725d59b7eda466fd
+ref: kendall2017what
+title: What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?
+type: unpublished
+year: '2017'

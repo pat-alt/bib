@@ -1,0 +1,23 @@
+address: Red Hook, NY, USA
+author: Lakshminarayanan, Balaji and Pritzel, Alexander and Blundell, Charles
+author_list:
+- family: Lakshminarayanan
+  given: Balaji
+- family: Pritzel
+  given: Alexander
+- family: Blundell
+  given: Charles
+booktitle: Proceedings of the 31st International Conference on Neural Information
+  Processing Systems
+files: []
+isbn: '9781510860964'
+location: Long Beach, California, USA
+numpages: '12'
+pages: 6405--6416
+papis_id: e9c9507c5316d327054acf7bb9eeb036
+publisher: Curran Associates Inc.
+ref: lakshminarayanan2016simple
+series: NIPS'17
+title: Simple and scalable predictive uncertainty estimation using deep ensembles
+type: inproceedings
+year: '2017'

@@ -1,0 +1,41 @@
+abstract: End-to-end trained neural networks (NNs) are a compelling approach to autonomous
+  vehicle control because of their ability to learn complex tasks without manual engineering
+  of rule-based decisions. However, challenging road conditions, ambiguous navigation
+  situations, and safety considerations require reliable uncertainty estimation for
+  the eventual adoption of full-scale autonomous vehicles. Bayesian deep learning
+  approaches provide a way to estimate uncertainty by approximating the posterior
+  distribution of weights given a set of training data. Dropout training in deep NNs
+  approximates Bayesian inference in a deep Gaussian process and can thus be used
+  to estimate model uncertainty. In this paper, we propose a Bayesian NN for end-to-end
+  control that estimates uncertainty by exploiting feature map correlation during
+  training. This approach achieves improved model fits, as well as tighter uncertainty
+  estimates, than traditional element-wise dropout. We evaluate our algorithms on
+  a challenging dataset collected over many different road types, times of day, and
+  weather conditions, and demonstrate how uncertainties can be used in conjunction
+  with a human controller in a parallel autonomous setting.
+annotation: 'Comment: Originally published in Neural Information Processing Systems
+  (NIPS) Workshop on Bayesian Deep Learning 2017'
+author: Amini, Alexander and Soleimany, Ava and Karaman, Sertac and Rus, Daniela
+author_list:
+- family: Amini
+  given: Alexander
+- family: Soleimany
+  given: Ava
+- family: Karaman
+  given: Sertac
+- family: Rus
+  given: Daniela
+date: 2019-05
+doi: 10.48550/arXiv.1805.04829
+file: arXiv Fulltext PDF:https\://arxiv.org/pdf/1805.04829.pdf:application/pdf
+files: []
+institution: arXiv
+keywords: Computer Science - Artificial Intelligence, Computer Science - Machine Learning,
+  Computer Science - Robotics
+note: 'arXiv:1805.04829 [cs] type: article'
+papis_id: ae3ba14fc5300112fa62edb131acc711
+ref: amini2019spatial
+title: Spatial Uncertainty Sampling for End-to-End Control
+type: techreport
+url: http://arxiv.org/abs/1805.04829
+urldate: '2023-06-30'

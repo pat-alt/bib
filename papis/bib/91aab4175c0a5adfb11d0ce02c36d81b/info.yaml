@@ -1,0 +1,15 @@
+author: Barry Becker, Ronny Kohavi
+author_list:
+- family: Barry Becker
+  given: Ronny Kohavi
+date: '1996'
+doi: 10.24432/C5XW20
+files: []
+note: 'Type: dataset'
+papis_id: 91aab4175c0a5adfb11d0ce02c36d81b
+publisher: UCI Machine Learning Repository
+ref: becker1996adult
+title: Adult
+type: misc
+url: https://archive.ics.uci.edu/dataset/2
+urldate: '2023-06-21'

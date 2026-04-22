@@ -1,0 +1,21 @@
+author: Byrne, Simon and Wilcox, Lucas C. and Churavy, Valentin
+author_list:
+- family: Byrne
+  given: Simon
+- family: Wilcox
+  given: Lucas C.
+- family: Churavy
+  given: Valentin
+doi: 10.21105/jcon.00068
+files: []
+journal: Proceedings of the JuliaCon Conferences
+number: '1'
+pages: '68'
+papis_id: 80246a9b4a1af4989ebabef4037b880b
+publisher: The Open Journal
+ref: byrne2021mpi
+title: 'MPI.jl: Julia bindings for the Message Passing Interface'
+type: article
+url: https://doi.org/10.21105/jcon.00068
+volume: '1'
+year: '2021'

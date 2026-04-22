@@ -1,0 +1,39 @@
+abstract: Counterfactual explanations have become a major focus for post-hoc explainability
+  research in recent years, as they seem to provide good algorithmic recourse solutions,
+  people can readily understand them, and they may meet legal regulations (such as
+  GDPR in the EU). However, this large literature has only addressed the use of counterfactual
+  explanations to explain single predictive-instances. Here, we explore a novel use
+  case in which groups of similar instances are explained in a collective fashion
+  using “group counterfactuals” (e.g., to highlight a repeating pattern of illness
+  in a group of patients). Group counterfactuals potentially provide broad explanations
+  covering multiple events/instances. A novel case-based, group-counterfactual algorithm
+  is proposed to generate such explanations and a user study is also reported to test
+  the psychological validity of the algorithm.
+address: Berlin, Heidelberg
+author: Warren, Greta and Delaney, Eoin and Guéret, Christophe and Keane, Mark T.
+author_list:
+- family: Warren
+  given: Greta
+- family: Delaney
+  given: Eoin
+- family: Guéret
+  given: Christophe
+- family: Keane
+  given: Mark T.
+booktitle: 'Case-Based Reasoning Research and Development: 32nd International Conference,
+  ICCBR 2024, Merida, Mexico, July 1–4, 2024, Proceedings'
+doi: 10.1007/978-3-031-63646-2_14
+files: []
+isbn: 978-3-031-63645-5
+keywords: XAI, Explainability, Counterfactuals, User-Centered
+location: Merida, Mexico
+numpages: '17'
+pages: 206–222
+papis_id: c065db27a0241a936d6e43730898bbe4
+publisher: Springer-Verlag
+ref: warren2024explaining
+title: Explaining Multiple Instances Counterfactually:User Tests of&nbsp;Group-Counterfactuals
+  for&nbsp;XAI
+type: inproceedings
+url: https://doi.org/10.1007/978-3-031-63646-2_14
+year: '2024'

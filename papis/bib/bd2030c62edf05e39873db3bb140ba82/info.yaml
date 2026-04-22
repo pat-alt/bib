@@ -1,0 +1,25 @@
+author: Daxberger, Erik and Kristiadi, Agustinus and Immer, Alexander and Eschenhagen,
+  Runa and Bauer, Matthias and Hennig, Philipp
+author_list:
+- family: Daxberger
+  given: Erik
+- family: Kristiadi
+  given: Agustinus
+- family: Immer
+  given: Alexander
+- family: Eschenhagen
+  given: Runa
+- family: Bauer
+  given: Matthias
+- family: Hennig
+  given: Philipp
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: Advances in Neural Information Processing Systems
+papis_id: bd2030c62edf05e39873db3bb140ba82
+ref: daxberger2021laplace
+title: Laplace Redux-Effortless Bayesian Deep Learning
+type: article
+volume: '34'
+year: '2021'

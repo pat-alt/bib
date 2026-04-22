@@ -1,0 +1,17 @@
+author: Lakkaraju, Himabindu and Bastani, Osbert
+author_list:
+- family: Lakkaraju
+  given: Himabindu
+- family: Bastani
+  given: Osbert
+booktitle: Proceedings of the {{AAAI}}/{{ACM Conference}} on {{AI}}, {{Ethics}}, and
+  {{Society}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 79--85
+papis_id: c06bc60210ba7bf32e5efeac6b5061ba
+ref: lakkaraju2020how
+title: '" How Do I Fool You?" Manipulating User Trust via Misleading Black Box Explanations'
+type: inproceedings
+year: '2020'

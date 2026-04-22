@@ -1,0 +1,19 @@
+archiveprefix: arXiv
+author: Jeanneret, Guillaume and Simon, Loı̈c and Jurie, Frédéric
+author_list:
+- family: Jeanneret
+  given: Guillaume
+- family: Simon
+  given: Loı̈c
+- family: Jurie
+  given: Frédéric
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '2203.15636'
+eprinttype: arxiv
+files: []
+papis_id: e73543a4ff214704ceebabced4199e55
+ref: jeanneret2022diffusion
+title: Diffusion Models for Counterfactual Explanations
+type: unpublished
+year: '2022'

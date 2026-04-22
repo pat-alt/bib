@@ -1,0 +1,24 @@
+archiveprefix: arXiv
+author: Antorán, Javier and Bhatt, Umang and Adel, Tameem and Weller, Adrian and Hernández-Lobato,
+  José Miguel
+author_list:
+- family: Antorán
+  given: Javier
+- family: Bhatt
+  given: Umang
+- family: Adel
+  given: Tameem
+- family: Weller
+  given: Adrian
+- family: Hernández-Lobato
+  given: José Miguel
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '2006.06848'
+eprinttype: arxiv
+files: []
+papis_id: 6565f1b1f1ce57ff752dd2eba9b88dc5
+ref: antoran2020getting
+title: 'Getting a Clue: A Method for Explaining Uncertainty Estimates'
+type: unpublished
+year: '2020'

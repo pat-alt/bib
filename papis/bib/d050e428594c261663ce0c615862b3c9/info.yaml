@@ -1,0 +1,15 @@
+author: Samoilescu, Robert-Florian and Van Looveren, Arnaud and Klaise, Janis
+author_list:
+- family: Samoilescu
+  given: Robert-Florian
+- family: Van Looveren
+  given: Arnaud
+- family: Klaise
+  given: Janis
+files: []
+journal: arXiv preprint arXiv:2106.02597
+papis_id: d050e428594c261663ce0c615862b3c9
+ref: samoilescu2021model
+title: Model-agnostic and scalable counterfactual explanations via reinforcement learning
+type: article
+year: '2021'

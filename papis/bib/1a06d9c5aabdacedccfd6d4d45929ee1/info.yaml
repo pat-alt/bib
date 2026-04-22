@@ -1,0 +1,22 @@
+author: Bezanson, Jeff and Edelman, Alan and Karpinski, Stefan and Shah, Viral B
+author_list:
+- family: Bezanson
+  given: Jeff
+- family: Edelman
+  given: Alan
+- family: Karpinski
+  given: Stefan
+- family: Shah
+  given: Viral B
+files: []
+journal: SIAM review
+number: '1'
+pages: 65--98
+papis_id: 1a06d9c5aabdacedccfd6d4d45929ee1
+publisher: SIAM
+ref: bezanson2017julia
+title: 'Julia: A fresh approach to numerical computing'
+type: article
+url: https://doi.org/10.1137/141000671
+volume: '59'
+year: '2017'

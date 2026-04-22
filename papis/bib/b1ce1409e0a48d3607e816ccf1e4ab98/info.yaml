@@ -1,0 +1,24 @@
+author: Poyiadzi, Rafael and Sokol, Kacper and Santos-Rodriguez, Raul and De Bie,
+  Tijl and Flach, Peter
+author_list:
+- family: Poyiadzi
+  given: Rafael
+- family: Sokol
+  given: Kacper
+- family: Santos-Rodriguez
+  given: Raul
+- family: De Bie
+  given: Tijl
+- family: Flach
+  given: Peter
+booktitle: Proceedings of the {{AAAI}}/{{ACM Conference}} on {{AI}}, {{Ethics}}, and
+  {{Society}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 344--350
+papis_id: b1ce1409e0a48d3607e816ccf1e4ab98
+ref: poyiadzi2020face
+title: 'FACE: Feasible and Actionable Counterfactual Explanations'
+type: inproceedings
+year: '2020'

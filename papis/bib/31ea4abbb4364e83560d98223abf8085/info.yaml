@@ -1,0 +1,16 @@
+archiveprefix: arXiv
+author: Bereska, Leonard and Gavves, Efstratios
+author_list:
+- family: Bereska
+  given: Leonard
+- family: Gavves
+  given: Efstratios
+eprint: '2404.14082'
+files: []
+papis_id: 31ea4abbb4364e83560d98223abf8085
+primaryclass: cs.AI
+ref: bereska2024mechanistic
+title: Mechanistic Interpretability for AI Safety -- A Review
+type: misc
+url: https://arxiv.org/abs/2404.14082
+year: '2024'

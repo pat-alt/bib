@@ -1,0 +1,17 @@
+archiveprefix: arXiv
+author: Parr, Terence and Howard, Jeremy
+author_list:
+- family: Parr
+  given: Terence
+- family: Howard
+  given: Jeremy
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1802.01528'
+eprinttype: arxiv
+files: []
+papis_id: c49118ca471014cff5e29c62aa47fc84
+ref: parr2018matrix
+title: The Matrix Calculus You Need for Deep Learning
+type: unpublished
+year: '2018'

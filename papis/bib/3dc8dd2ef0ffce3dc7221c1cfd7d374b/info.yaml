@@ -1,0 +1,15 @@
+author: Altmeyer, Patrick
+author_list:
+- family: Altmeyer
+  given: Patrick
+bdsk-url-1: https://github.com/pat-alt/CounterfactualExplanations.jl
+date: '2022'
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+papis_id: 3dc8dd2ef0ffce3dc7221c1cfd7d374b
+ref: altmeyer2022counterfactualexplanations.jl
+title: CounterfactualExplanations.Jl - a Julia Package for Counterfactual Explanations
+  and Algorithmic Recourse
+type: misc
+url: https://github.com/pat-alt/CounterfactualExplanations.jl

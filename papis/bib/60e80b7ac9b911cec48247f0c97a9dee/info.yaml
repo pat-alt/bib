@@ -1,0 +1,39 @@
+abstract: 'Blaom et al., (2020). MLJ: A Julia package for composable machine learning.
+  Journal of Open Source Software, 5(55), 2704, https://doi.org/10.21105/joss.02704'
+author: Blaom, Anthony D. and Kiraly, Franz and Lienart, Thibaut and Simillides, Yiannis
+  and Arenas, Diego and Vollmer, Sebastian J.
+author_list:
+- family: Blaom
+  given: Anthony D.
+- family: Kiraly
+  given: Franz
+- family: Lienart
+  given: Thibaut
+- family: Simillides
+  given: Yiannis
+- family: Arenas
+  given: Diego
+- family: Vollmer
+  given: Sebastian J.
+bdsk-url-1: https://joss.theoj.org/papers/10.21105/joss.02704
+bdsk-url-2: https://doi.org/10.21105/joss.02704
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.21105/joss.02704
+file: ':/Users/FA31DU/Zotero/storage/7AY87FGP/Blaom et al. - 2020 - MLJ A Julia package
+  for composable machine learni.pdf:;:/Users/FA31DU/Zotero/storage/D69YSMVF/joss.html:'
+files: []
+issn: 2475-9066
+journal: Journal of Open Source Software
+langid: english
+month: November
+number: '55'
+pages: '2704'
+papis_id: 60e80b7ac9b911cec48247f0c97a9dee
+ref: blaom2020mlj
+shorttitle: '{{MLJ}}'
+title: 'MLJ: A Julia Package for Composable Machine Learning'
+type: article
+urldate: '2022-10-27'
+volume: '5'
+year: '2020'

@@ -1,0 +1,16 @@
+author: Schaeffer, Rylan and Miranda, Brando and Koyejo, Sanmi
+author_list:
+- family: Schaeffer
+  given: Rylan
+- family: Miranda
+  given: Brando
+- family: Koyejo
+  given: Sanmi
+files: []
+journal: Advances in Neural Information Processing Systems
+papis_id: a2516162c2f41fbf03992dfb6236425e
+ref: schaeffer2024emergent
+title: Are emergent abilities of large language models a mirage?
+type: article
+volume: '36'
+year: '2024'

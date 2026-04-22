@@ -1,0 +1,13 @@
+author: Molnar, Christoph
+author_list:
+- family: Molnar
+  given: Christoph
+edition: '2'
+files: []
+papis_id: 569d07024e11eb8ec47fdf81f6ae5909
+ref: molnar2022interpretable
+subtitle: A Guide for Making Black Box Models Explainable
+title: Interpretable Machine Learning
+type: book
+url: https://christophm.github.io/interpretable-ml-book
+year: '2022'

@@ -1,0 +1,18 @@
+author: Luu, Hoai Linh and Inoue, Naoya
+author_list:
+- family: Luu
+  given: Hoai Linh
+- family: Inoue
+  given: Naoya
+booktitle: Proceedings of the 37th Pacific Asia Conference on Language, Information
+  and Computation
+files: []
+pages: 881--888
+papis_id: 2fcea30b75769187818b411d8c398847
+publisher: ACL
+ref: luu2023counterfactual
+title: Counterfactual Adversarial Training for Improving Robustness of Pre-trained
+  Language Models
+type: inproceedings
+url: https://aclanthology.org/2023.paclic-1.88/
+year: '2023'

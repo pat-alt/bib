@@ -1,0 +1,19 @@
+author: Wang, Zhou and Simoncelli, Eero P and Bovik, Alan C
+author_list:
+- family: Wang
+  given: Zhou
+- family: Simoncelli
+  given: Eero P
+- family: Bovik
+  given: Alan C
+booktitle: The Thrity-Seventh Asilomar Conference on Signals, Systems \& Computers,
+  2003
+files: []
+organization: Ieee
+pages: 1398--1402
+papis_id: 9f95baca467bf4da2ffde607cc2cc796
+ref: wang2003multiscale
+title: Multiscale structural similarity for image quality assessment
+type: inproceedings
+volume: '2'
+year: '2003'

@@ -1,0 +1,21 @@
+author: Sakaguchi, Keisuke and Bras, Ronan Le and Bhagavatula, Chandra and Choi, Yejin
+author_list:
+- family: Sakaguchi
+  given: Keisuke
+- family: Bras
+  given: Ronan Le
+- family: Bhagavatula
+  given: Chandra
+- family: Choi
+  given: Yejin
+files: []
+journal: Communications of the ACM
+number: '9'
+pages: 99--106
+papis_id: 5510f5b21f777498b821f80710e99401
+publisher: ACM New York, NY, USA
+ref: sakaguchi2021winogrande
+title: 'Winogrande: An adversarial winograd schema challenge at scale'
+type: article
+volume: '64'
+year: '2021'

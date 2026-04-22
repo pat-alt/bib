@@ -1,0 +1,44 @@
+archiveprefix: arXiv
+author: Touvron, Hugo and Lavril, Thibaut and Izacard, Gautier and Martinet, Xavier
+  and Lachaux, Marie-Anne and Lacroix, Timothée and Rozière, Baptiste and Goyal, Naman
+  and Hambro, Eric and Azhar, Faisal and Rodriguez, Aurelien and Arm,  and Joulin,  and
+  Grave, Edouard and Lample, Guillaume
+author_list:
+- family: Touvron
+  given: Hugo
+- family: Lavril
+  given: Thibaut
+- family: Izacard
+  given: Gautier
+- family: Martinet
+  given: Xavier
+- family: Lachaux
+  given: Marie-Anne
+- family: Lacroix
+  given: Timothée
+- family: Rozière
+  given: Baptiste
+- family: Goyal
+  given: Naman
+- family: Hambro
+  given: Eric
+- family: Azhar
+  given: Faisal
+- family: Rodriguez
+  given: Aurelien
+- family: Arm
+  given: ''
+- family: Joulin
+  given: ''
+- family: Grave
+  given: Edouard
+- family: Lample
+  given: Guillaume
+eprint: '2302.13971'
+files: []
+papis_id: c248e903cb4dbf59ac9cc03a99ba993c
+primaryclass: cs.CL
+ref: touvron2023llama
+title: 'LLaMA: Open and Efficient Foundation Language Models'
+type: misc
+year: '2023'

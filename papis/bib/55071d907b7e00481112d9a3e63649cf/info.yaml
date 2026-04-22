@@ -1,0 +1,21 @@
+archiveprefix: arXiv
+author: Stanton, Samuel and Maddox, Wesley and Wilson, Andrew Gordon
+author_list:
+- family: Stanton
+  given: Samuel
+- family: Maddox
+  given: Wesley
+- family: Wilson
+  given: Andrew Gordon
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '2210.12496'
+eprinttype: arxiv
+file: ':/Users/FA31DU/Zotero/storage/XFGZAB9J/Stanton et al. - 2022 - Bayesian Optimization
+  with Conformal Coverage Guar.pdf:;:/Users/FA31DU/Zotero/storage/RPWYDPVW/2210.html:'
+files: []
+papis_id: 55071d907b7e00481112d9a3e63649cf
+ref: stanton2022bayesian
+title: Bayesian Optimization with Conformal Coverage Guarantees
+type: unpublished
+year: '2022'

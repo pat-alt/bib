@@ -1,0 +1,17 @@
+archiveprefix: arXiv
+author: Raj, Vishnu and Kalyani, Sheetal
+author_list:
+- family: Raj
+  given: Vishnu
+- family: Kalyani
+  given: Sheetal
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1707.09727'
+eprinttype: arxiv
+files: []
+papis_id: 60b6a84397a4b73a2a7083ec96e28135
+ref: raj2017taming
+title: 'Taming Non-Stationary Bandits: A Bayesian Approach'
+type: unpublished
+year: '2017'

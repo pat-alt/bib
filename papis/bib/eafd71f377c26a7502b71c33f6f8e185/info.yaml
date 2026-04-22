@@ -1,0 +1,13 @@
+author: Hoffman, Hans
+author_list:
+- family: Hoffman
+  given: Hans
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+papis_id: eafd71f377c26a7502b71c33f6f8e185
+ref: hoffman1994german
+title: German Credit Data
+type: misc
+url: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
+year: '1994'

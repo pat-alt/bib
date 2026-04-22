@@ -1,0 +1,20 @@
+author: Slack, Dylan and Hilgard, Anna and Lakkaraju, Himabindu and Singh, Sameer
+author_list:
+- family: Slack
+  given: Dylan
+- family: Hilgard
+  given: Anna
+- family: Lakkaraju
+  given: Himabindu
+- family: Singh
+  given: Sameer
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: Advances in Neural Information Processing Systems
+papis_id: 68a1d70048347775d64089d05098d6d2
+ref: slack2021counterfactual
+title: Counterfactual Explanations Can Be Manipulated
+type: article
+volume: '34'
+year: '2021'

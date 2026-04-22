@@ -1,0 +1,24 @@
+address: New York, NY, USA
+author: Sharma, Shubham and Henderson, Jette and Ghosh, Joydeep
+author_list:
+- family: Sharma
+  given: Shubham
+- family: Henderson
+  given: Jette
+- family: Ghosh
+  given: Joydeep
+booktitle: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
+doi: 10.1145/3375627.3375812
+files: []
+isbn: '9781450371100'
+location: New York, NY, USA
+numpages: '7'
+pages: 166–172
+papis_id: 72bf2a5c1ebd517000eae4fd02c24805
+publisher: Association for Computing Machinery
+ref: sharma2020certifai
+series: AIES '20
+title: 'CERTIFAI: A Common Framework to Provide Explanations and Analyse the Fairness
+  and Robustness of Black-box Models'
+type: inproceedings
+year: '2020'

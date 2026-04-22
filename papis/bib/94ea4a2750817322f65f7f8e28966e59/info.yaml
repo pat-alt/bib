@@ -1,0 +1,18 @@
+author: Cortes, Corinna and Vapnik, Vladimir
+author_list:
+- family: Cortes
+  given: Corinna
+- family: Vapnik
+  given: Vladimir
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: Machine learning
+number: '3'
+pages: 273--297
+papis_id: 94ea4a2750817322f65f7f8e28966e59
+ref: cortes1995supportvector
+title: Support-Vector Networks
+type: article
+volume: '20'
+year: '1995'

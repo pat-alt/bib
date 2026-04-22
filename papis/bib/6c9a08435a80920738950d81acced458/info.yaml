@@ -1,0 +1,18 @@
+author: Dombrowski, Ann-Kathrin and Gerken, Jan E and Kessel, Pan
+author_list:
+- family: Dombrowski
+  given: Ann-Kathrin
+- family: Gerken
+  given: Jan E
+- family: Kessel
+  given: Pan
+booktitle: '{{ICML Workshop}} on {{Invertible Neural Networks}}, {{Normalizing Flows}},
+  and {{Explicit Likelihood Models}}'
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+papis_id: 6c9a08435a80920738950d81acced458
+ref: dombrowski2021diffeomorphic
+title: Diffeomorphic Explanations with Normalizing Flows
+type: inproceedings
+year: '2021'

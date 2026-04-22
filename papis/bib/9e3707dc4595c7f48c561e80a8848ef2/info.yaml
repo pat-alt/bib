@@ -1,0 +1,25 @@
+author: Gama, João and Žliobaitė, Indrė and Bifet, Albert and Pechenizkiy, Mykola
+  and Bouchachia, Abdelhamid
+author_list:
+- family: Gama
+  given: João
+- family: Žliobaitė
+  given: Indrė
+- family: Bifet
+  given: Albert
+- family: Pechenizkiy
+  given: Mykola
+- family: Bouchachia
+  given: Abdelhamid
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: ACM computing surveys (CSUR)
+number: '4'
+pages: 1--37
+papis_id: 9e3707dc4595c7f48c561e80a8848ef2
+ref: gama2014survey
+title: A Survey on Concept Drift Adaptation
+type: article
+volume: '46'
+year: '2014'

@@ -1,0 +1,24 @@
+archiveprefix: arXiv
+author: Ish-Horowicz, Jonathan and Udwin, Dana and Flaxman, Seth and Filippi, Sarah
+  and Crawford, Lorin
+author_list:
+- family: Ish-Horowicz
+  given: Jonathan
+- family: Udwin
+  given: Dana
+- family: Flaxman
+  given: Seth
+- family: Filippi
+  given: Sarah
+- family: Crawford
+  given: Lorin
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1901.09839'
+eprinttype: arxiv
+files: []
+papis_id: 582414cbfe35c4bf752fb218c8b97f61
+ref: ish-horowicz2019interpreting
+title: Interpreting Deep Neural Networks through Variable Importance
+type: unpublished
+year: '2019'

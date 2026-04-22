@@ -1,0 +1,15 @@
+author: 'Altmeyer, Patrick and contributors, '
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: contributors
+  given: ''
+date: '2024'
+doi: 10.5281/zenodo.13758044
+files: []
+papis_id: 3e9a4369e197d660a25cbaf88d9cb98e
+ref: altmeyer2024lrjl
+title: JuliaTrustworthyAI/LaplaceRedux.jl
+type: software
+url: https://doi.org/10.5281/zenodo.12797678
+version: v1.2.0

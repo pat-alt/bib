@@ -1,0 +1,23 @@
+author: Abadie, Alberto and Angrist, Joshua and Imbens, Guido
+author_list:
+- family: Abadie
+  given: Alberto
+- family: Angrist
+  given: Joshua
+- family: Imbens
+  given: Guido
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.2139/ssrn.195733
+files: []
+journal: 'Econometrica : journal of the Econometric Society'
+number: '1'
+pages: 91--117
+papis_id: cfe315eb54a7a5c8947b74b9fecda320
+ref: abadie2002instrumental
+shortjournal: Econometrica
+title: Instrumental Variables Estimates of the Effect of Subsidized Training on the
+  Quantiles of Trainee Earnings
+type: article
+volume: '70'
+year: '2002'

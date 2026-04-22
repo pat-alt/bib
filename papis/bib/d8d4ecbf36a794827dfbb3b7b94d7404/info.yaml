@@ -1,0 +1,22 @@
+author: Anand, Avishek and Lyu, Lijun and Idahl, Maximilian and Wang, Yumeng and Wallat,
+  Jonas and Zhang, Zijian
+author_list:
+- family: Anand
+  given: Avishek
+- family: Lyu
+  given: Lijun
+- family: Idahl
+  given: Maximilian
+- family: Wang
+  given: Yumeng
+- family: Wallat
+  given: Jonas
+- family: Zhang
+  given: Zijian
+files: []
+journal: arXiv preprint arXiv:2211.02405
+papis_id: d8d4ecbf36a794827dfbb3b7b94d7404
+ref: anand2022explainable
+title: 'Explainable Information Retrieval: A Survey'
+type: article
+year: '2022'

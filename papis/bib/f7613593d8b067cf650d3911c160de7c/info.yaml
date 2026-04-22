@@ -1,0 +1,18 @@
+author: Zgraggen, Emanuel and Zhao, Zheguang and Zeleznik, Robert and Kraska, Tim
+author_list:
+- family: Zgraggen
+  given: Emanuel
+- family: Zhao
+  given: Zheguang
+- family: Zeleznik
+  given: Robert
+- family: Kraska
+  given: Tim
+booktitle: Proceedings of the 2018 CHI conference on human factors in computing systems
+files: []
+pages: 1--12
+papis_id: f7613593d8b067cf650d3911c160de7c
+ref: zgraggen2018investigating
+title: Investigating the effect of the multiple comparisons problem in visual analysis
+type: inproceedings
+year: '2018'

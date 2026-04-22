@@ -1,0 +1,22 @@
+author: Gupta, Neha and Granmo, Ole-Christoffer and Agrawala, Ashok
+author_list:
+- family: Gupta
+  given: Neha
+- family: Granmo
+  given: Ole-Christoffer
+- family: Agrawala
+  given: Ashok
+booktitle: 2011 10th {{International Conference}} on {{Machine Learning}} and {{Applications}}
+  and {{Workshops}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1109/icmla.2011.144
+files: []
+pages: 484--489
+papis_id: e9a978af339d95c69f4c11c9ca96eb0c
+publisher: '{IEEE}'
+ref: gupta2011thompson
+title: Thompson Sampling for Dynamic Multi-Armed Bandits
+type: inproceedings
+volume: '1'
+year: '2011'

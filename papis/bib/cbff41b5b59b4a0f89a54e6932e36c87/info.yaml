@@ -1,0 +1,39 @@
+author: 'Wilkinson, Mark D and Dumontier, Michel and Aalbersberg, IJsbr and Jan,  and
+  Appleton, Gabrielle and Axton, Myles and Baak, Arie and Blomberg, Niklas and Boiten,
+  Jan-Willem and da Silva Santos, Luiz Bonino and Bourne, Philip E and others, '
+author_list:
+- family: Wilkinson
+  given: Mark D
+- family: Dumontier
+  given: Michel
+- family: Aalbersberg
+  given: IJsbr
+- family: Jan
+  given: ''
+- family: Appleton
+  given: Gabrielle
+- family: Axton
+  given: Myles
+- family: Baak
+  given: Arie
+- family: Blomberg
+  given: Niklas
+- family: Boiten
+  given: Jan-Willem
+- family: da Silva Santos
+  given: Luiz Bonino
+- family: Bourne
+  given: Philip E
+- family: others
+  given: ''
+files: []
+journal: Scientific data
+number: '1'
+pages: 1--9
+papis_id: cbff41b5b59b4a0f89a54e6932e36c87
+publisher: Nature Publishing Group
+ref: wilkinson2016fair
+title: The FAIR Guiding Principles for scientific data management and stewardship
+type: article
+volume: '3'
+year: '2016'

@@ -1,0 +1,33 @@
+archiveprefix: arXiv
+author: Innes, Michael and Saba, Elliot and Fischer, Keno and Gandhi, Dhairya and
+  Rudilosso, Marco Concetto and Joy, Neethu Mariya and Karmali, Tejan and Pal, Avik
+  and Shah, Viral
+author_list:
+- family: Innes
+  given: Michael
+- family: Saba
+  given: Elliot
+- family: Fischer
+  given: Keno
+- family: Gandhi
+  given: Dhairya
+- family: Rudilosso
+  given: Marco Concetto
+- family: Joy
+  given: Neethu Mariya
+- family: Karmali
+  given: Tejan
+- family: Pal
+  given: Avik
+- family: Shah
+  given: Viral
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1811.01457'
+eprinttype: arxiv
+files: []
+papis_id: 066d6f5fa55b401c1549d39cb5a0e8ff
+ref: innes2018fashionable
+title: Fashionable Modelling with Flux
+type: unpublished
+year: '2018'

@@ -1,0 +1,26 @@
+abstract: 'DataFrames.jl is a package written for and in the Julia language offering
+  flexible and efficient handling of tabular data sets in memory. Thanks to Julia’s
+  unique strengths, it provides an appealing set of features: Rich support for standard
+  data processing tasks and excellent flexibility and efficiency for more advanced
+  and non-standard operations. We present the fundamental design of the package and
+  how it compares with implementations of data frames in other languages, its main
+  features, performance, and possible extensions. We conclude with a practical illustration
+  of typical data processing operations.'
+author: Bouchet-Valat, Milan and Kamiński, Bogumił
+author_list:
+- family: Bouchet-Valat
+  given: Milan
+- family: Kamiński
+  given: Bogumił
+doi: 10.18637/jss.v107.i04
+files: []
+journal: Journal of Statistical Software
+number: '4'
+pages: 1--32
+papis_id: 26d754b5b5f8634dc77b6ae4c04ce007
+ref: milan2023dataframes
+title: 'DataFrames.jl: Flexible and Fast Tabular Data in Julia'
+type: article
+url: https://www.jstatsoft.org/index.php/jss/article/view/v107i04
+volume: '107'
+year: '2023'

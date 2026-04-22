@@ -1,0 +1,13 @@
+author: Kingma, Diederik P and Ba, Jimmy
+author_list:
+- family: Kingma
+  given: Diederik P
+- family: Ba
+  given: Jimmy
+files: []
+journal: arXiv preprint arXiv:1412.6980
+papis_id: b30309ee50fab83d9e0df2f270d17c4d
+ref: kingma2014adam
+title: 'Adam: A method for stochastic optimization'
+type: article
+year: '2014'

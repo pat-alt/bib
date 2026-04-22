@@ -1,0 +1,20 @@
+address: New York, NY, USA
+author: Prado-Romero, Mario Alfonso and Stilo, Giovanni
+author_list:
+- family: Prado-Romero
+  given: Mario Alfonso
+- family: Stilo
+  given: Giovanni
+booktitle: Proceedings of the 31st ACM International Conference on Information and
+  Knowledge Management
+doi: 10.1145/3511808.3557608
+files: []
+isbn: '9781450392365'
+location: Atlanta, GA, USA
+papis_id: b78331995813c16c5869f0fb48905120
+publisher: Association for Computing Machinery
+ref: prado2022gretel
+series: CIKM '22
+title: 'GRETEL: Graph Counterfactual Explanation Evaluation Framework'
+type: inproceedings
+year: '2022'

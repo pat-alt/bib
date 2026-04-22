@@ -1,0 +1,24 @@
+author: Slack, Dylan and Hilgard, Sophie and Jia, Emily and Singh, Sameer and Lakkaraju,
+  Himabindu
+author_list:
+- family: Slack
+  given: Dylan
+- family: Hilgard
+  given: Sophie
+- family: Jia
+  given: Emily
+- family: Singh
+  given: Sameer
+- family: Lakkaraju
+  given: Himabindu
+booktitle: Proceedings of the {{AAAI}}/{{ACM Conference}} on {{AI}}, {{Ethics}}, and
+  {{Society}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 180--186
+papis_id: 111a7fa2ba8dbbd4e9fd3b4dea489c50
+ref: slack2020fooling
+title: 'Fooling Lime and Shap: Adversarial Attacks on Post Hoc Explanation Methods'
+type: inproceedings
+year: '2020'

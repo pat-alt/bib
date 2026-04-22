@@ -1,0 +1,18 @@
+archiveprefix: arXiv
+author: Mahajan, Divyat and Tan, Chenhao and Sharma, Amit
+author_list:
+- family: Mahajan
+  given: Divyat
+- family: Tan
+  given: Chenhao
+- family: Sharma
+  given: Amit
+eprint: '1912.03277'
+files: []
+papis_id: d579cc58ec28f76915c63d43e8127509
+primaryclass: cs.LG
+ref: mahajan2019preserving
+title: Preserving Causal Constraints in Counterfactual Explanations for Machine Learning
+  Classifiers
+type: misc
+year: '2020'

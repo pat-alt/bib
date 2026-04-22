@@ -1,0 +1,19 @@
+author: Yang, Jie and Drake, Thomas and Damianou, Andreas and Maarek, Yoelle
+author_list:
+- family: Yang
+  given: Jie
+- family: Drake
+  given: Thomas
+- family: Damianou
+  given: Andreas
+- family: Maarek
+  given: Yoelle
+booktitle: Proceedings of the 2018 World Wide Web Conference
+files: []
+pages: 23--32
+papis_id: 0a5be948bb55e87a67f56202c790273c
+ref: yang2018leveraging
+title: 'Leveraging crowdsourcing data for deep active learning an application: Learning
+  intents in alexa'
+type: inproceedings
+year: '2018'

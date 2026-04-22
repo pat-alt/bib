@@ -1,0 +1,17 @@
+author: Buolamwini, Joy and Gebru, Timnit
+author_list:
+- family: Buolamwini
+  given: Joy
+- family: Gebru
+  given: Timnit
+booktitle: Conference on Fairness, Accountability and Transparency
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 77--91
+papis_id: 3c40d63f4a702a86c3d1682275a93479
+publisher: '{PMLR}'
+ref: buolamwini2018gender
+title: 'Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification'
+type: inproceedings
+year: '2018'

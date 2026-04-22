@@ -1,0 +1,19 @@
+author: Gal, Yarin and Islam, Riashat and Ghahramani, Zoubin
+author_list:
+- family: Gal
+  given: Yarin
+- family: Islam
+  given: Riashat
+- family: Ghahramani
+  given: Zoubin
+booktitle: International {{Conference}} on {{Machine Learning}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 1183--1192
+papis_id: c9d8ec41a173bb8f4485ade965640cda
+publisher: '{PMLR}'
+ref: gal2017deep
+title: Deep Bayesian Active Learning with Image Data
+type: inproceedings
+year: '2017'

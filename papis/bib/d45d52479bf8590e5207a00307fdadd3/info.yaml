@@ -1,0 +1,21 @@
+author: LeCun, Yann and Bottou, Léon and Bengio, Yoshua and Haffner, Patrick
+author_list:
+- family: LeCun
+  given: Yann
+- family: Bottou
+  given: Léon
+- family: Bengio
+  given: Yoshua
+- family: Haffner
+  given: Patrick
+files: []
+journal: Proceedings of the IEEE
+number: '11'
+pages: 2278--2324
+papis_id: d45d52479bf8590e5207a00307fdadd3
+publisher: IEEE
+ref: lecun1998gradient
+title: Gradient-based learning applied to document recognition
+type: article
+volume: '86'
+year: '1998'

@@ -1,0 +1,25 @@
+archiveprefix: arXiv
+author: Verma, Sahil and Boonsanong, Varich and Hoang, Minh and Hines, Keegan E. and
+  Dickerson, John P. and Shah, Chirag
+author_list:
+- family: Verma
+  given: Sahil
+- family: Boonsanong
+  given: Varich
+- family: Hoang
+  given: Minh
+- family: Hines
+  given: Keegan E.
+- family: Dickerson
+  given: John P.
+- family: Shah
+  given: Chirag
+eprint: '2010.10596'
+files: []
+papis_id: 4492f831f01d99463f4fcf210c443dff
+primaryclass: cs.LG
+ref: verma2020counterfactual
+title: 'Counterfactual Explanations and Algorithmic Recourses for Machine Learning:
+  A Review'
+type: misc
+year: '2022'

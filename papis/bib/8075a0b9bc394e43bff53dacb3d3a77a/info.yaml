@@ -1,0 +1,20 @@
+author: Chandola, Varun and Banerjee, Arindam and Kumar, Vipin
+author_list:
+- family: Chandola
+  given: Varun
+- family: Banerjee
+  given: Arindam
+- family: Kumar
+  given: Vipin
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: ACM computing surveys (CSUR)
+number: '3'
+pages: 1--58
+papis_id: 8075a0b9bc394e43bff53dacb3d3a77a
+ref: chandola2009anomaly
+title: 'Anomaly Detection: A Survey'
+type: article
+volume: '41'
+year: '2009'

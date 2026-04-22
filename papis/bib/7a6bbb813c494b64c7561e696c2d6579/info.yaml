@@ -1,0 +1,19 @@
+author: Danisch, Simon and Krumbiegel, Julius
+author_list:
+- family: Danisch
+  given: Simon
+- family: Krumbiegel
+  given: Julius
+doi: 10.21105/joss.03349
+files: []
+journal: Journal of Open Source Software
+number: '65'
+pages: '3349'
+papis_id: 7a6bbb813c494b64c7561e696c2d6579
+publisher: The Open Journal
+ref: danisch2021makie
+title: 'Makie.jl: Flexible high-performance data visualization for Julia'
+type: article
+url: https://doi.org/10.21105/joss.03349
+volume: '6'
+year: '2021'

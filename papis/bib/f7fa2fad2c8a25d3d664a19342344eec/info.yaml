@@ -1,0 +1,15 @@
+abstract: A (very) gentle introduction to Conformal Prediction in Julia using my new
+  package ConformalPrediction.jl.
+author: Altmeyer, Patrick
+author_list:
+- family: Altmeyer
+  given: Patrick
+date: 2022-10
+files: []
+language: en
+papis_id: f7fa2fad2c8a25d3d664a19342344eec
+ref: altmeyer2022conformal
+title: Conformal Prediction in Julia
+type: misc
+url: https://www.paltmeyer.com/blog/posts/conformal-prediction/
+urldate: '2023-03-27'

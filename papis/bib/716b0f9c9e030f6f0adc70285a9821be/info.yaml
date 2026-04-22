@@ -1,0 +1,30 @@
+author: Balashankar, Ananth and Wang, Xuezhi and Qin, Yao and Packer, Ben and Thain,
+  Nithum and Chi, Ed and Chen, Jilin and Beutel, Alex
+author_list:
+- family: Balashankar
+  given: Ananth
+- family: Wang
+  given: Xuezhi
+- family: Qin
+  given: Yao
+- family: Packer
+  given: Ben
+- family: Thain
+  given: Nithum
+- family: Chi
+  given: Ed
+- family: Chen
+  given: Jilin
+- family: Beutel
+  given: Alex
+booktitle: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
+doi: 10.18653/v1/2023.findings-emnlp.10
+files: []
+pages: 127--139
+papis_id: 716b0f9c9e030f6f0adc70285a9821be
+publisher: ACL
+ref: balashankar2023improving
+title: Improving Classifier Robustness through Active Generative Counterfactual Data
+  Augmentation
+type: inproceedings
+year: '2023'

@@ -1,0 +1,25 @@
+author: Gretton, Arthur and Borgwardt, Karsten M and Rasch, Malte J and Schölkopf,
+  Bernhard and Smola, Alexander
+author_list:
+- family: Gretton
+  given: Arthur
+- family: Borgwardt
+  given: Karsten M
+- family: Rasch
+  given: Malte J
+- family: Schölkopf
+  given: Bernhard
+- family: Smola
+  given: Alexander
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: The Journal of Machine Learning Research
+number: '1'
+pages: 723--773
+papis_id: 89a826d32fe2304d8736efe434df713a
+ref: gretton2012kernel
+title: A Kernel Two-Sample Test
+type: article
+volume: '13'
+year: '2012'

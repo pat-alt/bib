@@ -1,0 +1,31 @@
+abstract: We present an efficient block-diagonal ap- proximation to the Gauss-Newton
+  matrix for feedforward neural networks. Our result- ing algorithm is competitive
+  against state- of-the-art first order optimisation methods, with sometimes significant
+  improvement in optimisation performance. Unlike first-order methods, for which hyperparameter
+  tuning of the optimisation parameters is often a labo- rious process, our approach
+  can provide good performance even when used with default set- tings. A side result
+  of our work is that for piecewise linear transfer functions, the net- work objective
+  function can have no differ- entiable local maxima, which may partially explain
+  why such transfer functions facilitate effective optimisation.
+annotation: 'Comment: ICML 2017'
+author: Botev, Aleksandar and Ritter, Hippolyt and Barber, David
+author_list:
+- family: Botev
+  given: Aleksandar
+- family: Ritter
+  given: Hippolyt
+- family: Barber
+  given: David
+date: 2017-06
+doi: 10.48550/arXiv.1706.03662
+file: arXiv Fulltext PDF:https\://arxiv.org/pdf/1706.03662.pdf:application/pdf
+files: []
+institution: arXiv
+keywords: Statistics - Machine Learning
+note: 'arXiv:1706.03662 [stat] type: article'
+papis_id: 2866591d9ff1f9757b5252dcef6d3db3
+ref: botev2017practical
+title: Practical Gauss-Newton Optimisation for Deep Learning
+type: techreport
+url: http://arxiv.org/abs/1706.03662
+urldate: '2023-06-30'

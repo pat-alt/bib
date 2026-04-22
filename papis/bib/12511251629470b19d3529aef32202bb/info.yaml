@@ -1,0 +1,17 @@
+archiveprefix: arXiv
+author: Garivier, Aurélien and Moulines, Eric
+author_list:
+- family: Garivier
+  given: Aurélien
+- family: Moulines
+  given: Eric
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '0805.3415'
+eprinttype: arxiv
+files: []
+papis_id: 12511251629470b19d3529aef32202bb
+ref: garivier2008upperconfidence
+title: On Upper-Confidence Bound Policies for Non-Stationary Bandit Problems
+type: unpublished
+year: '2008'

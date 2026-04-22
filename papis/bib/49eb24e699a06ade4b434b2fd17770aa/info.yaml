@@ -1,0 +1,20 @@
+author: Wang, HaiYing and Zhu, Rong and Ma, Ping
+author_list:
+- family: Wang
+  given: HaiYing
+- family: Zhu
+  given: Rong
+- family: Ma
+  given: Ping
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: Journal of the American Statistical Association
+number: '522'
+pages: 829--844
+papis_id: 49eb24e699a06ade4b434b2fd17770aa
+ref: wang2018optimal
+title: Optimal Subsampling for Large Sample Logistic Regression
+type: article
+volume: '113'
+year: '2018'

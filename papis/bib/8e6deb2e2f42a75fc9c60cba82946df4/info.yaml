@@ -1,0 +1,39 @@
+abstract: Counterfactual explanation methods provide information on how feature values
+  of individual observations must be changed to obtain a desired prediction. Despite
+  the increasing amount of proposed methods in research, only a few implementations
+  exist whose interfaces and requirements vary widely. In this work, we introduce
+  the counterfactuals R package, which provides a modular and unified R6-based interface
+  for counterfactual explanation methods. We implemented three existing counterfactual
+  explanation methods and propose some optional methodological extensions to generalize
+  these methods to different scenarios and to make them more comparable. We explain
+  the structure and workflow of the package using real use cases and show how to integrate
+  additional counterfactual explanation methods into the package. In addition, we
+  compared the implemented methods for a variety of models and datasets with regard
+  to the quality of their counterfactual explanations and their runtime behavior.
+author: Dandl, Susanne and Hofheinz, Andreas and Binder, Martin and Bischl, Bernd
+  and Casalicchio, Giuseppe
+author_list:
+- family: Dandl
+  given: Susanne
+- family: Hofheinz
+  given: Andreas
+- family: Binder
+  given: Martin
+- family: Bischl
+  given: Bernd
+- family: Casalicchio
+  given: Giuseppe
+date: 2023-04
+file: arXiv Fulltext PDF:https\://arxiv.org/pdf/2304.06569.pdf:application/pdf
+files: []
+institution: arXiv
+keywords: Statistics - Machine Learning, Computer Science - Machine Learning, Statistics
+  - Computation
+note: 'arXiv:2304.06569 [cs, stat] type: article'
+papis_id: 8e6deb2e2f42a75fc9c60cba82946df4
+ref: dandl2023counterfactuals
+shorttitle: counterfactuals
+title: 'counterfactuals: An R Package for Counterfactual Explanation Methods'
+type: techreport
+url: http://arxiv.org/abs/2304.06569
+urldate: '2023-06-21'

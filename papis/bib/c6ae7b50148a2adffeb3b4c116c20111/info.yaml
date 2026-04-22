@@ -1,0 +1,24 @@
+archiveprefix: arXiv
+author: Raghunathan, Aditi and Xie, Sang Michael and Yang, Fanny and Duchi, John C
+  and Liang, Percy
+author_list:
+- family: Raghunathan
+  given: Aditi
+- family: Xie
+  given: Sang Michael
+- family: Yang
+  given: Fanny
+- family: Duchi
+  given: John C
+- family: Liang
+  given: Percy
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1906.06032'
+eprinttype: arxiv
+files: []
+papis_id: c6ae7b50148a2adffeb3b4c116c20111
+ref: raghunathan2019adversarial
+title: Adversarial Training Can Hurt Generalization
+type: unpublished
+year: '2019'

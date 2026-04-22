@@ -1,0 +1,21 @@
+author: de Oliveira, Raphael Mazzine Barbosa and Martens, David
+author_list:
+- family: de Oliveira
+  given: Raphael Mazzine Barbosa
+- family: Martens
+  given: David
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.3390/app11167274
+files: []
+journal: Applied Sciences
+number: '16'
+options: useprefix=true
+pages: '7274'
+papis_id: e56d6fb71801777ab737d4930a3ee098
+ref: deoliveira2021framework
+title: A Framework and Benchmarking Study for Counterfactual Generating Methods on
+  Tabular Data
+type: article
+volume: '11'
+year: '2021'

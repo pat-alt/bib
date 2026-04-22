@@ -1,0 +1,25 @@
+author: Srivastava, Nitish and Hinton, Geoffrey and Krizhevsky, Alex and Sutskever,
+  Ilya and Salakhutdinov, Ruslan
+author_list:
+- family: Srivastava
+  given: Nitish
+- family: Hinton
+  given: Geoffrey
+- family: Krizhevsky
+  given: Alex
+- family: Sutskever
+  given: Ilya
+- family: Salakhutdinov
+  given: Ruslan
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: The journal of machine learning research
+number: '1'
+pages: 1929--1958
+papis_id: c8c6f8d019cb6dd8389e8754c0853f25
+ref: srivastava2014dropout
+title: 'Dropout: A Simple Way to Prevent Neural Networks from Overfitting'
+type: article
+volume: '15'
+year: '2014'

@@ -1,0 +1,15 @@
+author: Welling, Max and Teh, Yee W
+author_list:
+- family: Welling
+  given: Max
+- family: Teh
+  given: Yee W
+booktitle: Proceedings of the 28th international conference on machine learning (ICML-11)
+files: []
+organization: Citeseer
+pages: 681--688
+papis_id: 97cf1de60b87bffd32e5dbe8b8b4246a
+ref: welling2011bayesian
+title: Bayesian learning via stochastic gradient Langevin dynamics
+type: inproceedings
+year: '2011'

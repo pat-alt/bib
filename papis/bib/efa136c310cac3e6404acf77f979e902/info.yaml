@@ -1,0 +1,23 @@
+archiveprefix: arXiv
+author: Pawelczyk, Martin and Datta, Teresa and van-den-Heuvel, Johannes and Kasneci,
+  Gjergji and Lakkaraju, Himabindu
+author_list:
+- family: Pawelczyk
+  given: Martin
+- family: Datta
+  given: Teresa
+- family: van-den-Heuvel
+  given: Johannes
+- family: Kasneci
+  given: Gjergji
+- family: Lakkaraju
+  given: Himabindu
+eprint: '2203.06768'
+files: []
+papis_id: efa136c310cac3e6404acf77f979e902
+primaryclass: cs.LG
+ref: pawelczyk2022probabilistically
+title: 'Probabilistically Robust Recourse: Navigating the Trade-offs between Costs
+  and Robustness in Algorithmic Recourse'
+type: misc
+year: '2023'

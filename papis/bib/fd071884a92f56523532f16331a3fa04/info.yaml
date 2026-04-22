@@ -1,0 +1,15 @@
+author: Hanneke, Steve
+author_list:
+- family: Hanneke
+  given: Steve
+booktitle: Proceedings of the 24th International Conference on {{Machine}} Learning
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1145/1273496.1273541
+files: []
+pages: 353--360
+papis_id: fd071884a92f56523532f16331a3fa04
+ref: hanneke2007bound
+title: A Bound on the Label Complexity of Agnostic Active Learning
+type: inproceedings
+year: '2007'

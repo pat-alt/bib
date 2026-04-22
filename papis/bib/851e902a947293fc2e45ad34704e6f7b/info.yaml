@@ -1,0 +1,19 @@
+archiveprefix: arXiv
+author: Grinsztajn, Léo and Oyallon, Edouard and Varoquaux, Gaël
+author_list:
+- family: Grinsztajn
+  given: Léo
+- family: Oyallon
+  given: Edouard
+- family: Varoquaux
+  given: Gaël
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '2207.08815'
+eprinttype: arxiv
+files: []
+papis_id: 851e902a947293fc2e45ad34704e6f7b
+ref: grinsztajn2022why
+title: Why Do Tree-Based Models Still Outperform Deep Learning on Tabular Data?
+type: unpublished
+year: '2022'

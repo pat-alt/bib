@@ -1,0 +1,18 @@
+archiveprefix: arXiv
+author: Sundararajan, Mukund and Taly, Ankur and Yan, Qiqi
+author_list:
+- family: Sundararajan
+  given: Mukund
+- family: Taly
+  given: Ankur
+- family: Yan
+  given: Qiqi
+eprint: '1703.01365'
+files: []
+papis_id: 323244e3ea1884d8a2be56da0b1192cf
+primaryclass: cs.LG
+ref: sundararajan2017ig
+title: Axiomatic Attribution for Deep Networks
+type: misc
+url: https://arxiv.org/abs/1703.01365
+year: '2017'

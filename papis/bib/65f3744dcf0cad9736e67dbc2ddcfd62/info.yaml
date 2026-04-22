@@ -1,0 +1,25 @@
+author: Altmeyer, Patrick and Angela, Giovan and Buszydlik, Aleksander and Dobiczek,
+  Karol and van Deursen, Arie and Liem, Cynthia C. S.
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: Angela
+  given: Giovan
+- family: Buszydlik
+  given: Aleksander
+- family: Dobiczek
+  given: Karol
+- family: van Deursen
+  given: Arie
+- family: Liem
+  given: Cynthia C. S.
+booktitle: 2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)
+doi: 10.1109/satml54575.2023.00036
+files: []
+organization: IEEE
+pages: 418--431
+papis_id: 65f3744dcf0cad9736e67dbc2ddcfd62
+ref: altmeyer2023endogenous
+title: Endogenous Macrodynamics in Algorithmic Recourse
+type: inproceedings
+year: '2023'

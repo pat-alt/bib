@@ -1,0 +1,19 @@
+author: Ribeiro, Marco Tulio and Singh, Sameer and Guestrin, Carlos
+author_list:
+- family: Ribeiro
+  given: Marco Tulio
+- family: Singh
+  given: Sameer
+- family: Guestrin
+  given: Carlos
+booktitle: Proceedings of the 22nd {{ACM SIGKDD}} International Conference on Knowledge
+  Discovery and Data Mining
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 1135--1144
+papis_id: 0ea59ff623bff4d80982c48c8144b0ba
+ref: ribeiro2016why
+title: '"Why Should I Trust You?" Explaining the Predictions of Any Classifier'
+type: inproceedings
+year: '2016'

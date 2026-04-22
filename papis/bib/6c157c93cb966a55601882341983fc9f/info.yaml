@@ -1,0 +1,80 @@
+author: 'Chagas, Ronan Arraes Jardim and Baumgold, Ben and Hertz, Glen and Ranocha,
+  Hendrik and Wells, Mark and Boyer, Nathan and Ritchie, Nicholas and Christensen,
+  Zachary P and gustaphe,  and pdeffebach,  and Pasquier, Benoît and Kawczynski, Charles
+  and Pinyol, Daniel and Sambrani, Dhruva and Vanguelov, Dimitar and Hanson, Eric
+  and Butterworth, Ian and Peters, Jakob and Kraak, Joris and Storopoli, Jose and
+  TagBot, Julia and Amin, Nick and Christ, Simon and Lienart, Thibaut and Christensen,
+  Thomas and Flatberg, Truls and Gagnon, Yakir Luc and Mengali, Alberto and jariji,  and
+  jondeuce, '
+author_list:
+- family: Chagas
+  given: Ronan Arraes Jardim
+- family: Baumgold
+  given: Ben
+- family: Hertz
+  given: Glen
+- family: Ranocha
+  given: Hendrik
+- family: Wells
+  given: Mark
+- family: Boyer
+  given: Nathan
+- family: Ritchie
+  given: Nicholas
+- family: Christensen
+  given: Zachary P
+- family: gustaphe
+  given: ''
+- family: pdeffebach
+  given: ''
+- family: Pasquier
+  given: Benoît
+- family: Kawczynski
+  given: Charles
+- family: Pinyol
+  given: Daniel
+- family: Sambrani
+  given: Dhruva
+- family: Vanguelov
+  given: Dimitar
+- family: Hanson
+  given: Eric
+- family: Butterworth
+  given: Ian
+- family: Peters
+  given: Jakob
+- family: Kraak
+  given: Joris
+- family: Storopoli
+  given: Jose
+- family: TagBot
+  given: Julia
+- family: Amin
+  given: Nick
+- family: Christ
+  given: Simon
+- family: Lienart
+  given: Thibaut
+- family: Christensen
+  given: Thomas
+- family: Flatberg
+  given: Truls
+- family: Gagnon
+  given: Yakir Luc
+- family: Mengali
+  given: Alberto
+- family: jariji
+  given: ''
+- family: jondeuce
+  given: ''
+doi: 10.5281/zenodo.13835553
+files: []
+month: September
+papis_id: 6c157c93cb966a55601882341983fc9f
+publisher: Zenodo
+ref: chagas2024pretty
+title: 'ronisbr/PrettyTables.jl: v2.4.0'
+type: software
+url: https://doi.org/10.5281/zenodo.13835553
+version: v2.4.0
+year: '2024'

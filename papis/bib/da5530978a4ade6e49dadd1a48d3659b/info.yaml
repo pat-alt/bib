@@ -1,0 +1,24 @@
+author: Crawford, Lorin and Flaxman, Seth R and Runcie, Daniel E and West, Mike
+author_list:
+- family: Crawford
+  given: Lorin
+- family: Flaxman
+  given: Seth R
+- family: Runcie
+  given: Daniel E
+- family: West
+  given: Mike
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1214/18-aoas1222
+files: []
+journal: The annals of applied statistics
+number: '2'
+pages: '958'
+papis_id: da5530978a4ade6e49dadd1a48d3659b
+ref: crawford2019variable
+title: 'Variable Prioritization in Nonlinear Black Box Methods: A Genetic Association
+  Case Study'
+type: article
+volume: '13'
+year: '2019'

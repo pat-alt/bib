@@ -1,0 +1,30 @@
+abstract: The last few years have seen an explosion of academic and popular interest
+  in algorithmic fairness. Despite this interest and the volume and velocity of work
+  that has been produced recently, the fundamental science of fairness in machine
+  learning is still in a nascent state. In March 2018, we convened a group of experts
+  as part of a CCC visioning workshop to assess the state of the field, and distill
+  the most promising research directions going forward. This report summarizes the
+  findings of that workshop. Along the way, it surveys recent theoretical work in
+  the field and points towards promising directions for research.
+archiveprefix: arxiv
+author: Chouldechova, Alexandra and Roth, Aaron
+author_list:
+- family: Chouldechova
+  given: Alexandra
+- family: Roth
+  given: Aaron
+doi: 10.48550/arXiv.1810.08810
+eprint: '1810.08810'
+file: :chouldechova2018frontiers - The Frontiers of Fairness in Machine Learning.pdf:PDF
+files: []
+keywords: Computer Science - Machine Learning, Computer Science - Data Structures
+  and Algorithms, Computer Science - Computer Science and Game Theory, Statistics
+  - Machine Learning
+month: October
+note: 'arXiv:1810.08810 [cs, stat] type: article'
+papis_id: 033a9ff20cf0d2c8a5c05cf1215c1171
+ref: chouldechova2018frontiers
+school: arXiv
+title: The Frontiers of Fairness in Machine Learning
+type: techreport
+year: '2018'

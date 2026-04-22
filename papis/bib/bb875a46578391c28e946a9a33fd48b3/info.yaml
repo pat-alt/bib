@@ -1,0 +1,20 @@
+author: Kaufmann, Maximilian and Zhao, Yiren and Shumailov, Ilia and Mullins, Robert
+  and Papernot, Nicolas
+author_list:
+- family: Kaufmann
+  given: Maximilian
+- family: Zhao
+  given: Yiren
+- family: Shumailov
+  given: Ilia
+- family: Mullins
+  given: Robert
+- family: Papernot
+  given: Nicolas
+date: '2022'
+files: []
+journaltitle: arXiv preprint arXiv:2207.00694
+papis_id: bb875a46578391c28e946a9a33fd48b3
+ref: kaufmann2022efficient
+title: Efficient adversarial training with data pruning
+type: article

@@ -1,0 +1,35 @@
+abstract: 'In this paper we prove the so-called "Meek Conjecture". In particular,
+  we show that if a DAG H is an independence map of another DAG G, then there exists
+  a finite sequence of edge additions and covered edge reversals in G such that (1)
+  after each edge modification H remains an independence map of G and (2) after all
+  modifications G =H. As shown by Meek (1997), this result has an important consequence
+  for Bayesian approaches to learning Bayesian networks from data: in the limit of
+  large sample size, there exists a two-phase greedy search algorithm that---when
+  applied to a particular sparsely-connected search space---provably identifies a
+  perfect map of the generative distribution if that perfect map is a DAG. We provide
+  a new implementation of the search space, using equivalence classes as states, for
+  which all operators used in the greedy search can be scored efficiently using local
+  functions of the nodes in the domain. Finally, using both synthetic and real-world
+  datasets, we demonstrate that the two-phase greedy approach leads to good solutions
+  when learning with finite sample sizes.'
+author: Chickering, David Maxwell
+author_list:
+- family: Chickering
+  given: David Maxwell
+doi: 10.1162/153244303321897717
+files: []
+issn: 1532-4435
+issue_date: 3/1/2003
+journal: J. Mach. Learn. Res.
+month: mar
+number: 'null'
+numpages: '48'
+pages: 507–554
+papis_id: cf6b6ec707924bf728bdc171fb86b188
+publisher: JMLR.org
+ref: chickering2003optimal
+title: Optimal structure identification with greedy search
+type: article
+url: https://doi.org/10.1162/153244303321897717
+volume: '3'
+year: '2003'

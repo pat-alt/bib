@@ -1,0 +1,23 @@
+author: Trinh,  and T.H.,  and Wu,  and Y.,  and Le,  and et al., Q.V.
+author_list:
+- family: Trinh
+  given: ''
+- family: T.H.
+  given: ''
+- family: Wu
+  given: ''
+- family: Y.
+  given: ''
+- family: Le
+  given: ''
+- family: et al.
+  given: Q.V.
+doi: https://doi.org/10.1038/s41586-023-06747-5
+files: []
+journal: Nature 625
+pages: 476–482
+papis_id: c74ed0489d68825f1adae05175bdfbef
+ref: trinh2024geometry
+title: Solving olympiad geometry without human demonstrations.
+type: article
+year: '2024'

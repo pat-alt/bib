@@ -1,0 +1,21 @@
+author: Hartland, Cédric and Gelly, Sylvain and Baskiotis, Nicolas and Teytaud, Olivier
+  and Sebag, Michele
+author_list:
+- family: Hartland
+  given: Cédric
+- family: Gelly
+  given: Sylvain
+- family: Baskiotis
+  given: Nicolas
+- family: Teytaud
+  given: Olivier
+- family: Sebag
+  given: Michele
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+papis_id: 71291e8d75527d62761dd40ff1b6e49f
+ref: hartland2006multiarmed
+title: Multi-Armed Bandit, Dynamic Environments and Meta-Bandits
+type: article
+year: '2006'

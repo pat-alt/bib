@@ -1,0 +1,18 @@
+author: Zečević, Matej and Willig, Moritz and Dhami, Devendra Singh and Kersting,
+  Kristian
+author_list:
+- family: Zečević
+  given: Matej
+- family: Willig
+  given: Moritz
+- family: Dhami
+  given: Devendra Singh
+- family: Kersting
+  given: Kristian
+files: []
+journal: arXiv preprint arXiv:2308.13067
+papis_id: 35056e617101c43a8d927ede94a35bb8
+ref: zevcevic2023causal
+title: 'Causal parrots: Large language models may talk causality but are not causal'
+type: article
+year: '2023'

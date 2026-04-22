@@ -1,0 +1,37 @@
+abstract: We introduce <b>T-CREx</b>, a novel model-agnostic method for local and
+  global counterfactual explanation (CE), which summarises recourse options for both
+  individuals and groups in the form of generalised rules. It leverages tree-based
+  surrogate models to learn the counterfactual rules, alongside <em>metarules</em>
+  denoting their regimes of optimality, providing both a global analysis of model
+  behaviour and diverse recourse options for users. Experiments indicate that <b>T-CREx</b>
+  achieves superior aggregate performance over existing rule-based baselines on a
+  range of CE desiderata, while being orders of magnitude faster to run.
+author: Bewley, Tom and I. Amoukou, Salim and Mishra, Saumitra and Magazzeni, Daniele
+  and Veloso, Manuela
+author_list:
+- family: Bewley
+  given: Tom
+- family: I. Amoukou
+  given: Salim
+- family: Mishra
+  given: Saumitra
+- family: Magazzeni
+  given: Daniele
+- family: Veloso
+  given: Manuela
+booktitle: Proceedings of the 41st International Conference on Machine Learning
+editor: Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian
+  and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix
+files: []
+month: 21--27 Jul
+pages: 3707--3724
+papis_id: 4f3d45bf8b83978c4afce92e0fabe0c6
+pdf: https://raw.githubusercontent.com/mlresearch/v235/main/assets/bewley24a/bewley24a.pdf
+publisher: PMLR
+ref: bewley2024counterfactual-icml
+series: Proceedings of Machine Learning Research
+title: Counterfactual Metarules for Local and Global Recourse
+type: inproceedings
+url: https://proceedings.mlr.press/v235/bewley24a.html
+volume: '235'
+year: '2024'

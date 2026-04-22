@@ -1,0 +1,15 @@
+author: 'Altmeyer, Patrick and contributors, '
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: contributors
+  given: ''
+date: '2024'
+doi: 10.5281/zenodo.12799930
+files: []
+papis_id: 24e0d51c285d8a75123f3faaf47f6d83
+ref: altmeyer2024cpjl
+title: JuliaTrustworthyAI/ConformalPrediction.jl
+type: software
+url: https://doi.org/10.5281/zenodo.12799929
+version: v0.1.13

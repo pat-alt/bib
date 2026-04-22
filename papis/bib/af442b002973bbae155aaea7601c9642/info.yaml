@@ -1,0 +1,18 @@
+articleno: '433'
+author: Gao, Ruijiang and Lakkaraju, Himabindu
+author_list:
+- family: Gao
+  given: Ruijiang
+- family: Lakkaraju
+  given: Himabindu
+booktitle: Proceedings of the 40th International Conference on Machine Learning
+files: []
+location: Honolulu, Hawaii, USA
+numpages: '17'
+papis_id: af442b002973bbae155aaea7601c9642
+publisher: JMLR.org
+ref: gao2023impact
+series: ICML'23
+title: On the Impact of Algorithmic Recourse on Social Segregation
+type: inproceedings
+year: '2023'

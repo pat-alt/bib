@@ -1,0 +1,16 @@
+archiveprefix: arXiv
+author: Angelopoulos, Anastasios N. and Bates, Stephen
+author_list:
+- family: Angelopoulos
+  given: Anastasios N.
+- family: Bates
+  given: Stephen
+eprint: '2107.07511'
+files: []
+papis_id: 330d84247fdb9f19205a4fbf46d1ac40
+primaryclass: cs.LG
+ref: angelopoulos2021gentle
+title: A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty
+  Quantification
+type: misc
+year: '2022'

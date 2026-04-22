@@ -1,0 +1,23 @@
+added-at: 2018-12-03T19:42:16.000+0100
+author: Hastie, Trevor and Tibshirani, Robert and Friedman, Jerome
+author_list:
+- family: Hastie
+  given: Trevor
+- family: Tibshirani
+  given: Robert
+- family: Friedman
+  given: Jerome
+biburl: https://www.bibsonomy.org/bibtex/218c90decd17003e5a43ca50b03f1f1d1/tobydriscoll
+doi: 10.1007/978-0-387-84858-7
+file: :Book/Hastie2009 - The Elements of Statistical Learning.pdf:PDF
+files: []
+interhash: 39bdf0a76d889fa39deb5d1ac793ff4e
+intrahash: 18c90decd17003e5a43ca50b03f1f1d1
+keywords: imported
+papis_id: 41982792b8165be70f84209fae8a2f96
+publisher: Springer New York
+ref: hastie2009elements
+timestamp: 2018-12-03T19:43:16.000+0100
+title: The Elements of Statistical Learning
+type: book
+year: '2009'

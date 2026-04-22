@@ -1,0 +1,19 @@
+author: Besbes, Omar and Gur, Yonatan and Zeevi, Assaf
+author_list:
+- family: Besbes
+  given: Omar
+- family: Gur
+  given: Yonatan
+- family: Zeevi
+  given: Assaf
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: Advances in neural information processing systems
+pages: 199--207
+papis_id: e20d7330f5e3711f9803a870860829a5
+ref: besbes2014stochastic
+title: Stochastic Multi-Armed-Bandit Problem with Non-Stationary Rewards
+type: article
+volume: '27'
+year: '2014'

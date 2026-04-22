@@ -1,0 +1,19 @@
+author: Dobiczek, Karol and Altmeyer, Patrick and Liem, Cynthia CS
+author_list:
+- family: Dobiczek
+  given: Karol
+- family: Altmeyer
+  given: Patrick
+- family: Liem
+  given: Cynthia CS
+booktitle: Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics
+  (GEM$^2$)
+files: []
+pages: 958--972
+papis_id: 8300d5899a4e81b1e5d9777bd292c989
+ref: Dobiczek2025
+title: 'Natural Language Counterfactual Explanations in Financial Text Classification:
+  A Comparison of Generators and Evaluation Metrics'
+type: inproceedings
+url: https://aclanthology.org/2025.gem-1.75.pdf
+year: '2025'

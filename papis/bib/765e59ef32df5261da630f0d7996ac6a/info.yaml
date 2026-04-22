@@ -1,0 +1,19 @@
+archiveprefix: arXiv
+author: Fan, Fenglei and Xiong, Jinjun and Wang, Ge
+author_list:
+- family: Fan
+  given: Fenglei
+- family: Xiong
+  given: Jinjun
+- family: Wang
+  given: Ge
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '2001.02522'
+eprinttype: arxiv
+files: []
+papis_id: 765e59ef32df5261da630f0d7996ac6a
+ref: fan2020interpretability
+title: On Interpretability of Artificial Neural Networks
+type: unpublished
+year: '2020'

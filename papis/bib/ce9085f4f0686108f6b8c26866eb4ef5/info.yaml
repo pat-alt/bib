@@ -1,0 +1,18 @@
+author: 'Pfaff, Bernhard and others, '
+author_list:
+- family: Pfaff
+  given: Bernhard
+- family: others
+  given: ''
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: Journal of Statistical Software
+number: '4'
+pages: 1--32
+papis_id: ce9085f4f0686108f6b8c26866eb4ef5
+ref: pfaff2008var
+title: 'VAR, SVAR and SVEC Models: Implementation within R Package Vars'
+type: article
+volume: '27'
+year: '2008'

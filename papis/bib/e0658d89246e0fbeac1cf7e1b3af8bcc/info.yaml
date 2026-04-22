@@ -1,0 +1,24 @@
+archiveprefix: arXiv
+author: Joshi, Shalmali and Koyejo, Oluwasanmi and Vijitbenjaronk, Warut and Kim,
+  Been and Ghosh, Joydeep
+author_list:
+- family: Joshi
+  given: Shalmali
+- family: Koyejo
+  given: Oluwasanmi
+- family: Vijitbenjaronk
+  given: Warut
+- family: Kim
+  given: Been
+- family: Ghosh
+  given: Joydeep
+eprint: '1907.09615'
+files: []
+note: arXiv:1907.09615
+papis_id: e0658d89246e0fbeac1cf7e1b3af8bcc
+primaryclass: cs.LG
+ref: joshi2019realistic
+title: Towards Realistic Individual Recourse and Actionable Explanations in Black-Box
+  Decision Making Systems
+type: misc
+year: '2019'

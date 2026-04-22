@@ -1,0 +1,20 @@
+author: Biswas, Shreyan and Corti, Lorenzo and Buijsman, Stefan and Yang, Jie
+author_list:
+- family: Biswas
+  given: Shreyan
+- family: Corti
+  given: Lorenzo
+- family: Buijsman
+  given: Stefan
+- family: Yang
+  given: Jie
+booktitle: Proceedings of the AAAI Conference on Human Computation and Crowdsourcing
+files: []
+number: '1'
+pages: 27--39
+papis_id: c7f7d4e576f75f3508a2f68c08b4f80a
+ref: biswas2022chime
+title: 'CHIME: Causal Human-in-the-Loop Model Explanations'
+type: inproceedings
+volume: '10'
+year: '2022'

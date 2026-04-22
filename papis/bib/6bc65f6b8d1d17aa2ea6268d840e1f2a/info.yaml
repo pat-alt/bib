@@ -1,0 +1,23 @@
+author: Li, Kenneth and Hopkins, Aspen K and Bau, David and Viégas, Fernanda and Pfister,
+  Hanspeter and Wattenberg, Martin
+author_list:
+- family: Li
+  given: Kenneth
+- family: Hopkins
+  given: Aspen K
+- family: Bau
+  given: David
+- family: Viégas
+  given: Fernanda
+- family: Pfister
+  given: Hanspeter
+- family: Wattenberg
+  given: Martin
+files: []
+journal: arXiv preprint arXiv:2210.13382
+papis_id: 6bc65f6b8d1d17aa2ea6268d840e1f2a
+ref: li2022emergent
+title: 'Emergent world representations: Exploring a sequence model trained on a synthetic
+  task'
+type: article
+year: '2022'

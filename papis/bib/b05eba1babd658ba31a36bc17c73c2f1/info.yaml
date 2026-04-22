@@ -1,0 +1,23 @@
+author: Alufaisan, Yasmeen and Marusich, Laura R and Bakdash, Jonathan Z and Zhou,
+  Yan and Kantarcioglu, Murat
+author_list:
+- family: Alufaisan
+  given: Yasmeen
+- family: Marusich
+  given: Laura R
+- family: Bakdash
+  given: Jonathan Z
+- family: Zhou
+  given: Yan
+- family: Kantarcioglu
+  given: Murat
+booktitle: Proceedings of the AAAI Conference on Artificial Intelligence
+files: []
+number: '8'
+pages: 6618--6626
+papis_id: b05eba1babd658ba31a36bc17c73c2f1
+ref: alufaisan2021does
+title: Does explainable artificial intelligence improve human decision-making?
+type: inproceedings
+volume: '35'
+year: '2021'

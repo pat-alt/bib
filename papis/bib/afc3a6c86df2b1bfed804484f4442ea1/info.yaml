@@ -1,0 +1,15 @@
+archiveprefix: arXiv
+author: Alain, Guillaume and Bengio, Yoshua
+author_list:
+- family: Alain
+  given: Guillaume
+- family: Bengio
+  given: Yoshua
+eprint: '1610.01644'
+files: []
+papis_id: afc3a6c86df2b1bfed804484f4442ea1
+primaryclass: stat.ML
+ref: alain2018understanding
+title: Understanding intermediate layers using linear classifier probes
+type: misc
+year: '2018'

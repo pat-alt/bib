@@ -1,0 +1,22 @@
+address: New York, NY, USA
+author: Venkatasubramanian, Suresh and Alfano, Mark
+author_list:
+- family: Venkatasubramanian
+  given: Suresh
+- family: Alfano
+  given: Mark
+booktitle: Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency
+doi: 10.1145/3351095.3372876
+files: []
+isbn: '9781450369367'
+keywords: robust goods, recourse, precarity, algorithmic decision making
+location: Barcelona, Spain
+numpages: '10'
+pages: 284–293
+papis_id: a03b3528e77c51ba9a9cde34362e5900
+publisher: Association for Computing Machinery
+ref: venkatasubramanian2020philosophical
+series: FAT* '20
+title: The philosophical basis of algorithmic recourse
+type: inproceedings
+year: '2020'

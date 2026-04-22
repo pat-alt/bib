@@ -1,0 +1,19 @@
+address: Los Alamitos, CA, USA
+author: Zhao, Xuan and Broelemann, Klaus and Kasneci, Gjergji
+author_list:
+- family: Zhao
+  given: Xuan
+- family: Broelemann
+  given: Klaus
+- family: Kasneci
+  given: Gjergji
+booktitle: 2023 IEEE International Conference on Data Mining Workshops (ICDMW)
+doi: 10.1109/ICDMW60847.2023.00130
+files: []
+pages: 976-984
+papis_id: 51675499cc347322a0074d1cd940ccca
+publisher: IEEE Computer Society
+ref: zhao2023counterfactual
+title: Counterfactual Explanation for Regression via Disentanglement in Latent Space
+type: inproceedings
+year: '2023'

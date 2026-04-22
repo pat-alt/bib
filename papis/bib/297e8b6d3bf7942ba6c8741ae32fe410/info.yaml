@@ -1,0 +1,26 @@
+author: Dhurandhar, Amit and Chen, Pin-Yu and Luss, Ronny and Tu, Chun-Chen and Ting,
+  Paishun and Shanmugam, Karthikeyan and Das, Payel
+author_list:
+- family: Dhurandhar
+  given: Amit
+- family: Chen
+  given: Pin-Yu
+- family: Luss
+  given: Ronny
+- family: Tu
+  given: Chun-Chen
+- family: Ting
+  given: Paishun
+- family: Shanmugam
+  given: Karthikeyan
+- family: Das
+  given: Payel
+files: []
+journal: Advances in neural information processing systems
+papis_id: 297e8b6d3bf7942ba6c8741ae32fe410
+ref: dhurandhar2018explanations
+title: 'Explanations based on the missing: Towards contrastive explanations with pertinent
+  negatives'
+type: article
+volume: '31'
+year: '2018'

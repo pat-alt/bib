@@ -1,0 +1,18 @@
+author: Carlini, Nicholas and Wagner, David
+author_list:
+- family: Carlini
+  given: Nicholas
+- family: Wagner
+  given: David
+booktitle: 2017 Ieee Symposium on Security and Privacy (Sp)
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1109/sp.2017.49
+files: []
+pages: 39--57
+papis_id: cc1f073fd3cbc1a38341eeb4f06bee5c
+publisher: '{IEEE}'
+ref: carlini2017evaluating
+title: Towards Evaluating the Robustness of Neural Networks
+type: inproceedings
+year: '2017'

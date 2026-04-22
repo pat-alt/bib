@@ -1,0 +1,23 @@
+archiveprefix: arXiv
+author: Pawelczyk, Martin and Bielawski, Sascha and van den Heuvel, Johannes and Richter,
+  Tobias and Kasneci, Gjergji
+author_list:
+- family: Pawelczyk
+  given: Martin
+- family: Bielawski
+  given: Sascha
+- family: van den Heuvel
+  given: Johannes
+- family: Richter
+  given: Tobias
+- family: Kasneci
+  given: Gjergji
+eprint: '2108.00783'
+files: []
+papis_id: 5caad595777c81035a19ce60b2ece573
+primaryclass: cs.LG
+ref: pawelczyk2021carla
+title: 'CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual
+  Explanation Algorithms'
+type: misc
+year: '2021'

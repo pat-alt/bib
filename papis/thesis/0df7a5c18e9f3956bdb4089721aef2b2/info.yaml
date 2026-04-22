@@ -1,0 +1,19 @@
+author: Altmeyer, Patrick and van Deursen, Arie and Liem, Cynthia C. S.
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: van Deursen
+  given: Arie
+- family: Liem
+  given: Cynthia C. S.
+booktitle: Proceedings of the JuliaCon Conferences
+doi: 10.21105/jcon.00130
+files: []
+ids: altmeyer2023explaining
+pages: '130'
+papis_id: 0df7a5c18e9f3956bdb4089721aef2b2
+ref: paltmeyer2023explaining
+title: Explaining Black-Box Models through Counterfactuals
+type: inproceedings
+volume: '1'
+year: '2023'

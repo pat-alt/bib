@@ -1,0 +1,18 @@
+author: Rabanser, Stephan and Günnemann, Stephan and Lipton, Zachary
+author_list:
+- family: Rabanser
+  given: Stephan
+- family: Günnemann
+  given: Stephan
+- family: Lipton
+  given: Zachary
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: Advances in Neural Information Processing Systems
+papis_id: 8626e4560e7dc669d2e252a5248fe4bf
+ref: rabanser2019failing
+title: 'Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift'
+type: article
+volume: '32'
+year: '2019'

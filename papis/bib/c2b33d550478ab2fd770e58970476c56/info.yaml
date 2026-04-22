@@ -1,0 +1,16 @@
+archiveprefix: arXiv
+author: Du, Yilun and Mordatch, Igor
+author_list:
+- family: Du
+  given: Yilun
+- family: Mordatch
+  given: Igor
+eprint: '1903.08689'
+files: []
+note: arXiv:1903.08689
+papis_id: c2b33d550478ab2fd770e58970476c56
+primaryclass: cs.LG
+ref: du2019implicit
+title: Implicit Generation and Generalization in Energy-Based Models
+type: misc
+year: '2020'

@@ -1,0 +1,20 @@
+author: Qu, Xi and Lee, Lung-fei
+author_list:
+- family: Qu
+  given: Xi
+- family: Lee
+  given: Lung-fei
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1016/j.jeconom.2014.08.008
+files: []
+journal: Journal of Econometrics
+number: '2'
+pages: 209--232
+papis_id: b7854a5b9381185997a744af26f2bb16
+ref: qu2015estimating
+title: Estimating a Spatial Autoregressive Model with an Endogenous Spatial Weight
+  Matrix
+type: article
+volume: '184'
+year: '2015'

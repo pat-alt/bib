@@ -1,0 +1,28 @@
+author: Nelson, Kevin and Corbin, George and Anania, Mark and Kovacs, Matthew and
+  Tobias, Jeremy and Blowers, Misty
+author_list:
+- family: Nelson
+  given: Kevin
+- family: Corbin
+  given: George
+- family: Anania
+  given: Mark
+- family: Kovacs
+  given: Matthew
+- family: Tobias
+  given: Jeremy
+- family: Blowers
+  given: Misty
+booktitle: 2015 {{IEEE Symposium}} on {{Computational Intelligence}} for {{Security}}
+  and {{Defense Applications}} ({{CISDA}})
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1109/cisda.2015.7208643
+files: []
+pages: 1--8
+papis_id: ef7d130738ad9034985806e42f0d7eaf
+publisher: '{IEEE}'
+ref: nelson2015evaluating
+title: Evaluating Model Drift in Machine Learning Algorithms
+type: inproceedings
+year: '2015'

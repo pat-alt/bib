@@ -1,0 +1,42 @@
+abstract: 'Counterfactual Explanation (CE) is a post-hoc explanation method that provides
+  a perturbation for altering the prediction result of a classifier. An individual
+  can interpret the perturbation as an "action" to obtain the desired decision results.
+  Existing CE methods focus on providing an action, which is optimized for a given
+  single instance. However, these CE methods do not address the case where we have
+  to assign actions to multiple instances simultaneously. In such a case, we need
+  a framework of CE that assigns actions to multiple instances in a transparent and
+  consistent way. In this study, we propose Counterfactual Explanation Tree (CET)
+  that assigns effective actions with decision trees. Due to the properties of decision
+  trees, our CET has two advantages: (1) Transparency: the reasons for assigning actions
+  are summarized in an interpretable structure, and (2) Consistency: these reasons
+  do not conflict with each other. We learn a CET in two steps: (i) compute one effective
+  action for multiple instances and (ii) partition the instances to balance the effectiveness
+  and interpretability. Numerical experiments and user studies demonstrated the efficacy
+  of our CET in comparison with existing methods.'
+author: Kanamori, Kentaro and Takagi, Takuya and Kobayashi, Ken and Ike, Yuichi
+author_list:
+- family: Kanamori
+  given: Kentaro
+- family: Takagi
+  given: Takuya
+- family: Kobayashi
+  given: Ken
+- family: Ike
+  given: Yuichi
+booktitle: Proceedings of The 25th International Conference on Artificial Intelligence
+  and Statistics
+editor: Camps-Valls, Gustau and Ruiz, Francisco J. R. and Valera, Isabel
+files: []
+month: 28--30 Mar
+pages: 1846--1870
+papis_id: 5b6b1948ec74730fe09c7a4237f42973
+pdf: https://proceedings.mlr.press/v151/kanamori22a/kanamori22a.pdf
+publisher: PMLR
+ref: kanamori2022counterfactual
+series: Proceedings of Machine Learning Research
+title: 'Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse
+  with Decision Trees'
+type: inproceedings
+url: https://proceedings.mlr.press/v151/kanamori22a.html
+volume: '151'
+year: '2022'

@@ -1,0 +1,26 @@
+author: Ackerman, Samuel and Dube, Parijat and Farchi, Eitan and Raz, Orna and Zalmanovici,
+  Marcel
+author_list:
+- family: Ackerman
+  given: Samuel
+- family: Dube
+  given: Parijat
+- family: Farchi
+  given: Eitan
+- family: Raz
+  given: Orna
+- family: Zalmanovici
+  given: Marcel
+booktitle: 2021 {{IEEE}}/{{ACM Third International Workshop}} on {{Deep Learning}}
+  for {{Testing}} and {{Testing}} for {{Deep Learning}} ({{DeepTest}})
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1109/deeptest52559.2021.00007
+files: []
+pages: 1--8
+papis_id: e3acc509296fbeeacd853f62baae8a44
+publisher: '{IEEE}'
+ref: ackerman2021machine
+title: Machine Learning Model Drift Detection Via Weak Data Slices
+type: inproceedings
+year: '2021'

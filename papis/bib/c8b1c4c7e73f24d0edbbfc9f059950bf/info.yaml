@@ -1,0 +1,15 @@
+author: Sutton, Richard S and Barto, Andrew G
+author_list:
+- family: Sutton
+  given: Richard S
+- family: Barto
+  given: Andrew G
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+papis_id: c8b1c4c7e73f24d0edbbfc9f059950bf
+publisher: '{MIT press}'
+ref: sutton2018reinforcement
+title: 'Reinforcement Learning: An Introduction'
+type: book
+year: '2018'

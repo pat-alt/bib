@@ -1,0 +1,18 @@
+author: Goan, Ethan and Fookes, Clinton
+author_list:
+- family: Goan
+  given: Ethan
+- family: Fookes
+  given: Clinton
+booktitle: Case {{Studies}} in {{Applied Bayesian Data Science}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1007/978-3-030-42553-1_3
+files: []
+pages: 45--87
+papis_id: 59bd273314d2d2d0c75de6ed59040be0
+publisher: '{Springer}'
+ref: goan2020bayesian
+title: 'Bayesian Neural Networks: An Introduction and Survey'
+type: incollection
+year: '2020'

@@ -1,0 +1,21 @@
+author: Wachter, Sandra and Mittelstadt, Brent and Russell, Chris
+author_list:
+- family: Wachter
+  given: Sandra
+- family: Mittelstadt
+  given: Brent
+- family: Russell
+  given: Chris
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.2139/ssrn.3063289
+files: []
+journal: Harv. JL \& Tech.
+pages: '841'
+papis_id: 79a5b3a373bcf651e2eae5b485e0219f
+ref: wachter2017counterfactual
+title: 'Counterfactual Explanations without Opening the Black Box: Automated Decisions
+  and the GDPR'
+type: article
+volume: '31'
+year: '2017'

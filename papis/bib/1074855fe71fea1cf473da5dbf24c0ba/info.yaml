@@ -1,0 +1,40 @@
+abstract: Counterfactual explanations have been widely studied in explainability,
+  with a range of application dependent methods prominent in fairness, recourse and
+  model understanding. The major shortcoming associated with these methods, however,
+  is their inability to provide explanations beyond the local or instance-level. While
+  many works touch upon the notion of a global explanation, typically suggesting to
+  aggregate masses of local explanations in the hope of ascertaining global properties,
+  few provide frameworks that are both reliable and computationally tractable. Meanwhile,
+  practitioners are requesting more efficient and interactive explainability tools.
+  We take this opportunity to propose Global &amp; Efficient Counterfactual Explanations
+  (GLOBE-CE), a flexible framework that tackles the reliability and scalability issues
+  associated with current state-of-the-art, particularly on higher dimensional datasets
+  and in the presence of continuous features. Furthermore, we provide a unique mathematical
+  analysis of categorical feature translations, utilising it in our method. Experimental
+  evaluation with publicly available datasets and user studies demonstrate that GLOBE-CE
+  performs significantly better than the current state-of-the-art across multiple
+  metrics (e.g., speed, reliability).
+author: Ley, Dan and Mishra, Saumitra and Magazzeni, Daniele
+author_list:
+- family: Ley
+  given: Dan
+- family: Mishra
+  given: Saumitra
+- family: Magazzeni
+  given: Daniele
+booktitle: Proceedings of the 40th International Conference on Machine Learning
+editor: Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara
+  and Sabato, Sivan and Scarlett, Jonathan
+files: []
+month: 23--29 Jul
+pages: 19315--19342
+papis_id: 1074855fe71fea1cf473da5dbf24c0ba
+pdf: https://proceedings.mlr.press/v202/ley23a/ley23a.pdf
+publisher: PMLR
+ref: ley2023globe
+series: Proceedings of Machine Learning Research
+title: 'GLOBE-CE: A Translation Based Approach for Global Counterfactual Explanations'
+type: inproceedings
+url: https://proceedings.mlr.press/v202/ley23a.html
+volume: '202'
+year: '2023'

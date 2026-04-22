@@ -1,0 +1,19 @@
+archiveprefix: arXiv
+author: Branco, Paula and Torgo, Luis and Ribeiro, Rita
+author_list:
+- family: Branco
+  given: Paula
+- family: Torgo
+  given: Luis
+- family: Ribeiro
+  given: Rita
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '1505.01658'
+eprinttype: arxiv
+files: []
+papis_id: 6df0a739778f1cf0601e01ae00f18157
+ref: branco2015survey
+title: A Survey of Predictive Modelling under Imbalanced Distributions
+type: unpublished
+year: '2015'

@@ -1,0 +1,24 @@
+author: Jabbari, Shahin and Joseph, Matthew and Kearns, Michael and Morgenstern, Jamie
+  and Roth, Aaron
+author_list:
+- family: Jabbari
+  given: Shahin
+- family: Joseph
+  given: Matthew
+- family: Kearns
+  given: Michael
+- family: Morgenstern
+  given: Jamie
+- family: Roth
+  given: Aaron
+booktitle: International {{Conference}} on {{Machine Learning}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 1617--1626
+papis_id: 865dab3cc179254836742f14876874c5
+publisher: '{PMLR}'
+ref: jabbari2017fairness
+title: Fairness in Reinforcement Learning
+type: inproceedings
+year: '2017'

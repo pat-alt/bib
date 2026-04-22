@@ -1,0 +1,14 @@
+archiveprefix: arXiv
+author: Wilson, Andrew Gordon
+author_list:
+- family: Wilson
+  given: Andrew Gordon
+eprint: '2001.10995'
+files: []
+note: arXiv:2001.10995
+papis_id: 07eceb79b0decfe161775281625f1591
+primaryclass: cs.LG
+ref: wilson2020case
+title: The Case for Bayesian Deep Learning
+type: misc
+year: '2020'

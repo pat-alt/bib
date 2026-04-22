@@ -1,0 +1,26 @@
+abstract: Forecasting is required in many situations. Stocking an inventory may require
+  forecasts of demand months in advance. Telecommunication routing requires traffic
+  forecasts a few minutes ahead. Whatever the circumstances or time horizons involved,
+  forecasting is an important aid in effective and efficient planning.This textbook
+  provides a comprehensive introduction to forecasting methods and presents enough
+  information about each method for readers to use them sensibly.
+author: Hyndman, Rob J. and Athanasopoulos, George
+author_list:
+- family: Hyndman
+  given: Rob J.
+- family: Athanasopoulos
+  given: George
+date: 2018-05
+file: Google Books Link:https\://books.google.com/books?id=_bBhDwAAQBAJ:text/html
+files: []
+isbn: '9780987507112'
+keywords: Business \& Economics / Forecasting, Business \& Economics / Statistics,
+  Computers / Databases / Data Mining, Computers / Mathematical \& Statistical Software
+language: en
+note: 'Google-Books-ID: \_bBhDwAAQBAJ'
+papis_id: 8c190a4b3c47f18f0dc5ba316d7dd5b7
+publisher: OTexts
+ref: hyndman2018forecasting
+shorttitle: Forecasting
+title: 'Forecasting: principles and practice'
+type: book

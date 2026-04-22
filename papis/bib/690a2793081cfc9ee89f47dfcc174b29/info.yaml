@@ -1,0 +1,15 @@
+author: 'Altmeyer, Patrick and contributors, '
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: contributors
+  given: ''
+date: '2025'
+doi: 10.5281/zenodo.8239378
+files: []
+papis_id: 690a2793081cfc9ee89f47dfcc174b29
+ref: altmeyer2025cejl
+title: JuliaTrustworthyAI/CounterfactualExplanations.jl
+type: software
+url: https://doi.org/10.5281/zenodo.8239378
+version: v1.4.5

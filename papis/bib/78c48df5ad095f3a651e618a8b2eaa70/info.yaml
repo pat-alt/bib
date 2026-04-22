@@ -1,0 +1,21 @@
+author: Migut, MA and Worring, Marcel and Veenman, Cor J
+author_list:
+- family: Migut
+  given: MA
+- family: Worring
+  given: Marcel
+- family: Veenman
+  given: Cor J
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1007/s10618-013-0342-x
+files: []
+journal: Data Mining and Knowledge Discovery
+number: '1'
+pages: 273--295
+papis_id: 78c48df5ad095f3a651e618a8b2eaa70
+ref: migut2015visualizing
+title: Visualizing Multi-Dimensional Decision Boundaries in 2D
+type: article
+volume: '29'
+year: '2015'

@@ -1,0 +1,42 @@
+abstract: As machine learning is increasingly used to inform consequential decision-making
+  (e.g., pre-trial bail and loan approval), it becomes important to explain how the
+  system arrived at its decision, and also suggest actions to achieve a favorable
+  decision. Counterfactual explanations -"how the world would have (had) to be different
+  for a desirable outcome to occur"- aim to satisfy these criteria. Existing works
+  have primarily focused on designing algorithms to obtain counterfactual explanations
+  for a wide range of settings. However, it has largely been overlooked that ultimately,
+  one of the main objectives is to allow people to act rather than just understand.
+  In layman's terms, counterfactual explanations inform an individual where they need
+  to get to, but not how to get there. In this work, we rely on causal reasoning to
+  caution against the use of counterfactual explanations as a recommendable set of
+  actions for recourse. Instead, we propose a shift of paradigm from recourse via
+  nearest counterfactual explanations to recourse through minimal interventions, shifting
+  the focus from explanations to interventions.
+address: New York, NY, USA
+author: Karimi, Amir-Hossein and Schölkopf, Bernhard and Valera, Isabel
+author_list:
+- family: Karimi
+  given: Amir-Hossein
+- family: Schölkopf
+  given: Bernhard
+- family: Valera
+  given: Isabel
+booktitle: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and
+  Transparency
+doi: 10.1145/3442188.3445899
+files: []
+isbn: '9781450383097'
+keywords: algorithmic recourse, causal inference, consequential recommendations, contrastive
+  explanations, counterfactual explanations, explainable artificial intelligence,
+  minimal interventions
+location: Virtual Event, Canada
+numpages: '10'
+pages: 353–362
+papis_id: a86e72fb16b51ab93a504a8aca4d3067
+publisher: Association for Computing Machinery
+ref: karimi2021algorithmic
+series: FAccT '21
+title: 'Algorithmic Recourse: from Counterfactual Explanations to Interventions'
+type: inproceedings
+url: https://doi.org/10.1145/3442188.3445899
+year: '2021'

@@ -1,0 +1,17 @@
+author: Pearl, Judea
+author_list:
+- family: Pearl
+  given: Judea
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1145/3241036
+files: []
+journal: Communications of the ACM
+number: '3'
+pages: 54--60
+papis_id: e84c1ff574098eac978d997ef7a3fa1f
+ref: pearl2019seven
+title: The Seven Tools of Causal Inference, with Reflections on Machine Learning
+type: article
+volume: '62'
+year: '2019'

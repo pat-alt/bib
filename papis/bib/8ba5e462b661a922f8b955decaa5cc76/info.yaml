@@ -1,0 +1,28 @@
+author: Kaur, Harmanpreet and Nori, Harsha and Jenkins, Samuel and Caruana, Rich and
+  Wallach, Hanna and Wortman Vaughan, Jennifer
+author_list:
+- family: Kaur
+  given: Harmanpreet
+- family: Nori
+  given: Harsha
+- family: Jenkins
+  given: Samuel
+- family: Caruana
+  given: Rich
+- family: Wallach
+  given: Hanna
+- family: Wortman Vaughan
+  given: Jennifer
+booktitle: Proceedings of the 2020 {{CHI}} Conference on Human Factors in Computing
+  Systems
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1145/3313831.3376219
+files: []
+pages: 1--14
+papis_id: 8ba5e462b661a922f8b955decaa5cc76
+ref: kaur2020interpreting
+title: 'Interpreting Interpretability: Understanding Data Scientists'' Use of Interpretability
+  Tools for Machine Learning'
+type: inproceedings
+year: '2020'

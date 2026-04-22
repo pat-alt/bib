@@ -1,0 +1,15 @@
+author: McGregor, Sean
+author_list:
+- family: McGregor
+  given: Sean
+booktitle: Proceedings of the AAAI Conference on Artificial Intelligence
+files: []
+number: '17'
+pages: 15458--15463
+papis_id: 45d819c17b7098a51093451b3e15f05d
+ref: mcgregor2021preventing
+title: 'Preventing repeated real world AI failures by cataloging incidents: The AI
+  incident database'
+type: inproceedings
+volume: '35'
+year: '2021'

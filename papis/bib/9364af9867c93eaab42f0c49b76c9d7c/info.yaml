@@ -1,0 +1,25 @@
+author: Christ, Simon and Schwabeneder, Daniel and Rackauckas, Christopher and Borregaard,
+  Michael Krabbe and Breloff, Thomas
+author_list:
+- family: Christ
+  given: Simon
+- family: Schwabeneder
+  given: Daniel
+- family: Rackauckas
+  given: Christopher
+- family: Borregaard
+  given: Michael Krabbe
+- family: Breloff
+  given: Thomas
+copyright: Creative Commons Attribution 4.0 International
+doi: https://doi.org/10.5334/jors.431
+files: []
+keywords: 'Graphics (cs.GR), FOS: Computer and information sciences, FOS: Computer
+  and information sciences, I.3.3'
+papis_id: 9364af9867c93eaab42f0c49b76c9d7c
+publisher: Journal of Open Research Software
+ref: PlotsJL
+title: Plots.jl -- a user extendable plotting API for the julia programming language
+type: article
+url: https://openresearchsoftware.metajnl.com/articles/10.5334/jors.431/
+year: '2023'

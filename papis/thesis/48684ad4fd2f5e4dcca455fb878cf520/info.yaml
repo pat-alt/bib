@@ -1,0 +1,21 @@
+author: Altmeyer, Patrick and Buszydlik, Aleksander and van Deursen, Arie and Liem,
+  Cynthia C. S.
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: Buszydlik
+  given: Aleksander
+- family: van Deursen
+  given: Arie
+- family: Liem
+  given: Cynthia C. S.
+booktitle: 2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)
+files: []
+ids: altmeyer2025counterfactual
+organization: IEEE
+papis_id: 48684ad4fd2f5e4dcca455fb878cf520
+ref: paltmeyer2025counterfactual
+title: 'Counterfactual Training: Teaching Models Plausible and Actionable Explanations'
+type: inproceedings
+url: upcoming
+year: '2026'

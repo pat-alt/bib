@@ -1,0 +1,19 @@
+archiveprefix: arXiv
+author: 'Xiao, Han and Rasul, Kashif and Rol,  and Vollgraf, '
+author_list:
+- family: Xiao
+  given: Han
+- family: Rasul
+  given: Kashif
+- family: Rol
+  given: ''
+- family: Vollgraf
+  given: ''
+eprint: '1708.07747'
+files: []
+papis_id: d28fc845ce6076ecb7426fd4ae62977c
+primaryclass: cs.LG
+ref: xiao2017fashion
+title: 'Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms'
+type: misc
+year: '2017'

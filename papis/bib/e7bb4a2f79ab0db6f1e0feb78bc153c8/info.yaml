@@ -1,0 +1,18 @@
+author: Rudin, Cynthia
+author_list:
+- family: Rudin
+  given: Cynthia
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1038/s42256-019-0048-x
+files: []
+journal: Nature Machine Intelligence
+number: '5'
+pages: 206--215
+papis_id: e7bb4a2f79ab0db6f1e0feb78bc153c8
+ref: rudin2019stop
+title: Stop Explaining Black Box Machine Learning Models for High Stakes Decisions
+  and Use Interpretable Models Instead
+type: article
+volume: '1'
+year: '2019'

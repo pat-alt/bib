@@ -1,0 +1,26 @@
+abstract: 'We  have used  information-theoretic ideas  to derive  a class of prac(cid:173)
+  tical  and  nearly  optimal schemes  for  adapting the size  of a  neural  network.  By  removing  unimportant  weights  from  a  network,  sev(cid:173)
+  eral  improvements  can  be  expected:  better  generalization,  fewer  training
+  examples required,  and improved speed  of learning and/or  classification.  The  basic  idea  is  to  use  second-derivative  informa(cid:173)
+  tion to make a  tradeoff between  network  complexity  and  training  set error.  Experiments
+  confirm  the usefulness  of the methods on a  real-world  application.'
+author: LeCun, Yann and Denker, John and Solla, Sara
+author_list:
+- family: LeCun
+  given: Yann
+- family: Denker
+  given: John
+- family: Solla
+  given: Sara
+booktitle: Advances in {Neural} {Information} {Processing} {Systems}
+date: '1989'
+file: Full Text PDF:https\://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf:application/pdf
+files: []
+papis_id: 6be7e62c907fe3d61c64c5e526007e57
+publisher: Morgan-Kaufmann
+ref: lecun1989optimal
+title: Optimal Brain Damage
+type: inproceedings
+url: https://proceedings.neurips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html
+urldate: '2023-06-30'
+volume: '2'

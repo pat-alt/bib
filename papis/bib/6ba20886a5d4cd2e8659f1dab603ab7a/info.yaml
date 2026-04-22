@@ -1,0 +1,18 @@
+author: Smirnova, Alisa and Yang, Jie and Yang, Dingqi and Cudre-Mauroux, Philippe
+author_list:
+- family: Smirnova
+  given: Alisa
+- family: Yang
+  given: Jie
+- family: Yang
+  given: Dingqi
+- family: Cudre-Mauroux
+  given: Philippe
+files: []
+journal: IEEE Transactions on Knowledge and Data Engineering
+papis_id: 6ba20886a5d4cd2e8659f1dab603ab7a
+publisher: IEEE
+ref: smirnova2022nessy
+title: 'Nessy: A Neuro-Symbolic System for Label Noise Reduction'
+type: article
+year: '2022'

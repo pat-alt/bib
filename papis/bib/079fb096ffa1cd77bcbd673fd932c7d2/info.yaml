@@ -1,0 +1,36 @@
+abstract: Speculative trading activity may either support efficient market functioning
+  or introduce price distortions. Using granular, daily EMIR Trade Repository data
+  on short sterling futures, we investigate the interaction of speculative trading
+  and macroeconomic shocks on UK yield curve pricing over a 16-month sample period
+  from 2018 to 2020. Our results are largely consistent with efficient market functioning
+  throughout the period, although we find some evidence that short speculative positions
+  amplified yield curve moves in response to Brexit shocks, while long speculative
+  positions had a dampening effect.
+author: Altmeyer, Patrick and Boneva, Leva and Kinston, Rafael and Saha, Shreyosi
+  and Stoja, Evarist
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: Boneva
+  given: Leva
+- family: Kinston
+  given: Rafael
+- family: Saha
+  given: Shreyosi
+- family: Stoja
+  given: Evarist
+doi: None
+files: []
+ids: paltmeyer2023yield
+institution: Bank of England
+keywords: Yield curve; economic data surprises; monetary policy surprises; positioning;
+  market efficiency.
+month: Jul
+number: '1029'
+papis_id: 079fb096ffa1cd77bcbd673fd932c7d2
+ref: altmeyer2023yield
+series: Bank of England working papers
+title: Yield curve sensitivity to investor positioning around economic shocks
+type: techreport
+url: https://ideas.repec.org/p/boe/boeewp/1029.html
+year: '2023'

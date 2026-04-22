@@ -1,0 +1,44 @@
+abstract: Convolutional image classifiers can achieve high predictive accuracy, but
+  quantifying their uncertainty remains an unresolved challenge, hindering their deployment
+  in consequential settings. Existing uncertainty quantification techniques, such
+  as Platt scaling, attempt to calibrate the network's probability estimates, but
+  they do not have formal guarantees. We present an algorithm that modifies any classifier
+  to output a predictive set containing the true label with a user-specified probability,
+  such as 90\%. The algorithm is simple and fast like Platt scaling, but provides
+  a formal finite-sample coverage guarantee for every model and dataset. Our method
+  modifies an existing conformal prediction algorithm to give more stable predictive
+  sets by regularizing the small scores of unlikely classes after Platt scaling. In
+  experiments on both Imagenet and Imagenet-V2 with ResNet-152 and other classifiers,
+  our scheme outperforms existing approaches, achieving coverage with sets that are
+  often factors of 5 to 10 smaller than a stand-alone Platt scaling baseline.
+archiveprefix: arXiv
+author: Angelopoulos, Anastasios and Bates, Stephen and Malik, Jitendra and Jordan,
+  Michael I.
+author_list:
+- family: Angelopoulos
+  given: Anastasios
+- family: Bates
+  given: Stephen
+- family: Malik
+  given: Jitendra
+- family: Jordan
+  given: Michael I.
+bdsk-url-1: http://arxiv.org/abs/2009.14193
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '2009.14193'
+eprinttype: arxiv
+file: ':/Users/FA31DU/Zotero/storage/5BYIRBR2/Angelopoulos et al. - 2022 - Uncertainty
+  Sets for Image Classifiers using Confo.pdf:;:/Users/FA31DU/Zotero/storage/2QJAKFKV/2009.html:'
+files: []
+keywords: Computer Science - Computer Vision and Pattern Recognition, Mathematics
+  - Statistics Theory, Statistics - Machine Learning
+month: September
+number: arXiv:2009.14193
+papis_id: 2b3413473d435fd48d6114e3288350ef
+primaryclass: cs, math, stat
+publisher: '{arXiv}'
+ref: angelopoulos2022uncertainty
+title: Uncertainty Sets for Image Classifiers Using Conformal Prediction
+type: misc
+year: '2022'

@@ -1,0 +1,23 @@
+address: Berlin, Heidelberg
+author: Teney, Damien and Abbasnedjad, Ehsan and van den Hengel, Anton
+author_list:
+- family: Teney
+  given: Damien
+- family: Abbasnedjad
+  given: Ehsan
+- family: van den Hengel
+  given: Anton
+booktitle: Computer Vision - ECCV 2020
+doi: 10.1007/978-3-030-58607-2_34
+files: []
+isbn: 978-3-030-58606-5
+location: Glasgow, United Kingdom
+numpages: '20'
+pages: 580--599
+papis_id: e866ecf086f5715d8ec2982cb13b918c
+publisher: Springer-Verlag
+ref: teney2020learning
+title: Learning What Makes a Difference from Counterfactual Examples and Gradient
+  Supervision
+type: inproceedings
+year: '2020'

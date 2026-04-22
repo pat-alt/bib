@@ -1,0 +1,17 @@
+author: Upadhyay, Sohini and Joshi, Shalmali and Lakkaraju, Himabindu
+author_list:
+- family: Upadhyay
+  given: Sohini
+- family: Joshi
+  given: Shalmali
+- family: Lakkaraju
+  given: Himabindu
+files: []
+journal: Advances in Neural Information Processing Systems
+pages: 16926--16937
+papis_id: 8bc44321270f7476b49aff08021c7b3a
+ref: upadhyay2021robust
+title: Towards robust and reliable algorithmic recourse
+type: article
+volume: '34'
+year: '2021'

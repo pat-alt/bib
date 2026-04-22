@@ -1,0 +1,19 @@
+archiveprefix: arXiv
+author: Immer, Alexander and Korzepa, Maciej and Bauer, Matthias
+author_list:
+- family: Immer
+  given: Alexander
+- family: Korzepa
+  given: Maciej
+- family: Bauer
+  given: Matthias
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '2008.08400'
+eprinttype: arxiv
+files: []
+papis_id: 9c5284f27c71f0462d351024feae883f
+ref: immer2020improving
+title: Improving Predictions of Bayesian Neural Networks via Local Linearization
+type: unpublished
+year: '2020'

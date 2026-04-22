@@ -1,0 +1,39 @@
+abstract: Learning from class imbalanced datasets poses challenges for many machine
+  learning algorithms. Many real-world domains are, by definition, class imbalanced
+  by virtue of having a majority class that naturally has many more instances than
+  its minority class (e.g., genuine bank transactions occur much more often than fraudulent
+  ones). Many methods have been proposed to solve the class imbalance problem, among
+  the most popular being oversampling techniques (such as SMOTE). These methods generate
+  synthetic instances in the minority class, to balance the dataset, performing data
+  augmentations that improve the performance of predictive machine learning (ML).
+  In this paper, we advance a novel, data augmentation method (adapted from eXplainable
+  AI), that generates synthetic, counterfactual instances in the minority class. Unlike
+  other oversampling techniques, this method adaptively combines existing instances
+  from the dataset, using actual feature-values rather than interpolating values between
+  instances. Several experiments using four different classifiers and 25 datasets
+  involving binary classes are reported, which show that this Counterfactual Augmentation
+  (CFA) method generates useful synthetic datapoints in the minority class. The experiments
+  also show that CFA is competitive with many other oversampling methods, many of
+  which are variants of SMOTE. The basis for CFA’s performance is discussed, along
+  with the conditions under which it is likely to perform better or worse in future
+  tests.
+author: Temraz, Mohammed and Keane, Mark T.
+author_list:
+- family: Temraz
+  given: Mohammed
+- family: Keane
+  given: Mark T.
+doi: https://doi.org/10.1016/j.mlwa.2022.100375
+files: []
+issn: 2666-8270
+journal: Machine Learning with Applications
+keywords: Counterfactual, Class imbalance problem, Data augmentation, XAI
+pages: '100375'
+papis_id: c4028c79060d1c47281ccbe32a94b6ea
+ref: temraz2022solving
+title: Solving the class imbalance problem using a counterfactual method for data
+  augmentation
+type: article
+url: https://www.sciencedirect.com/science/article/pii/S2666827022000652
+volume: '9'
+year: '2022'

@@ -1,0 +1,14 @@
+author: Dorffner, Georg
+author_list:
+- family: Dorffner
+  given: Georg
+booktitle: Neural Network World
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+papis_id: 5226f955988a9009a04480f458eadcd4
+publisher: '{Citeseer}'
+ref: dorffner1996neural
+title: Neural Networks for Time Series Processing
+type: inproceedings
+year: '1996'

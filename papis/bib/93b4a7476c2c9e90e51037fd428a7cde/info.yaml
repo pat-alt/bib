@@ -1,0 +1,11 @@
+author: LeCun, Yann
+author_list:
+- family: LeCun
+  given: Yann
+files: []
+papis_id: 93b4a7476c2c9e90e51037fd428a7cde
+ref: lecun1998mnist
+title: The MNIST database of handwritten digits
+type: misc
+url: http://yann.lecun.com/exdb/mnist/
+year: '1998'

@@ -1,0 +1,15 @@
+author: Rasmussen, Carl Edward
+author_list:
+- family: Rasmussen
+  given: Carl Edward
+booktitle: Summer School on Machine Learning
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 63--71
+papis_id: 981bf7fbd244d93424fb93d8ae0817fa
+publisher: '{Springer}'
+ref: rasmussen2003gaussian
+title: Gaussian Processes in Machine Learning
+type: inproceedings
+year: '2003'

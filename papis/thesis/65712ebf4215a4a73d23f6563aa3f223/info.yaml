@@ -1,0 +1,23 @@
+author: Altmeyer, Patrick and Farmanbar, Mojtaba and van Deursen, Arie and Liem, Cynthia
+  C. S.
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: Farmanbar
+  given: Mojtaba
+- family: van Deursen
+  given: Arie
+- family: Liem
+  given: Cynthia C. S.
+booktitle: Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence
+doi: 10.1609/aaai.v38i10.28956
+files: []
+ids: altmeyer2024faithful
+number: '10'
+pages: 10829--10837
+papis_id: 65712ebf4215a4a73d23f6563aa3f223
+ref: paltmeyer2024faithful
+title: Faithful Model Explanations through Energy-Constrained Conformal Counterfactuals
+type: inproceedings
+volume: '38'
+year: '2024'

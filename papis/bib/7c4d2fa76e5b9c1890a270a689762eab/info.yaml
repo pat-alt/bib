@@ -1,0 +1,22 @@
+archiveprefix: arXiv
+author: Karimi, Amir-Hossein and Von Kügelgen, Julius and Schölkopf, Bernhard and
+  Valera, Isabel
+author_list:
+- family: Karimi
+  given: Amir-Hossein
+- family: Von Kügelgen
+  given: Julius
+- family: Schölkopf
+  given: Bernhard
+- family: Valera
+  given: Isabel
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+eprint: '2006.06831'
+eprinttype: arxiv
+files: []
+papis_id: 7c4d2fa76e5b9c1890a270a689762eab
+ref: karimi2020algorithmic
+title: 'Algorithmic Recourse under Imperfect Causal Knowledge: A Probabilistic Approach'
+type: unpublished
+year: '2020'

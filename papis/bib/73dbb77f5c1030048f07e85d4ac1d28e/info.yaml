@@ -1,0 +1,18 @@
+author: Gal, Yarin and Ghahramani, Zoubin
+author_list:
+- family: Gal
+  given: Yarin
+- family: Ghahramani
+  given: Zoubin
+booktitle: International Conference on Machine Learning
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 1050--1059
+papis_id: 73dbb77f5c1030048f07e85d4ac1d28e
+publisher: '{PMLR}'
+ref: gal2016dropout
+title: 'Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep
+  Learning'
+type: inproceedings
+year: '2016'

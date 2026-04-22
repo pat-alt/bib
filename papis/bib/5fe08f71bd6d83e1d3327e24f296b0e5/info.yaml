@@ -1,0 +1,25 @@
+author: Dai, Xinyue and Keane, Mark T and Shalloo, Laurence and Ruelle, Elodie and
+  Byrne, Ruth MJ
+author_list:
+- family: Dai
+  given: Xinyue
+- family: Keane
+  given: Mark T
+- family: Shalloo
+  given: Laurence
+- family: Ruelle
+  given: Elodie
+- family: Byrne
+  given: Ruth MJ
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1145/3514094.3534144
+eventtitle: Proceedings of the 2022 {{AAAI}}/{{ACM Conference}} on {{AI}}, {{Ethics}},
+  and {{Society}}
+files: []
+pages: 215--226
+papis_id: 5fe08f71bd6d83e1d3327e24f296b0e5
+ref: dai2022counterfactual
+title: Counterfactual Explanations for Prediction and Diagnosis in Xai
+type: inproceedings
+year: '2022'

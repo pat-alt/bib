@@ -1,0 +1,22 @@
+author: Blundell, Charles and Cornebise, Julien and Kavukcuoglu, Koray and Wierstra,
+  Daan
+author_list:
+- family: Blundell
+  given: Charles
+- family: Cornebise
+  given: Julien
+- family: Kavukcuoglu
+  given: Koray
+- family: Wierstra
+  given: Daan
+booktitle: International Conference on Machine Learning
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 1613--1622
+papis_id: 757d32bb64bc31d50b7e8d5b39fcc0ee
+publisher: '{PMLR}'
+ref: blundell2015weight
+title: Weight Uncertainty in Neural Network
+type: inproceedings
+year: '2015'

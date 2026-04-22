@@ -1,0 +1,25 @@
+author: Teh, Yee Whye and Welling, Max and Osindero, Simon and Hinton, Geoffrey E.
+author_list:
+- family: Teh
+  given: Yee Whye
+- family: Welling
+  given: Max
+- family: Osindero
+  given: Simon
+- family: Hinton
+  given: Geoffrey E.
+files: []
+issn: 1532-4435
+issue_date: 12/1/2003
+journal: J. Mach. Learn. Res.
+month: December
+number: 'null'
+numpages: '26'
+pages: 1235--1260
+papis_id: bf6c69349993fa32ba2b19cf664a641d
+publisher: JMLR.org
+ref: teh2003energy
+title: Energy-based models for sparse overcomplete representations
+type: article
+volume: '4'
+year: '2003'

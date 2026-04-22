@@ -1,0 +1,15 @@
+author: 'Altmeyer, Patrick and contributors, '
+author_list:
+- family: Altmeyer
+  given: Patrick
+- family: contributors
+  given: ''
+doi: 10.5281/zenodo.12799930
+files: []
+papis_id: b372a0774900472f6002fc038e1181da
+ref: altmeyer2024cp
+title: ConformalPrediction.jl
+type: misc
+url: https://doi.org/10.5281/zenodo.12799929
+version: v0.1.13
+year: '2024'

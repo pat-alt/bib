@@ -1,0 +1,22 @@
+archiveprefix: arXiv
+author: Stutz, David and Krishnamurthy,  and Dvijotham,  and Cemgil, Ali Taylan and
+  Doucet, Arnaud
+author_list:
+- family: Stutz
+  given: David
+- family: Krishnamurthy
+  given: ''
+- family: Dvijotham
+  given: ''
+- family: Cemgil
+  given: Ali Taylan
+- family: Doucet
+  given: Arnaud
+eprint: '2110.09192'
+files: []
+papis_id: 0fc9c3e05e2b7d301376865706cf9aa5
+primaryclass: cs.LG
+ref: stutz2022learning
+title: Learning Optimal Conformal Classifiers
+type: misc
+year: '2022'

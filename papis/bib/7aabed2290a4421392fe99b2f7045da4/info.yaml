@@ -1,0 +1,20 @@
+author: Ustun, Berk and Spangher, Alexander and Liu, Yang
+author_list:
+- family: Ustun
+  given: Berk
+- family: Spangher
+  given: Alexander
+- family: Liu
+  given: Yang
+booktitle: Proceedings of the {{Conference}} on {{Fairness}}, {{Accountability}},
+  and {{Transparency}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1145/3287560.3287566
+files: []
+pages: 10--19
+papis_id: 7aabed2290a4421392fe99b2f7045da4
+ref: ustun2019actionable
+title: Actionable Recourse in Linear Classification
+type: inproceedings
+year: '2019'

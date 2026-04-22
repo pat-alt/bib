@@ -1,0 +1,20 @@
+author: Snoek, Jasper and Larochelle, Hugo and Adams, Ryan P.
+author_list:
+- family: Snoek
+  given: Jasper
+- family: Larochelle
+  given: Hugo
+- family: Adams
+  given: Ryan P.
+booktitle: Proceedings of the 26th International Conference on Neural Information
+  Processing Systems - Volume 2
+editor: F. Pereira and C.J. Burges and L. Bottou and K.Q. Weinberger
+files: []
+papis_id: 5d3145dcdbe13f1631ea7c8573ba3e00
+publisher: Curran Associates, Inc.
+ref: snoek2012practical
+series: NIPS'12
+title: Practical Bayesian Optimization of Machine Learning Algorithms
+type: inproceedings
+volume: '25'
+year: '2012'

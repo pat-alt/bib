@@ -1,0 +1,23 @@
+author: Borisov, Vadim and Leemann, Tobias and Seßler, Kathrin and Haug, Johannes
+  and Pawelczyk, Martin and Kasneci, Gjergji
+author_list:
+- family: Borisov
+  given: Vadim
+- family: Leemann
+  given: Tobias
+- family: Seßler
+  given: Kathrin
+- family: Haug
+  given: Johannes
+- family: Pawelczyk
+  given: Martin
+- family: Kasneci
+  given: Gjergji
+files: []
+journal: IEEE Transactions on Neural Networks and Learning Systems
+papis_id: e05aafc83ff081efb59ccc54a6d13c04
+publisher: IEEE
+ref: borisov2022deep
+title: 'Deep neural networks and tabular data: A survey'
+type: article
+year: '2022'

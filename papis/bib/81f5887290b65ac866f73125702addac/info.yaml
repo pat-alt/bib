@@ -1,0 +1,25 @@
+archiveprefix: arXiv
+author: Spooner, Thomas and Dervovic, Danial and Long, Jason and Shepard, Jon and
+  Chen, Jiahao and Magazzeni, Daniele
+author_list:
+- family: Spooner
+  given: Thomas
+- family: Dervovic
+  given: Danial
+- family: Long
+  given: Jason
+- family: Shepard
+  given: Jon
+- family: Chen
+  given: Jiahao
+- family: Magazzeni
+  given: Daniele
+eprint: '2106.15212'
+files: []
+note: arXiv:2106.15212
+papis_id: 81f5887290b65ac866f73125702addac
+primaryclass: cs.LG
+ref: spooner2021counterfactual
+title: Counterfactual Explanations for Arbitrary Regression Models
+type: misc
+year: '2021'

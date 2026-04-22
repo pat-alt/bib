@@ -1,0 +1,13 @@
+archiveprefix: arXiv
+author: Belinkov, Yonatan
+author_list:
+- family: Belinkov
+  given: Yonatan
+eprint: '2102.12452'
+files: []
+papis_id: 9d2e151db05f60eba4d16195f38cb45f
+primaryclass: cs.CL
+ref: belinkov2021probing
+title: 'Probing Classifiers: Promises, Shortcomings, and Advances'
+type: misc
+year: '2021'

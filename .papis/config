@@ -1,0 +1,41 @@
+[settings]
+default-library = bib
+use-git = False
+database-backend = papis
+ref-format = {doc[author_list][0][family]}{doc[year]}{doc[title]:.15}
+
+[bib]
+dir = papis/bib
+default-read-file = bib.bib
+
+[peer]
+dir = papis/peer
+default-read-file = peer.bib
+
+[pre]
+dir = papis/pre
+default-read-file = pre.bib
+
+[soft]
+dir = papis/soft
+default-read-file = soft.bib
+
+[thesis]
+dir = papis/thesis
+default-read-file = thesis.bib
+
+[vardsa]
+dir = papis/vardsa
+default-read-file = vardsa.bib
+
+[sup_bachelors]
+dir = papis/sup_bachelors
+default-read-file = sup_bachelors.bib
+
+[sup_masters]
+dir = papis/sup_masters
+default-read-file = sup_masters.bib
+
+[other]
+dir = papis/other
+default-read-file = other.bib

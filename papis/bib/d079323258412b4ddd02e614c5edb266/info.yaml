@@ -1,0 +1,25 @@
+author: Arous, Ines and Dolamic, Ljiljana and Yang, Jie and Bhardwaj, Akansha and
+  Cuccu, Giuseppe and Cudré-Mauroux, Philippe
+author_list:
+- family: Arous
+  given: Ines
+- family: Dolamic
+  given: Ljiljana
+- family: Yang
+  given: Jie
+- family: Bhardwaj
+  given: Akansha
+- family: Cuccu
+  given: Giuseppe
+- family: Cudré-Mauroux
+  given: Philippe
+booktitle: Proceedings of the AAAI conference on artificial intelligence
+files: []
+number: '7'
+pages: 5868--5876
+papis_id: d079323258412b4ddd02e614c5edb266
+ref: arous2021marta
+title: 'Marta: Leveraging human rationales for explainable text classification'
+type: inproceedings
+volume: '35'
+year: '2021'

@@ -1,0 +1,24 @@
+author: den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn,
+  Mark
+author_list:
+- family: den Hengst
+  given: Floris
+- family: Grua
+  given: Eoin Martino
+- family: el Hassouni
+  given: Ali
+- family: Hoogendoorn
+  given: Mark
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.3233/ds-200028
+files: []
+issue: Preprint
+journal: Data Science
+options: useprefix=true
+pages: 1--41
+papis_id: 849bd75791d7a65878b68213838813e4
+ref: denhengst2020reinforcement
+title: 'Reinforcement Learning for Personalization: A Systematic Literature Review'
+type: article
+year: '2020'

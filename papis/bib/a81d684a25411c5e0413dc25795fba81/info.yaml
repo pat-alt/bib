@@ -1,0 +1,24 @@
+author: Gelman, Andrew and Carlin, John B and Stern, Hal S and Dunson, David B and
+  Vehtari, Aki and Rubin, Donald B
+author_list:
+- family: Gelman
+  given: Andrew
+- family: Carlin
+  given: John B
+- family: Stern
+  given: Hal S
+- family: Dunson
+  given: David B
+- family: Vehtari
+  given: Aki
+- family: Rubin
+  given: Donald B
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+papis_id: a81d684a25411c5e0413dc25795fba81
+publisher: '{CRC press}'
+ref: gelman2013bayesian
+title: Bayesian Data Analysis
+type: book
+year: '2013'

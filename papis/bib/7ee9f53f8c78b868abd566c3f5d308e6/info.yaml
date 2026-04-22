@@ -1,0 +1,31 @@
+abstract: As machine learning models are increasingly deployed in high-stakes domains
+  such as legal and financial decision-making, there has been growing interest in
+  post-hoc methods for generating counterfactual explanations. Such explanations provide
+  individuals adversely impacted by predicted outcomes (e.g., an applicant denied
+  a loan) with recourse—i.e., a description of how they can change their features
+  to obtain a positive outcome. We propose a novel algorithm that leverages adversarial
+  training and PAC confidence sets to learn models that theoretically guarantee recourse
+  to affected individuals with high probability. We demonstrate the efficacy of our
+  approach with extensive experiments on real data.
+address: Red Hook, NY, USA
+articleno: '1432'
+author: Ross, Alexis and Lakkaraju, Himabindu and Bastani, Osbert
+author_list:
+- family: Ross
+  given: Alexis
+- family: Lakkaraju
+  given: Himabindu
+- family: Bastani
+  given: Osbert
+booktitle: Proceedings of the 35th International Conference on Neural Information
+  Processing Systems
+files: []
+isbn: '9781713845393'
+numpages: '13'
+papis_id: 7ee9f53f8c78b868abd566c3f5d308e6
+publisher: Curran Associates Inc.
+ref: ross2021learning
+series: NIPS '21
+title: Learning Models for Actionable Recourse
+type: inproceedings
+year: '2024'

@@ -1,0 +1,20 @@
+author: Zhu, Rong and Ma, Ping and Mahoney, Michael W and Yu, Bin
+author_list:
+- family: Zhu
+  given: Rong
+- family: Ma
+  given: Ping
+- family: Mahoney
+  given: Michael W
+- family: Yu
+  given: Bin
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+journal: arXiv
+pages: arXiv--1509
+papis_id: 26cea9b0562f45ba73adb93772ca704e
+ref: zhu2015optimal
+title: Optimal Subsampling Approaches for Large Sample Linear Regression
+type: article
+year: '2015'

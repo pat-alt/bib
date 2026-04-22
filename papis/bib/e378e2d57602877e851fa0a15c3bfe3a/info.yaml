@@ -1,0 +1,20 @@
+author: Mothilal, Ramaravind K and Sharma, Amit and Tan, Chenhao
+author_list:
+- family: Mothilal
+  given: Ramaravind K
+- family: Sharma
+  given: Amit
+- family: Tan
+  given: Chenhao
+booktitle: Proceedings of the 2020 {{Conference}} on {{Fairness}}, {{Accountability}},
+  and {{Transparency}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1145/3351095.3372850
+files: []
+pages: 607--617
+papis_id: e378e2d57602877e851fa0a15c3bfe3a
+ref: mothilal2020explaining
+title: Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations
+type: inproceedings
+year: '2020'

@@ -1,0 +1,22 @@
+author: Franceschi, Luca and Donini, Michele and Frasconi, Paolo and Pontil, Massimiliano
+author_list:
+- family: Franceschi
+  given: Luca
+- family: Donini
+  given: Michele
+- family: Frasconi
+  given: Paolo
+- family: Pontil
+  given: Massimiliano
+booktitle: Proceedings of the 34th International Conference on Machine Learning
+files: []
+location: Sydney, NSW, Australia
+numpages: '9'
+pages: 1165--1173
+papis_id: 26ab207f1725ec45944640c10d61276c
+publisher: JMLR.org
+ref: franceschi2017forward
+series: ICML'17
+title: Forward and Reverse Gradient-Based Hyperparameter Optimization
+type: inproceedings
+year: '2017'

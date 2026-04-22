@@ -1,0 +1,19 @@
+author: Leonhardt, Jurek and Rudra, Koustav and Anand, Avishek
+author_list:
+- family: Leonhardt
+  given: Jurek
+- family: Rudra
+  given: Koustav
+- family: Anand
+  given: Avishek
+files: []
+journal: ACM Transactions on Information Systems
+number: '4'
+pages: 1--31
+papis_id: 2c81d750d18f40cc9fba0c8e7fba35be
+publisher: ACM New York, NY, USA
+ref: leonhardt2023extractive
+title: Extractive explanations for interpretable text ranking
+type: article
+volume: '41'
+year: '2023'

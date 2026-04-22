@@ -1,0 +1,16 @@
+author: Zhang, G Peter
+author_list:
+- family: Zhang
+  given: G Peter
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1016/s0925-2312(01)00702-0
+files: []
+journal: Neurocomputing
+pages: 159--175
+papis_id: 98964371131a5cf0b2cf581c23521595
+ref: zhang2003time
+title: Time Series Forecasting Using a Hybrid ARIMA and Neural Network Model
+type: article
+volume: '50'
+year: '2003'

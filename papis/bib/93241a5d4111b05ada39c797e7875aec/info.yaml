@@ -1,0 +1,17 @@
+author: Kıcıman, Emre and Ness, Robert and Sharma, Amit and Tan, Chenhao
+author_list:
+- family: Kıcıman
+  given: Emre
+- family: Ness
+  given: Robert
+- family: Sharma
+  given: Amit
+- family: Tan
+  given: Chenhao
+files: []
+journal: arXiv preprint arXiv:2305.00050
+papis_id: 93241a5d4111b05ada39c797e7875aec
+ref: kiciman2023causal
+title: 'Causal reasoning and large language models: Opening a new frontier for causality'
+type: article
+year: '2023'

@@ -1,0 +1,17 @@
+author: Ho, Tin Kam
+author_list:
+- family: Ho
+  given: Tin Kam
+booktitle: Proceedings of 3rd International Conference on Document Analysis and Recognition
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+doi: 10.1109/ICDAR.1995.598994
+files: []
+pages: 278--282
+papis_id: 1a11443efc3ba32a10ee4c272a25680a
+publisher: '{IEEE}'
+ref: ho1995random
+title: Random Decision Forests
+type: inproceedings
+volume: '1'
+year: '1995'

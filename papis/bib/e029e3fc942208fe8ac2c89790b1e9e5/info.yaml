@@ -1,0 +1,29 @@
+author: 'Schut, Lisa and Key, Oscar and McGrath, Rory and Costabello, Luca and Sacaleanu,
+  Bogdan and Gal, Yarin and others, '
+author_list:
+- family: Schut
+  given: Lisa
+- family: Key
+  given: Oscar
+- family: McGrath
+  given: Rory
+- family: Costabello
+  given: Luca
+- family: Sacaleanu
+  given: Bogdan
+- family: Gal
+  given: Yarin
+- family: others
+  given: ''
+booktitle: International {{Conference}} on {{Artificial Intelligence}} and {{Statistics}}
+date-added: 2022-12-13 12:58:01 +0100
+date-modified: 2022-12-13 12:58:01 +0100
+files: []
+pages: 1756--1764
+papis_id: e029e3fc942208fe8ac2c89790b1e9e5
+publisher: '{PMLR}'
+ref: schut2021generating
+title: Generating Interpretable Counterfactual Explanations By Implicit Minimisation
+  of Epistemic and Aleatoric Uncertainties
+type: inproceedings
+year: '2021'
