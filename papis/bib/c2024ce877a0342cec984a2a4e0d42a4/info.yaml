@@ -16,6 +16,8 @@ organization: PMLR
 pages: 1222--1242
 papis_id: c2024ce877a0342cec984a2a4e0d42a4
 ref: altmeyer2024position
+tags:
+- peerreviewed
 title: 'Position: Stop Making Unscientific AGI Performance Claims'
 type: inproceedings
 url: https://proceedings.mlr.press/v235/altmeyer24a.html

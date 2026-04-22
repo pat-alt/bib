@@ -4,34 +4,31 @@ This repo is used to centrally manage my references. It also builds a simple [we
 
 ## Papis
 
-References are managed with [papis](https://github.com/papis/papis). Each `.bib` file corresponds to a papis library stored under `papis/<name>/`; the `.bib` files are regenerated from those libraries.
+References are managed with [papis](https://github.com/papis/papis) as a single library stored under `papis/bib/`. The papis config lives at `~/.config/papis/config` and points here.
 
-### Setup
-
-```sh
-export PAPIS_CONFIG_DIR="$PWD/.papis"
-# optional shell alias
-alias pbib='PAPIS_CONFIG_DIR='"$PWD"'/.papis papis'
-```
-
-Available libraries: `bib` (default), `peer`, `pre`, `soft`, `thesis`, `vardsa`, `sup_bachelors`, `sup_masters`, `other`.
+Categorisation is done with **tags**, not folders. Current tags in use: `peerreviewed`, `preprint`, `software`, `economics`, `thesis`, `sup-bachelors`, `sup-masters`, `other`.
 
 ### Common commands
 
 ```sh
-papis -l peer list                  # list entries in the peer library
-papis -l peer add --from doi 10...  # add a new reference by DOI
-papis -l peer edit                  # pick + edit an entry's info.yaml
-papis -l peer open                  # open the attached PDF (if any)
-papis explore bibtex -b peer.bib pick   # fuzzy-pick from the .bib directly
+papis list                              # list all entries
+papis list tags:peerreviewed            # filter by tag
+papis add --from doi 10...              # add a new reference by DOI
+papis edit                              # pick + edit an entry's info.yaml
+papis open                              # open the attached PDF (if any)
+papis serve                             # browse the library in a web UI
 ```
 
-### Regenerating `.bib` files for Quarto
+### Regenerating `bib.bib` for Quarto
 
-`papis/` is the source of truth; the `.bib` files are build artefacts:
+`papis/bib/` is the source of truth; `bib.bib` is a build artefact used by Quarto:
 
 ```sh
-make bib              # rebuild every .bib from its papis library
-make peer.bib         # rebuild just one
-make render           # make bib && quarto render
+papis export --all --batch --format bibtex --out bib.bib
+```
+
+Export a tag-filtered subset for a project:
+
+```sh
+papis export --query tags:economics --batch --format bibtex --out economics.bib
 ```

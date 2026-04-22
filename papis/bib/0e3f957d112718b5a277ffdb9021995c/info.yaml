@@ -1,0 +1,33 @@
+abstract: This chapter reviews Bayesian methods for inference and forecasting with
+  VAR models. Bayesian inference and, by extension, forecasting depends on numerical
+  methods for simulating from the posterior distribution of the parameters and special
+  attention is given to the implementation of the simulation algorithm.
+added-at: 2024-12-10T00:13:49.000+0100
+author: Karlsson, Sune
+author_list:
+- family: Karlsson
+  given: Sune
+biburl: https://www.bibsonomy.org/bibtex/23874b2c1246885cf8742f15ff45ed276/gdmcbain
+booktitle: Handbook of Economic Forecasting
+chapter: '15'
+doi: https://doi.org/10.1016/B978-0-444-62731-5.00015-4
+editor: Elliott, Graham and Timmermann, Allan
+files: []
+interhash: 4d77d1d945e0a0ff482c84a157741395
+intrahash: 3874b2c1246885cf8742f15ff45ed276
+issn: '15740706'
+keywords: Carlo Cointegration Conditional Large Markov Model Monte Stochastic Structural
+  Time-varying VAR chain forecasts parameters selection volatility
+number: B
+pages: 791--897
+papis_id: 0e3f957d112718b5a277ffdb9021995c
+publisher: Elsevier
+ref: karlsson2013forecasting
+tags:
+- economics
+timestamp: 2024-12-10T00:13:49.000+0100
+title: Forecasting with Bayesian Vector Autoregression
+type: inbook
+url: https://www.sciencedirect.com/science/article/pii/B9780444627315000154
+volume: '2'
+year: '2013'

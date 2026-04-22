@@ -11,6 +11,9 @@ journal: IFC Bulletins chapters
 papis_id: 84d0daf2a0d8714ce2f4daccb722514a
 publisher: Bank for International Settlements
 ref: agusti2023deep
+tags:
+- peerreviewed
+- thesis
 title: Deep vector autoregression for macroeconomic data
 type: article
 url: https://www.bis.org/ifc/publ/ifcb59_39.pdf

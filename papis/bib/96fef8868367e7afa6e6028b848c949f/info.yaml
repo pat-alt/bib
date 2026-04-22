@@ -1,0 +1,14 @@
+author: Woźniak, Tomasz
+author_list:
+- family: Woźniak
+  given: Tomasz
+files: []
+note: R package version 1.0
+papis_id: 96fef8868367e7afa6e6028b848c949f
+ref: wozniak2025bpvars
+tags:
+- economics
+title: 'bpvars: Forecasting with Bayesian Panel Vector Autoregressions'
+type: manual
+url: https://bsvars.org/bpvars/
+year: '2025'

@@ -14,6 +14,9 @@ files: []
 pages: 2412--2432
 papis_id: c55f0fd68dfe8ffc6b06571089a32364
 ref: hengst2024conformal
+tags:
+- peerreviewed
+- thesis
 title: Conformal Intent Classification and Clarification for Fast and Accurate Intent
   Recognition
 type: inproceedings

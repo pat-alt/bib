@@ -12,6 +12,8 @@ files: []
 pages: 958--972
 papis_id: 290a570ed13ff77a28203b0856142a4f
 ref: dobiczek2025natural
+tags:
+- thesis
 title: 'Natural Language Counterfactual Explanations in Financial Text Classification:
   A Comparison of Generators and Evaluation Metrics'
 type: inproceedings

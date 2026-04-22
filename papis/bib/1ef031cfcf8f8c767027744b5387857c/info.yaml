@@ -1,0 +1,15 @@
+author: Caterino, Pasquale
+author_list:
+- family: Caterino
+  given: Pasquale
+date: '2024-09-08'
+files: []
+papis_id: 1ef031cfcf8f8c767027744b5387857c
+ref: caterino2024google
+tags:
+- other
+title: 'Google Summer of Code 2024 Final Report: Add support for Conformalized Bayes
+  to ConformalPrediction.jl'
+type: misc
+url: https://gist.github.com/pasq-cat/f25eebc492366fb6a4f428426f93f45f
+year: '2024'

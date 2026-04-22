@@ -13,6 +13,8 @@ booktitle: Electronic Government. EGOV 2025. Lecture Notes in Computer Science
 files: []
 papis_id: a5606a0213c3483667fdd3462742a84f
 ref: buszydlik2025understanding
+tags:
+- thesis
 title: 'Understanding the Affordances and Constraints of Explainable AI in Safety-Critical
   Contexts: A Case Study in Dutch Social Welfare'
 type: inproceedings
