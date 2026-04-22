@@ -1,6 +1,12 @@
 # bib 📚
 
-This repo is used to centrally manage my references. It also builds a simple [website](http://www.paltmeyer.com/bib/) that provides an overview of the literature included here. For some of the literature, the website also includes my own notes.
+This repo is used to centrally manage my references.
+
+## Requirements
+
+Everything here is built around [papis](https://github.com/papis/papis): the `papis/bib/` directory is a papis library (one folder per entry with an `info.yaml`), and `.papis/config` is the papis configuration that makes it discoverable. Without papis installed, this repo is just a pile of YAML files.
+
+Install it first (any of the options at the link above works — `pipx install papis` is a common choice). The setup script below handles the rest.
 
 ## Setup
 
@@ -39,9 +45,9 @@ papis open                              # open the attached PDF (if any)
 papis serve                             # browse the library in a web UI
 ```
 
-### Regenerating `bib.bib` for Quarto
+### Exporting to BibTeX
 
-`papis/bib/` is the source of truth; `bib.bib` is a build artefact used by Quarto:
+`papis/bib/` is the source of truth; any `.bib` file is a derived artefact:
 
 ```sh
 papis export --all --batch --format bibtex --out bib.bib
