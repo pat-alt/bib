@@ -1,0 +1,10 @@
+[settings]
+default-library = bib
+use-git = False
+database-backend = papis
+ref-word-separator = -
+ref-format = {doc[author_list][0][family]}-{doc[year]}-{doc[title]:.1S}
+
+[bib]
+dir = ~/code/bib/papis/bib
+default-read-file = bib.bib

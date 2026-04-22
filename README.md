@@ -2,11 +2,31 @@
 
 This repo is used to centrally manage my references. It also builds a simple [website](http://www.paltmeyer.com/bib/) that provides an overview of the literature included here. For some of the literature, the website also includes my own notes.
 
+## Setup
+
+On a fresh machine, clone to `~/code/bib` and run the setup script:
+
+```sh
+git clone <repo-url> ~/code/bib
+cd ~/code/bib
+./setup.sh
+```
+
+After that, `papis` works from any directory.
+
+### What the setup script does
+
+It symlinks this repo's `.papis/` directory into `~/.config/papis`, which is papis' XDG default config location. So no `PAPIS_CONFIG_DIR` env var, no per-directory shell hooks — papis just finds the config wherever you run it.
+
+The script is idempotent and refuses to overwrite an existing `~/.config/papis` if it's not already the expected symlink.
+
+### Why `~/code/bib` specifically
+
+The `.papis/config` in this repo uses `dir = ~/code/bib/papis/bib` to locate the library. If you clone elsewhere, edit that path accordingly before running `setup.sh`.
+
 ## Papis
 
-References are managed with [papis](https://github.com/papis/papis) as a single library stored under `papis/bib/`. The papis config lives at `~/.config/papis/config` and points here.
-
-Categorisation is done with **tags**, not folders. Current tags in use: `peerreviewed`, `preprint`, `software`, `economics`, `thesis`, `sup-bachelors`, `sup-masters`, `other`.
+References are managed with [papis](https://github.com/papis/papis) as a single library stored under `papis/bib/`. Categorisation is done with **tags**, not folders. Current tags in use: `peerreviewed`, `preprint`, `software`, `economics`, `thesis`, `sup-bachelors`, `sup-masters`, `other`.
 
 ### Common commands
 
